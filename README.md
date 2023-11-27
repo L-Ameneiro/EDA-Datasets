@@ -57,18 +57,20 @@ Provide an overview of the results of your project, including any relevant metri
 
 ## Instrucciones
 [Provide detailed instructions on how to set up the project on a local machine. This includes any necessary dependencies, software requirements, and installation steps. Make sure to include clear and concise instructions so that others can easily replicate your setup.]
+Todo el proyecto fue desarrollado en Python notebooks (ipynb). Version de Python  3.11.5. <br>
+Para correrlas debe tenerse instalado Python 3.11.5.
 
 ## Librerias utilizadas
 
 **Todas las notebooks** <br>
-pandas <br>
-numpy <br>
-plotly.express <br>
-matplotlib.pyplot <br>
+`pandas` <br>
+`numpy` <br>
+`plotly.express` <br>
+`matplotlib.pyplot` <br>
 <br>
 **Clustering DBSCAN** <br>
-sklearn.cluster<br>
-sklearn.metrics<br>
+`sklearn.cluster`<br>
+`sklearn.metrics`<br>
 <br>
 **Regresion lineal**<br>
 
