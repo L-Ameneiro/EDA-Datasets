@@ -1,4 +1,4 @@
-# Perfiles de consumo electrico
+# Perfiles de consumo electrico y transicion energetica
 
 ### Realizado en el marco del Curso Ingenias DataScience - 2023
 
@@ -60,17 +60,17 @@ Provide an overview of the results of your project, including any relevant metri
 
 ## Librerias utilizadas
 
-**Todas las notebooks**
-pandas
-numpy
-plotly.express
-matplotlib.pyplot
-
-**Clustering DBSCAN**
-sklearn.cluster.
-sklearn.metrics
-
-**Regresion lineal**
+**Todas las notebooks** <br>
+pandas <br>
+numpy <br>
+plotly.express <br>
+matplotlib.pyplot <br>
+<br>
+**Clustering DBSCAN** <br>
+sklearn.cluster<br>
+sklearn.metrics<br>
+<br>
+**Regresion lineal**<br>
 
 
 ## Licencia
