@@ -22,13 +22,17 @@ Como se encuentra posicionada la Argentina en los intentos de transicion energet
 
 [Explain the code structure and how it is organized, including any significant files and their purposes. This will help others understand how to navigate your project and find specific components.]
 
-1. EDA: Analisis exploratorio inicial de los datos. 
+1. EDA.ipynb: Analisis exploratorio inicial de los datos. 
 
-2. Limpieza y procesamiento:
+2. limpieza_procesamiento.ipynb --> Limpieza de datos nulos. Seleccion de variables de interes. Creacion de datasets para los modelos supervisado y no supervisado. 
 
-3. Modelo no supervisado: Estudio de la dependencia de fuentes fosiles
+3. modelo_no_supervisado.ipynb --> Estudio de la dependencia de fuentes fosiles usando un algoritmo de clustering DBSCAN. 
 
-4. Modelo supervisado. Proyeccion de consumo de energia eolica en paises de Sudamerica. 
+4. modelo_supervisado.ipynb --> Proyeccion de consumo de energia eolica en paises de Sudamerica mediante regresion lineal.
+   
+5. visualizaciones.ipynb --> Produccion de graficos para presentacion final. 
+
+   
 
 ## Datasets
 
@@ -77,14 +81,12 @@ Para correrlas debe tenerse instalado Python 3.11.5.
 
 ## Licencia
 
-Los datos, las visualizaciones y el codigo producido por las autoras de este repositorio es de acceso completamente abierto bajo la licencia [Creative Commons BY](https://creativecommons.org/licenses/by/4.0/). Se puede descargar, compartir y modificar siempre que la fuente original sea citada. 
-
+Los datos, las visualizaciones y el codigo producido por las autoras de este repositorio es de acceso completamente abierto bajo la licencia [Creative Commons BY](https://creativecommons.org/licenses/by/4.0/). Se puede descargar, compartir y modificar siempre que la fuente original sea citada.  <br>
 A noviembre de 2023, la misma licencia aplica a los datasets utilizados, producidos por **Our World in Data**. 
 
 ## Agradecimientos
-Este trabajo no hubiera sido posible sin el programa YPF-Ingenias y las instructoras de Jump! Media Chicas. 
-Gracias a Irina, Charly, Gianella y Tamara por la paciencia y a todxs lxs que hacen su aporte para llevar adelante el programa.  
-
+Este trabajo no hubiera sido posible sin el programa YPF-Ingenias y las instructoras de Jump! Media Chicas. <br>
+Gracias a Irina, Charly, Gianella y Tamara por la paciencia y a todxs lxs que hacen su aporte para llevar adelante el programa.  <br>
 Tambien queremos reconocer el enorme aporte de **Our World in Data** por proveer y mantener el dataset fuente utilizado. 
 
 
