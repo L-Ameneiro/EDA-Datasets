@@ -1,1828 +1,1837 @@
-country,continente,year,population,renewables_electricity,nuclear_electricity,low_carbon_electricity,cluster,nivel_ingresos
-Afghanistan,Asia,2011,30.117,0.595,0.0,0.595,4.0,bajo
-Afghanistan,Asia,2012,31.161,0.738,0.0,0.738,4.0,bajo
-Afghanistan,Asia,2013,32.27,0.885,0.0,0.885,4.0,bajo
-Afghanistan,Asia,2014,33.371,1.0,0.0,1.0,4.0,bajo
-Afghanistan,Asia,2015,34.414,1.034,0.0,1.034,4.0,bajo
-Afghanistan,Asia,2016,35.383,1.06,0.0,1.06,4.0,bajo
-Afghanistan,Asia,2017,36.296,1.088,0.0,1.088,4.0,bajo
-Afghanistan,Asia,2018,37.172,0.965,0.0,0.965,4.0,bajo
-Afghanistan,Asia,2019,38.042,0.88,0.0,0.88,4.0,bajo
-Albania,Europa,2011,2.929,4.091,0.0,4.091,0.0,medio-alto
-Albania,Europa,2012,2.914,4.679,0.0,4.679,0.0,medio-alto
-Albania,Europa,2013,2.904,6.89,0.0,6.89,0.0,medio-alto
-Albania,Europa,2014,2.896,4.678,0.0,4.678,0.0,medio-alto
-Albania,Europa,2015,2.891,5.837,0.0,5.837,0.0,medio-alto
-Albania,Europa,2016,2.886,7.706,0.0,7.706,0.0,medio-alto
-Albania,Europa,2017,2.884,4.481,0.0,4.481,0.0,medio-alto
-Albania,Europa,2018,2.883,8.467,0.0,8.467,0.0,medio-alto
-Albania,Europa,2019,2.881,5.176,0.0,5.176,0.0,medio-alto
-Algeria,África,2011,36.661,0.497,0.0,0.497,1.0,bajo-medio
-Algeria,África,2012,37.384,0.616,0.0,0.616,1.0,bajo-medio
-Algeria,África,2013,38.14,0.327,0.0,0.327,1.0,bajo-medio
-Algeria,África,2014,38.924,0.252,0.0,0.252,1.0,bajo-medio
-Algeria,África,2015,39.728,0.221,0.0,0.221,1.0,bajo-medio
-Algeria,África,2016,40.551,0.332,0.0,0.332,1.0,bajo-medio
-Algeria,África,2017,41.389,0.635,0.0,0.635,1.0,bajo-medio
-Algeria,África,2018,42.228,0.73,0.0,0.73,1.0,bajo-medio
-Algeria,África,2019,43.053,0.732,0.0,0.732,1.0,bajo-medio
-American Samoa,Oceanía,2011,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2012,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2013,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2014,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2015,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2016,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2017,0.056,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2018,0.055,0.0,0.0,0.0,1.0,alto
-American Samoa,Oceanía,2019,0.055,0.0,0.0,0.0,1.0,alto
-Angola,África,2011,24.221,3.978,0.0,3.978,2.0,bajo-medio
-Angola,África,2012,25.108,3.748,0.0,3.748,2.0,bajo-medio
-Angola,África,2013,26.016,4.734,0.0,4.734,2.0,bajo-medio
-Angola,África,2014,26.942,5.044,0.0,5.044,2.0,bajo-medio
-Angola,África,2015,27.884,5.097,0.0,5.097,2.0,bajo-medio
-Angola,África,2016,28.842,5.93,0.0,5.93,2.0,bajo-medio
-Angola,África,2017,29.817,7.794,0.0,7.794,2.0,bajo-medio
-Angola,África,2018,30.81,8.865,0.0,8.865,2.0,bajo-medio
-Angola,África,2019,31.825,10.121,0.0,10.121,2.0,bajo-medio
-Antigua and Barbuda,Norteamérica,2011,0.089,0.0,0.0,0.0,1.0,alto
-Antigua and Barbuda,Norteamérica,2012,0.09,0.0,0.0,0.0,1.0,alto
-Antigua and Barbuda,Norteamérica,2013,0.092,0.001,0.0,0.001,1.0,alto
-Antigua and Barbuda,Norteamérica,2014,0.093,0.001,0.0,0.001,1.0,alto
-Antigua and Barbuda,Norteamérica,2015,0.094,0.005,0.0,0.005,1.0,alto
-Antigua and Barbuda,Norteamérica,2016,0.095,0.006,0.0,0.006,1.0,alto
-Antigua and Barbuda,Norteamérica,2017,0.095,0.006,0.0,0.006,1.0,alto
-Antigua and Barbuda,Norteamérica,2018,0.096,0.013,0.0,0.013,1.0,alto
-Antigua and Barbuda,Norteamérica,2019,0.097,0.015,0.0,0.015,1.0,alto
-Argentina,Sudamérica,2011,41.32,32.257,5.894,38.151,-1.0,medio-alto
-Argentina,Sudamérica,2012,41.755,30.914,5.903,36.817,-1.0,medio-alto
-Argentina,Sudamérica,2013,42.196,34.849,5.732,40.58,-1.0,medio-alto
-Argentina,Sudamérica,2014,42.638,33.955,5.258,39.213,-1.0,medio-alto
-Argentina,Sudamérica,2015,43.075,33.741,6.519,40.26,-1.0,medio-alto
-Argentina,Sudamérica,2016,43.508,31.181,7.677,38.858,-1.0,medio-alto
-Argentina,Sudamérica,2017,43.937,33.476,5.716,39.192,-1.0,medio-alto
-Argentina,Sudamérica,2018,44.361,34.843,6.453,41.296,-1.0,medio-alto
-Argentina,Sudamérica,2019,44.781,34.856,7.927,42.783,-1.0,medio-alto
-Armenia,Asia,2011,2.877,2.467,2.357,4.824,-1.0,medio-alto
-Armenia,Asia,2012,2.884,2.303,2.124,4.427,-1.0,medio-alto
-Armenia,Asia,2013,2.898,2.155,2.168,4.323,-1.0,medio-alto
-Armenia,Asia,2014,2.912,1.976,2.266,4.242,-1.0,medio-alto
-Armenia,Asia,2015,2.926,2.188,2.571,4.759,-1.0,medio-alto
-Armenia,Asia,2016,2.936,2.33,2.195,4.525,-1.0,medio-alto
-Armenia,Asia,2017,2.945,2.251,2.411,4.662,-1.0,medio-alto
-Armenia,Asia,2018,2.952,2.316,1.898,4.214,-1.0,medio-alto
-Armenia,Asia,2019,2.958,2.363,2.029,4.392,-1.0,medio-alto
-Aruba,Norteamérica,2011,0.102,0.114,0.0,0.114,1.0,alto
-Aruba,Norteamérica,2012,0.103,0.137,0.0,0.137,1.0,alto
-Aruba,Norteamérica,2013,0.103,0.153,0.0,0.153,1.0,alto
-Aruba,Norteamérica,2014,0.104,0.162,0.0,0.162,1.0,alto
-Aruba,Norteamérica,2015,0.104,0.176,0.0,0.176,1.0,alto
-Aruba,Norteamérica,2016,0.105,0.15,0.0,0.15,1.0,alto
-Aruba,Norteamérica,2017,0.105,0.144,0.0,0.144,1.0,alto
-Aruba,Norteamérica,2018,0.106,0.147,0.0,0.147,1.0,alto
-Aruba,Norteamérica,2019,0.106,0.147,0.0,0.147,1.0,alto
-Australia,Oceanía,2011,22.538,26.273,0.0,26.273,1.0,alto
-Australia,Oceanía,2012,22.904,26.318,0.0,26.318,1.0,alto
-Australia,Oceanía,2013,23.255,32.705,0.0,32.705,1.0,alto
-Australia,Oceanía,2014,23.596,36.112,0.0,36.112,1.0,alto
-Australia,Oceanía,2015,23.932,33.423,0.0,33.423,1.0,alto
-Australia,Oceanía,2016,24.263,37.152,0.0,37.152,1.0,alto
-Australia,Oceanía,2017,24.585,40.206,0.0,40.206,1.0,alto
-Australia,Oceanía,2018,24.898,44.443,0.0,44.443,1.0,alto
-Australia,Oceanía,2019,25.203,54.4,0.0,54.4,1.0,alto
-Austria,Europa,2011,8.454,40.908,0.0,40.908,4.0,alto
-Austria,Europa,2012,8.502,51.328,0.0,51.328,4.0,alto
-Austria,Europa,2013,8.556,50.491,0.0,50.491,4.0,alto
-Austria,Europa,2014,8.615,50.186,0.0,50.186,4.0,alto
-Austria,Europa,2015,8.679,47.582,0.0,47.582,4.0,alto
-Austria,Europa,2016,8.747,51.083,0.0,51.083,4.0,alto
-Austria,Europa,2017,8.82,51.055,0.0,51.055,4.0,alto
-Austria,Europa,2018,8.891,50.036,0.0,50.036,4.0,alto
-Austria,Europa,2019,8.955,55.128,0.0,55.128,4.0,alto
-Azerbaijan,Asia,2011,9.146,2.649,0.0,2.649,1.0,medio-alto
-Azerbaijan,Asia,2012,9.265,1.803,0.0,1.803,1.0,medio-alto
-Azerbaijan,Asia,2013,9.385,1.61,0.0,1.61,1.0,medio-alto
-Azerbaijan,Asia,2014,9.506,1.466,0.0,1.466,1.0,medio-alto
-Azerbaijan,Asia,2015,9.623,1.813,0.0,1.813,1.0,medio-alto
-Azerbaijan,Asia,2016,9.736,2.171,0.0,2.171,1.0,medio-alto
-Azerbaijan,Asia,2017,9.845,1.958,0.0,1.958,1.0,medio-alto
-Azerbaijan,Asia,2018,9.95,2.033,0.0,2.033,1.0,medio-alto
-Azerbaijan,Asia,2019,10.048,1.884,0.0,1.884,1.0,medio-alto
-Bahamas,Norteamérica,2011,0.36,0.001,0.0,0.001,1.0,alto
-Bahamas,Norteamérica,2012,0.364,0.001,0.0,0.001,1.0,alto
-Bahamas,Norteamérica,2013,0.367,0.001,0.0,0.001,1.0,alto
-Bahamas,Norteamérica,2014,0.371,0.002,0.0,0.002,1.0,alto
-Bahamas,Norteamérica,2015,0.374,0.002,0.0,0.002,1.0,alto
-Bahamas,Norteamérica,2016,0.378,0.002,0.0,0.002,1.0,alto
-Bahamas,Norteamérica,2017,0.382,0.002,0.0,0.002,1.0,alto
-Bahamas,Norteamérica,2018,0.386,0.003,0.0,0.003,1.0,alto
-Bahamas,Norteamérica,2019,0.389,0.003,0.0,0.003,1.0,alto
-Bahrain,Asia,2011,1.278,0.002,0.0,0.002,1.0,alto
-Bahrain,Asia,2012,1.3,0.002,0.0,0.002,1.0,alto
-Bahrain,Asia,2013,1.315,0.002,0.0,0.002,1.0,alto
-Bahrain,Asia,2014,1.336,0.009,0.0,0.009,1.0,alto
-Bahrain,Asia,2015,1.372,0.009,0.0,0.009,1.0,alto
-Bahrain,Asia,2016,1.426,0.009,0.0,0.009,1.0,alto
-Bahrain,Asia,2017,1.494,0.009,0.0,0.009,1.0,alto
-Bahrain,Asia,2018,1.569,0.009,0.0,0.009,1.0,alto
-Bahrain,Asia,2019,1.641,0.009,0.0,0.009,1.0,alto
-Bangladesh,Asia,2011,149.272992,0.98,0.0,0.98,1.0,bajo-medio
-Bangladesh,Asia,2012,151.006,0.817,0.0,0.817,1.0,bajo-medio
-Bangladesh,Asia,2013,152.760992,1.08,0.0,1.08,1.0,bajo-medio
-Bangladesh,Asia,2014,154.516992,0.796,0.0,0.796,1.0,bajo-medio
-Bangladesh,Asia,2015,156.256,0.813,0.0,0.813,1.0,bajo-medio
-Bangladesh,Asia,2016,157.976992,1.252,0.0,1.252,1.0,bajo-medio
-Bangladesh,Asia,2017,159.684992,1.308,0.0,1.308,1.0,bajo-medio
-Bangladesh,Asia,2018,161.376992,1.375,0.0,1.375,1.0,bajo-medio
-Bangladesh,Asia,2019,163.046,1.249,0.0,1.249,1.0,bajo-medio
-Barbados,Norteamérica,2011,0.283,0.003,0.0,0.003,1.0,alto
-Barbados,Norteamérica,2012,0.284,0.003,0.0,0.003,1.0,alto
-Barbados,Norteamérica,2013,0.284,0.004,0.0,0.004,1.0,alto
-Barbados,Norteamérica,2014,0.285,0.01,0.0,0.01,1.0,alto
-Barbados,Norteamérica,2015,0.285,0.014,0.0,0.014,1.0,alto
-Barbados,Norteamérica,2016,0.286,0.03,0.0,0.03,1.0,alto
-Barbados,Norteamérica,2017,0.286,0.03,0.0,0.03,1.0,alto
-Barbados,Norteamérica,2018,0.287,0.037,0.0,0.037,1.0,alto
-Barbados,Norteamérica,2019,0.287,0.04,0.0,0.04,1.0,alto
-Belarus,Europa,2011,9.415,0.148,0.0,0.148,1.0,medio-alto
-Belarus,Europa,2012,9.417,0.202,0.0,0.202,1.0,medio-alto
-Belarus,Europa,2013,9.424,0.297,0.0,0.297,1.0,medio-alto
-Belarus,Europa,2014,9.432,0.287,0.0,0.287,1.0,medio-alto
-Belarus,Europa,2015,9.439,0.326,0.0,0.326,1.0,medio-alto
-Belarus,Europa,2016,9.446,0.42,0.0,0.42,1.0,medio-alto
-Belarus,Europa,2017,9.45,0.782,0.0,0.782,1.0,medio-alto
-Belarus,Europa,2018,9.453,0.803,0.0,0.803,1.0,medio-alto
-Belarus,Europa,2019,9.452,1.04,0.0,1.04,1.0,medio-alto
-Belgium,Europa,2011,11.014,8.353,48.234,56.587,-1.0,alto
-Belgium,Europa,2012,11.085,10.438,40.295,50.733,-1.0,alto
-Belgium,Europa,2013,11.154,11.657,42.644,54.301,-1.0,alto
-Belgium,Europa,2014,11.221,12.254,33.703,45.957,-1.0,alto
-Belgium,Europa,2015,11.288,14.499,26.103,40.602,-1.0,alto
-Belgium,Europa,2016,11.354,14.339,43.523,57.862,-1.0,alto
-Belgium,Europa,2017,11.42,15.857,42.227,58.084,-1.0,alto
-Belgium,Europa,2018,11.482,17.139,28.597,45.736,-1.0,alto
-Belgium,Europa,2019,11.539,18.765,42.417,61.181,-1.0,alto
-Belize,Norteamérica,2011,0.33,0.339,0.0,0.339,0.0,medio-alto
-Belize,Norteamérica,2012,0.338,0.302,0.0,0.302,0.0,medio-alto
-Belize,Norteamérica,2013,0.346,0.336,0.0,0.336,0.0,medio-alto
-Belize,Norteamérica,2014,0.353,0.354,0.0,0.354,0.0,medio-alto
-Belize,Norteamérica,2015,0.361,0.358,0.0,0.358,0.0,medio-alto
-Belize,Norteamérica,2016,0.368,0.377,0.0,0.377,0.0,medio-alto
-Belize,Norteamérica,2017,0.376,0.389,0.0,0.389,0.0,medio-alto
-Belize,Norteamérica,2018,0.383,0.386,0.0,0.386,0.0,medio-alto
-Belize,Norteamérica,2019,0.39,0.438,0.0,0.438,0.0,medio-alto
-Benin,África,2011,9.461,0.002,0.0,0.002,1.0,bajo-medio
-Benin,África,2012,9.729,0.002,0.0,0.002,1.0,bajo-medio
-Benin,África,2013,10.005,0.003,0.0,0.003,1.0,bajo-medio
-Benin,África,2014,10.287,0.003,0.0,0.003,1.0,bajo-medio
-Benin,África,2015,10.576,0.007,0.0,0.007,1.0,bajo-medio
-Benin,África,2016,10.872,0.01,0.0,0.01,1.0,bajo-medio
-Benin,África,2017,11.175,0.006,0.0,0.006,1.0,bajo-medio
-Benin,África,2018,11.485,0.005,0.0,0.005,1.0,bajo-medio
-Benin,África,2019,11.801,0.005,0.0,0.005,1.0,bajo-medio
-Bermuda,Norteamérica,2011,0.065,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2012,0.065,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2013,0.064,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2014,0.064,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2015,0.064,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2016,0.063,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2017,0.063,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2018,0.063,0.0,0.0,0.0,1.0,alto
-Bermuda,Norteamérica,2019,0.063,0.0,0.0,0.0,1.0,alto
-Bhutan,Asia,2011,0.693,6.976,0.0,6.976,0.0,bajo-medio
-Bhutan,Asia,2012,0.702,6.746,0.0,6.746,0.0,bajo-medio
-Bhutan,Asia,2013,0.71,7.532,0.0,7.532,0.0,bajo-medio
-Bhutan,Asia,2014,0.719,7.151,0.0,7.151,0.0,bajo-medio
-Bhutan,Asia,2015,0.728,7.733,0.0,7.733,0.0,bajo-medio
-Bhutan,Asia,2016,0.737,7.881,0.0,7.881,0.0,bajo-medio
-Bhutan,Asia,2017,0.746,7.652,0.0,7.652,0.0,bajo-medio
-Bhutan,Asia,2018,0.754,6.891,0.0,6.891,0.0,bajo-medio
-Bhutan,Asia,2019,0.763,6.61,0.0,6.61,0.0,bajo-medio
-Bolivia,Sudamérica,2011,10.213,2.412,0.0,2.412,3.0,bajo-medio
-Bolivia,Sudamérica,2012,10.378,2.413,0.0,2.413,3.0,bajo-medio
-Bolivia,Sudamérica,2013,10.542,2.604,0.0,2.604,3.0,bajo-medio
-Bolivia,Sudamérica,2014,10.707,2.33,0.0,2.33,3.0,bajo-medio
-Bolivia,Sudamérica,2015,10.87,2.659,0.0,2.659,3.0,bajo-medio
-Bolivia,Sudamérica,2016,11.032,1.926,0.0,1.926,3.0,bajo-medio
-Bolivia,Sudamérica,2017,11.193,2.421,0.0,2.421,3.0,bajo-medio
-Bolivia,Sudamérica,2018,11.353,2.968,0.0,2.968,3.0,bajo-medio
-Bolivia,Sudamérica,2019,11.513,3.748,0.0,3.748,3.0,bajo-medio
-Bosnia and Herzegovina,Europa,2011,3.661,4.344,0.0,4.344,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2012,3.605,4.174,0.0,4.174,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2013,3.543,7.165,0.0,7.165,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2014,3.482,5.877,0.0,5.877,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2015,3.429,5.496,0.0,5.496,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2016,3.386,5.611,0.0,5.611,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2017,3.352,3.78,0.0,3.78,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2018,3.324,6.486,0.0,6.486,3.0,medio-alto
-Bosnia and Herzegovina,Europa,2019,3.301,6.315,0.0,6.315,3.0,medio-alto
-Botswana,África,2011,2.015,0.0,0.0,0.0,1.0,medio-alto
-Botswana,África,2012,2.04,0.001,0.0,0.001,1.0,medio-alto
-Botswana,África,2013,2.063,0.002,0.0,0.002,1.0,medio-alto
-Botswana,África,2014,2.089,0.003,0.0,0.003,1.0,medio-alto
-Botswana,África,2015,2.121,0.003,0.0,0.003,1.0,medio-alto
-Botswana,África,2016,2.16,0.005,0.0,0.005,1.0,medio-alto
-Botswana,África,2017,2.205,0.005,0.0,0.005,1.0,medio-alto
-Botswana,África,2018,2.254,0.005,0.0,0.005,1.0,medio-alto
-Botswana,África,2019,2.304,0.005,0.0,0.005,1.0,medio-alto
-Brazil,Sudamérica,2011,197.515008,459.191,14.795,473.986,-1.0,medio-alto
-Brazil,Sudamérica,2012,199.287008,451.891,15.17,467.061,-1.0,medio-alto
-Brazil,Sudamérica,2013,201.036,434.429,14.645,449.074,-1.0,medio-alto
-Brazil,Sudamérica,2014,202.764,428.619,14.463,443.082,-1.0,medio-alto
-Brazil,Sudamérica,2015,204.472,427.281,13.892,441.173,-1.0,medio-alto
-Brazil,Sudamérica,2016,206.163008,461.613,14.97,476.583,-1.0,medio-alto
-Brazil,Sudamérica,2017,207.834,462.938,14.854,477.792,-1.0,medio-alto
-Brazil,Sudamérica,2018,209.468992,490.928,15.674,506.602,-1.0,medio-alto
-Brazil,Sudamérica,2019,211.05,511.053,15.224,526.277,-1.0,medio-alto
-British Virgin Islands,Norteamérica,2011,0.028,0.001,0.0,0.001,1.0,alto
-British Virgin Islands,Norteamérica,2012,0.029,0.001,0.0,0.001,1.0,alto
-British Virgin Islands,Norteamérica,2013,0.029,0.001,0.0,0.001,1.0,alto
-British Virgin Islands,Norteamérica,2014,0.029,0.001,0.0,0.001,1.0,alto
-British Virgin Islands,Norteamérica,2015,0.029,0.002,0.0,0.002,1.0,alto
-British Virgin Islands,Norteamérica,2016,0.029,0.002,0.0,0.002,1.0,alto
-British Virgin Islands,Norteamérica,2017,0.03,0.002,0.0,0.002,1.0,alto
-British Virgin Islands,Norteamérica,2018,0.03,0.002,0.0,0.002,1.0,alto
-British Virgin Islands,Norteamérica,2019,0.03,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2011,0.394,0.0,0.0,0.0,1.0,alto
-Brunei,Asia,2012,0.399,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2013,0.404,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2014,0.41,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2015,0.415,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2016,0.42,0.001,0.0,0.001,1.0,alto
-Brunei,Asia,2017,0.424,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2018,0.429,0.002,0.0,0.002,1.0,alto
-Brunei,Asia,2019,0.433,0.002,0.0,0.002,1.0,alto
-Bulgaria,Europa,2011,7.379,3.889,16.314,20.203,-1.0,medio-alto
-Bulgaria,Europa,2012,7.334,5.278,15.785,21.063,-1.0,medio-alto
-Bulgaria,Europa,2013,7.29,6.882,14.171,21.053,-1.0,medio-alto
-Bulgaria,Europa,2014,7.246,7.385,15.867,23.252,-1.0,medio-alto
-Bulgaria,Europa,2015,7.2,8.76,15.383,24.143,-1.0,medio-alto
-Bulgaria,Europa,2016,7.152,7.045,15.776,22.821,-1.0,medio-alto
-Bulgaria,Europa,2017,7.102,6.131,15.545,21.677,-1.0,medio-alto
-Bulgaria,Europa,2018,7.052,9.3,16.125,25.425,-1.0,medio-alto
-Bulgaria,Europa,2019,7.0,7.173,16.562,23.735,-1.0,medio-alto
-Burkina Faso,África,2011,16.082,0.09,0.0,0.09,1.0,bajo
-Burkina Faso,África,2012,16.571,0.106,0.0,0.106,1.0,bajo
-Burkina Faso,África,2013,17.073,0.116,0.0,0.116,1.0,bajo
-Burkina Faso,África,2014,17.586,0.101,0.0,0.101,1.0,bajo
-Burkina Faso,África,2015,18.111,0.106,0.0,0.106,1.0,bajo
-Burkina Faso,África,2016,18.646,0.155,0.0,0.155,1.0,bajo
-Burkina Faso,África,2017,19.193,0.158,0.0,0.158,1.0,bajo
-Burkina Faso,África,2018,19.751,0.182,0.0,0.182,1.0,bajo
-Burkina Faso,África,2019,20.321,0.194,0.0,0.194,1.0,bajo
-Burundi,África,2011,8.958,0.135,0.0,0.135,4.0,bajo
-Burundi,África,2012,9.246,0.147,0.0,0.147,4.0,bajo
-Burundi,África,2013,9.54,0.148,0.0,0.148,4.0,bajo
-Burundi,África,2014,9.844,0.15,0.0,0.15,4.0,bajo
-Burundi,África,2015,10.16,0.147,0.0,0.147,4.0,bajo
-Burundi,África,2016,10.488,0.155,0.0,0.155,4.0,bajo
-Burundi,África,2017,10.827,0.2,0.0,0.2,4.0,bajo
-Burundi,África,2018,11.175,0.164,0.0,0.164,4.0,bajo
-Burundi,África,2019,11.531,0.234,0.0,0.234,4.0,bajo
-Cambodia,Asia,2011,14.541,0.074,0.0,0.074,3.0,bajo-medio
-Cambodia,Asia,2012,14.78,0.535,0.0,0.535,3.0,bajo-medio
-Cambodia,Asia,2013,15.026,1.02,0.0,1.02,3.0,bajo-medio
-Cambodia,Asia,2014,15.275,1.853,0.0,1.853,3.0,bajo-medio
-Cambodia,Asia,2015,15.521,2.021,0.0,2.021,3.0,bajo-medio
-Cambodia,Asia,2016,15.766,2.638,0.0,2.638,3.0,bajo-medio
-Cambodia,Asia,2017,16.009,2.763,0.0,2.763,3.0,bajo-medio
-Cambodia,Asia,2018,16.25,4.77,0.0,4.77,3.0,bajo-medio
-Cambodia,Asia,2019,16.487,4.119,0.0,4.119,3.0,bajo-medio
-Cameroon,África,2011,20.906,4.417,0.0,4.417,2.0,bajo-medio
-Cameroon,África,2012,21.485,4.281,0.0,4.281,2.0,bajo-medio
-Cameroon,África,2013,22.077,4.402,0.0,4.402,2.0,bajo-medio
-Cameroon,África,2014,22.682,4.408,0.0,4.408,2.0,bajo-medio
-Cameroon,África,2015,23.298,4.36,0.0,4.36,2.0,bajo-medio
-Cameroon,África,2016,23.927,4.378,0.0,4.378,2.0,bajo-medio
-Cameroon,África,2017,24.566,5.093,0.0,5.093,2.0,bajo-medio
-Cameroon,África,2018,25.216,5.032,0.0,5.032,2.0,bajo-medio
-Cameroon,África,2019,25.876,5.401,0.0,5.401,2.0,bajo-medio
-Canada,Norteamérica,2011,34.539,394.433,88.318,482.751,-1.0,alto
-Canada,Norteamérica,2012,34.922,401.106,89.06,490.166,-1.0,alto
-Canada,Norteamérica,2013,35.297,419.705,96.971,516.676,-1.0,alto
-Canada,Norteamérica,2014,35.664,414.21,98.588,512.798,-1.0,alto
-Canada,Norteamérica,2015,36.027,417.339,95.637,512.976,-1.0,alto
-Canada,Norteamérica,2016,36.383,426.154,95.65,521.804,-1.0,alto
-Canada,Norteamérica,2017,36.732,437.096,95.131,532.227,-1.0,alto
-Canada,Norteamérica,2018,37.075,429.615,95.037,524.652,-1.0,alto
-Canada,Norteamérica,2019,37.411,423.82,94.854,518.674,-1.0,alto
-Cayman Islands,Norteamérica,2011,0.058,0.0,0.0,0.0,1.0,alto
-Cayman Islands,Norteamérica,2012,0.059,0.0,0.0,0.0,1.0,alto
-Cayman Islands,Norteamérica,2013,0.06,0.0,0.0,0.0,1.0,alto
-Cayman Islands,Norteamérica,2014,0.061,0.0,0.0,0.0,1.0,alto
-Cayman Islands,Norteamérica,2015,0.062,0.0,0.0,0.0,1.0,alto
-Cayman Islands,Norteamérica,2016,0.063,0.004,0.0,0.004,1.0,alto
-Cayman Islands,Norteamérica,2017,0.063,0.014,0.0,0.014,1.0,alto
-Cayman Islands,Norteamérica,2018,0.064,0.016,0.0,0.016,1.0,alto
-Cayman Islands,Norteamérica,2019,0.065,0.016,0.0,0.016,1.0,alto
-Central African Republic,África,2011,4.419,0.146,0.0,0.146,0.0,bajo
-Central African Republic,África,2012,4.436,0.149,0.0,0.149,0.0,bajo
-Central African Republic,África,2013,4.448,0.137,0.0,0.137,0.0,bajo
-Central African Republic,África,2014,4.464,0.168,0.0,0.168,0.0,bajo
-Central African Republic,África,2015,4.493,0.168,0.0,0.168,0.0,bajo
-Central African Republic,África,2016,4.538,0.169,0.0,0.169,0.0,bajo
-Central African Republic,África,2017,4.596,0.15,0.0,0.15,0.0,bajo
-Central African Republic,África,2018,4.666,0.15,0.0,0.15,0.0,bajo
-Central African Republic,África,2019,4.745,0.15,0.0,0.15,0.0,bajo
-Chad,África,2011,12.361,0.0,0.0,0.0,1.0,bajo
-Chad,África,2012,12.785,0.0,0.0,0.0,1.0,bajo
-Chad,África,2013,13.22,0.0,0.0,0.0,1.0,bajo
-Chad,África,2014,13.664,0.0,0.0,0.0,1.0,bajo
-Chad,África,2015,14.111,0.0,0.0,0.0,1.0,bajo
-Chad,África,2016,14.562,0.009,0.0,0.009,1.0,bajo
-Chad,África,2017,15.017,0.009,0.0,0.009,1.0,bajo
-Chad,África,2018,15.478,0.009,0.0,0.009,1.0,bajo
-Chad,África,2019,15.947,0.009,0.0,0.009,1.0,bajo
-Chile,Sudamérica,2011,17.234,25.948,0.0,25.948,3.0,alto
-Chile,Sudamérica,2012,17.4,25.24,0.0,25.24,3.0,alto
-Chile,Sudamérica,2013,17.572,26.0,0.0,26.0,3.0,alto
-Chile,Sudamérica,2014,17.759,30.062,0.0,30.062,3.0,alto
-Chile,Sudamérica,2015,17.969,32.368,0.0,32.368,3.0,alto
-Chile,Sudamérica,2016,18.209,33.801,0.0,33.801,3.0,alto
-Chile,Sudamérica,2017,18.47,34.374,0.0,34.374,3.0,alto
-Chile,Sudamérica,2018,18.729,37.507,0.0,37.507,3.0,alto
-Chile,Sudamérica,2019,18.952,36.44,0.0,36.44,3.0,alto
-China,Asia,2011,1376.498048,766.2,87.2,853.4,-1.0,medio-alto
-China,Asia,2012,1384.205952,994.28,98.3,1092.58,-1.0,medio-alto
-China,Asia,2013,1391.883008,1077.38,111.5,1188.88,-1.0,medio-alto
-China,Asia,2014,1399.453952,1290.0,133.2,1423.2,-1.0,medio-alto
-China,Asia,2015,1406.848,1391.8,171.4,1563.2,-1.0,medio-alto
-China,Asia,2016,1414.049024,1547.7,213.2,1760.9,-1.0,medio-alto
-China,Asia,2017,1421.021952,1694.2,248.1,1942.3,-1.0,medio-alto
-China,Asia,2018,1427.648,1870.5,294.4,2164.9,-1.0,medio-alto
-China,Asia,2019,1433.784064,2043.258,348.7,2391.958,-1.0,medio-alto
-Colombia,Sudamérica,2011,45.663,50.436,0.0,50.436,4.0,medio-alto
-Colombia,Sudamérica,2012,46.076,49.122,0.0,49.122,4.0,medio-alto
-Colombia,Sudamérica,2013,46.495,50.873,0.0,50.873,4.0,medio-alto
-Colombia,Sudamérica,2014,46.968,48.817,0.0,48.817,4.0,medio-alto
-Colombia,Sudamérica,2015,47.521,49.53,0.0,49.53,4.0,medio-alto
-Colombia,Sudamérica,2016,48.175,50.126,0.0,50.126,4.0,medio-alto
-Colombia,Sudamérica,2017,48.91,62.264,0.0,62.264,4.0,medio-alto
-Colombia,Sudamérica,2018,49.661,60.855,0.0,60.855,4.0,medio-alto
-Colombia,Sudamérica,2019,50.339,55.496,0.0,55.496,4.0,medio-alto
-Comoros,África,2011,0.707,0.005,0.0,0.005,1.0,bajo-medio
-Comoros,África,2012,0.724,0.003,0.0,0.003,1.0,bajo-medio
-Comoros,África,2013,0.742,0.002,0.0,0.002,1.0,bajo-medio
-Comoros,África,2014,0.759,0.002,0.0,0.002,1.0,bajo-medio
-Comoros,África,2015,0.777,0.002,0.0,0.002,1.0,bajo-medio
-Comoros,África,2016,0.796,0.002,0.0,0.002,1.0,bajo-medio
-Comoros,África,2017,0.814,0.0,0.0,0.0,1.0,bajo-medio
-Comoros,África,2018,0.832,0.0,0.0,0.0,1.0,bajo-medio
-Comoros,África,2019,0.851,0.0,0.0,0.0,1.0,bajo-medio
-Congo,África,2011,4.395,0.783,0.0,0.783,3.0,bajo-medio
-Congo,África,2012,4.51,0.977,0.0,0.977,3.0,bajo-medio
-Congo,África,2013,4.623,0.961,0.0,0.961,3.0,bajo-medio
-Congo,África,2014,4.737,0.942,0.0,0.942,3.0,bajo-medio
-Congo,África,2015,4.856,1.088,0.0,1.088,3.0,bajo-medio
-Congo,África,2016,4.981,1.117,0.0,1.117,3.0,bajo-medio
-Congo,África,2017,5.111,1.192,0.0,1.192,3.0,bajo-medio
-Congo,África,2018,5.244,1.228,0.0,1.228,3.0,bajo-medio
-Congo,África,2019,5.381,1.274,0.0,1.274,3.0,bajo-medio
-Cook Islands,Oceanía,2011,0.018,0.0,0.0,0.0,1.0,alto
-Cook Islands,Oceanía,2012,0.018,0.0,0.0,0.0,1.0,alto
-Cook Islands,Oceanía,2013,0.018,0.001,0.0,0.001,1.0,alto
-Cook Islands,Oceanía,2014,0.018,0.001,0.0,0.001,1.0,alto
-Cook Islands,Oceanía,2015,0.018,0.003,0.0,0.003,1.0,alto
-Cook Islands,Oceanía,2016,0.018,0.005,0.0,0.005,1.0,alto
-Cook Islands,Oceanía,2017,0.018,0.006,0.0,0.006,1.0,alto
-Cook Islands,Oceanía,2018,0.018,0.011,0.0,0.011,1.0,alto
-Cook Islands,Oceanía,2019,0.018,0.011,0.0,0.011,1.0,alto
-Costa Rica,Norteamérica,2011,4.633,8.894,0.0,8.894,0.0,medio-alto
-Costa Rica,Norteamérica,2012,4.688,9.273,0.0,9.273,0.0,medio-alto
-Costa Rica,Norteamérica,2013,4.742,8.97,0.0,8.97,0.0,medio-alto
-Costa Rica,Norteamérica,2014,4.795,9.107,0.0,9.107,0.0,medio-alto
-Costa Rica,Norteamérica,2015,4.848,10.623,0.0,10.623,0.0,medio-alto
-Costa Rica,Norteamérica,2016,4.899,10.611,0.0,10.611,0.0,medio-alto
-Costa Rica,Norteamérica,2017,4.95,11.184,0.0,11.184,0.0,medio-alto
-Costa Rica,Norteamérica,2018,4.999,11.258,0.0,11.258,0.0,medio-alto
-Costa Rica,Norteamérica,2019,5.048,11.296,0.0,11.296,0.0,medio-alto
-Croatia,Europa,2011,4.313,5.287,0.0,5.287,2.0,alto
-Croatia,Europa,2012,4.296,5.262,0.0,5.262,2.0,alto
-Croatia,Europa,2013,4.277,9.276,0.0,9.276,2.0,alto
-Croatia,Europa,2014,4.256,9.936,0.0,9.936,2.0,alto
-Croatia,Europa,2015,4.233,7.509,0.0,7.509,2.0,alto
-Croatia,Europa,2016,4.209,8.363,0.0,8.363,2.0,alto
-Croatia,Europa,2017,4.183,7.116,0.0,7.116,2.0,alto
-Croatia,Europa,2018,4.156,9.781,0.0,9.781,2.0,alto
-Croatia,Europa,2019,4.13,8.298,0.0,8.298,2.0,alto
-Cuba,Norteamérica,2011,11.237,0.574,0.0,0.574,1.0,medio-alto
-Cuba,Norteamérica,2012,11.257,0.683,0.0,0.683,1.0,medio-alto
-Cuba,Norteamérica,2013,11.283,0.832,0.0,0.832,1.0,medio-alto
-Cuba,Norteamérica,2014,11.307,0.777,0.0,0.777,1.0,medio-alto
-Cuba,Norteamérica,2015,11.325,0.801,0.0,0.801,1.0,medio-alto
-Cuba,Norteamérica,2016,11.335,0.809,0.0,0.809,1.0,medio-alto
-Cuba,Norteamérica,2017,11.339,0.785,0.0,0.785,1.0,medio-alto
-Cuba,Norteamérica,2018,11.338,0.757,0.0,0.757,1.0,medio-alto
-Cuba,Norteamérica,2019,11.333,0.706,0.0,0.706,1.0,medio-alto
-Cyprus,Europa,2011,1.125,0.178,0.0,0.178,1.0,alto
-Cyprus,Europa,2012,1.135,0.257,0.0,0.257,1.0,alto
-Cyprus,Europa,2013,1.144,0.327,0.0,0.327,1.0,alto
-Cyprus,Europa,2014,1.152,0.317,0.0,0.317,1.0,alto
-Cyprus,Europa,2015,1.161,0.4,0.0,0.4,1.0,alto
-Cyprus,Europa,2016,1.17,0.425,0.0,0.425,1.0,alto
-Cyprus,Europa,2017,1.18,0.435,0.0,0.435,1.0,alto
-Cyprus,Europa,2018,1.189,0.477,0.0,0.477,1.0,alto
-Cyprus,Europa,2019,1.199,0.496,0.0,0.496,1.0,alto
-Czechia,Europa,2011,10.567,7.246,28.283,35.529,-1.0,medio-alto
-Czechia,Europa,2012,10.581,8.065,30.324,38.389,-1.0,medio-alto
-Czechia,Europa,2013,10.587,9.308,30.745,40.053,-1.0,medio-alto
-Czechia,Europa,2014,10.591,9.172,30.325,39.497,-1.0,medio-alto
-Czechia,Europa,2015,10.601,9.42,26.841,36.261,-1.0,medio-alto
-Czechia,Europa,2016,10.619,9.384,24.104,33.488,-1.0,medio-alto
-Czechia,Europa,2017,10.641,9.621,28.34,37.96,-1.0,medio-alto
-Czechia,Europa,2018,10.666,9.425,29.921,39.347,-1.0,medio-alto
-Czechia,Europa,2019,10.689,9.298,30.264,39.562,-1.0,medio-alto
-Democratic Republic of Congo,África,2011,66.755,7.733,0.0,7.733,0.0,bajo-medio
-Democratic Republic of Congo,África,2012,69.021,7.527,0.0,7.527,0.0,bajo-medio
-Democratic Republic of Congo,África,2013,71.359,8.166,0.0,8.166,0.0,bajo-medio
-Democratic Republic of Congo,África,2014,73.767,8.752,0.0,8.752,0.0,bajo-medio
-Democratic Republic of Congo,África,2015,76.245,8.849,0.0,8.849,0.0,bajo-medio
-Democratic Republic of Congo,África,2016,78.789,9.035,0.0,9.035,0.0,bajo-medio
-Democratic Republic of Congo,África,2017,81.399,9.414,0.0,9.414,0.0,bajo-medio
-Democratic Republic of Congo,África,2018,84.068,10.47,0.0,10.47,0.0,bajo-medio
-Democratic Republic of Congo,África,2019,86.791,11.007,0.0,11.007,0.0,bajo-medio
-Denmark,Europa,2011,5.583,14.181,0.0,14.181,2.0,alto
-Denmark,Europa,2012,5.611,14.837,0.0,14.837,2.0,alto
-Denmark,Europa,2013,5.638,15.968,0.0,15.968,2.0,alto
-Denmark,Europa,2014,5.664,17.984,0.0,17.984,2.0,alto
-Denmark,Europa,2015,5.689,18.937,0.0,18.937,2.0,alto
-Denmark,Europa,2016,5.711,18.39,0.0,18.39,2.0,alto
-Denmark,Europa,2017,5.732,21.813,0.0,21.813,2.0,alto
-Denmark,Europa,2018,5.752,20.766,0.0,20.766,2.0,alto
-Denmark,Europa,2019,5.772,22.613,0.0,22.613,2.0,alto
-Djibouti,África,2011,0.854,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2012,0.868,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2013,0.883,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2014,0.899,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2015,0.914,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2016,0.929,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2017,0.944,0.0,0.0,0.0,1.0,bajo-medio
-Djibouti,África,2018,0.959,0.001,0.0,0.001,1.0,bajo-medio
-Djibouti,África,2019,0.974,0.001,0.0,0.001,1.0,bajo-medio
-Dominica,Norteamérica,2011,0.071,0.036,0.0,0.036,3.0,medio-alto
-Dominica,Norteamérica,2012,0.071,0.027,0.0,0.027,3.0,medio-alto
-Dominica,Norteamérica,2013,0.071,0.037,0.0,0.037,3.0,medio-alto
-Dominica,Norteamérica,2014,0.071,0.031,0.0,0.031,3.0,medio-alto
-Dominica,Norteamérica,2015,0.071,0.025,0.0,0.025,3.0,medio-alto
-Dominica,Norteamérica,2016,0.071,0.037,0.0,0.037,3.0,medio-alto
-Dominica,Norteamérica,2017,0.071,0.028,0.0,0.028,3.0,medio-alto
-Dominica,Norteamérica,2018,0.072,0.025,0.0,0.025,3.0,medio-alto
-Dominica,Norteamérica,2019,0.072,0.021,0.0,0.021,3.0,medio-alto
-Dominican Republic,Norteamérica,2011,9.813,1.62,0.0,1.62,1.0,medio-alto
-Dominican Republic,Norteamérica,2012,9.931,1.959,0.0,1.959,1.0,medio-alto
-Dominican Republic,Norteamérica,2013,10.048,2.21,0.0,2.21,1.0,medio-alto
-Dominican Republic,Norteamérica,2014,10.165,1.654,0.0,1.654,1.0,medio-alto
-Dominican Republic,Norteamérica,2015,10.282,1.33,0.0,1.33,1.0,medio-alto
-Dominican Republic,Norteamérica,2016,10.398,1.973,0.0,1.973,1.0,medio-alto
-Dominican Republic,Norteamérica,2017,10.513,2.856,0.0,2.856,1.0,medio-alto
-Dominican Republic,Norteamérica,2018,10.627,2.698,0.0,2.698,1.0,medio-alto
-Dominican Republic,Norteamérica,2019,10.739,2.487,0.0,2.487,1.0,medio-alto
-Ecuador,Sudamérica,2011,15.244,11.303,0.0,11.303,2.0,medio-alto
-Ecuador,Sudamérica,2012,15.474,12.414,0.0,12.414,2.0,medio-alto
-Ecuador,Sudamérica,2013,15.707,11.289,0.0,11.289,2.0,medio-alto
-Ecuador,Sudamérica,2014,15.952,11.838,0.0,11.838,2.0,medio-alto
-Ecuador,Sudamérica,2015,16.212,13.509,0.0,13.509,2.0,medio-alto
-Ecuador,Sudamérica,2016,16.491,16.288,0.0,16.288,2.0,medio-alto
-Ecuador,Sudamérica,2017,16.785,20.456,0.0,20.456,2.0,medio-alto
-Ecuador,Sudamérica,2018,17.084,21.017,0.0,21.017,2.0,medio-alto
-Ecuador,Sudamérica,2019,17.374,24.997,0.0,24.997,2.0,medio-alto
-Egypt,África,2011,84.529,14.863,0.0,14.863,1.0,bajo-medio
-Egypt,África,2012,86.422,14.661,0.0,14.661,1.0,bajo-medio
-Egypt,África,2013,88.405,15.08,0.0,15.08,1.0,bajo-medio
-Egypt,África,2014,90.425,15.693,0.0,15.693,1.0,bajo-medio
-Egypt,África,2015,92.443,15.954,0.0,15.954,1.0,bajo-medio
-Egypt,África,2016,94.447,15.813,0.0,15.813,1.0,bajo-medio
-Egypt,África,2017,96.443,15.84,0.0,15.84,1.0,bajo-medio
-Egypt,África,2018,98.424,16.945,0.0,16.945,1.0,bajo-medio
-Egypt,África,2019,100.388,19.329,0.0,19.329,1.0,bajo-medio
-El Salvador,Norteamérica,2011,6.211,3.719,0.0,3.719,2.0,medio-alto
-El Salvador,Norteamérica,2012,6.238,3.637,0.0,3.637,2.0,medio-alto
-El Salvador,Norteamérica,2013,6.266,3.69,0.0,3.69,2.0,medio-alto
-El Salvador,Norteamérica,2014,6.295,3.618,0.0,3.618,2.0,medio-alto
-El Salvador,Norteamérica,2015,6.325,3.154,0.0,3.154,2.0,medio-alto
-El Salvador,Norteamérica,2016,6.356,3.164,0.0,3.164,2.0,medio-alto
-El Salvador,Norteamérica,2017,6.388,3.603,0.0,3.603,2.0,medio-alto
-El Salvador,Norteamérica,2018,6.421,3.6,0.0,3.6,2.0,medio-alto
-El Salvador,Norteamérica,2019,6.454,3.578,0.0,3.578,2.0,medio-alto
-Equatorial Guinea,África,2011,0.987,0.028,0.0,0.028,3.0,medio-alto
-Equatorial Guinea,África,2012,1.031,0.08,0.0,0.08,3.0,medio-alto
-Equatorial Guinea,África,2013,1.076,0.251,0.0,0.251,3.0,medio-alto
-Equatorial Guinea,África,2014,1.122,0.379,0.0,0.379,3.0,medio-alto
-Equatorial Guinea,África,2015,1.169,0.561,0.0,0.561,3.0,medio-alto
-Equatorial Guinea,África,2016,1.215,0.565,0.0,0.565,3.0,medio-alto
-Equatorial Guinea,África,2017,1.262,0.434,0.0,0.434,3.0,medio-alto
-Equatorial Guinea,África,2018,1.309,0.58,0.0,0.58,3.0,medio-alto
-Equatorial Guinea,África,2019,1.356,0.586,0.0,0.586,3.0,medio-alto
-Eritrea,África,2011,3.214,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2012,3.25,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2013,3.281,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2014,3.311,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2015,3.343,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2016,3.377,0.004,0.0,0.004,1.0,bajo
-Eritrea,África,2017,3.413,0.013,0.0,0.013,1.0,bajo
-Eritrea,África,2018,3.453,0.045,0.0,0.045,1.0,bajo
-Eritrea,África,2019,3.497,0.062,0.0,0.062,1.0,bajo
-Estonia,Europa,2011,1.328,1.18,0.0,1.18,1.0,alto
-Estonia,Europa,2012,1.323,1.476,0.0,1.476,1.0,alto
-Estonia,Europa,2013,1.319,1.22,0.0,1.22,1.0,alto
-Estonia,Europa,2014,1.316,1.389,0.0,1.389,1.0,alto
-Estonia,Europa,2015,1.315,1.502,0.0,1.502,1.0,alto
-Estonia,Europa,2016,1.317,1.524,0.0,1.524,1.0,alto
-Estonia,Europa,2017,1.319,1.801,0.0,1.801,1.0,alto
-Estonia,Europa,2018,1.323,1.989,0.0,1.989,1.0,alto
-Estonia,Europa,2019,1.326,2.077,0.0,2.077,1.0,alto
-Ethiopia,África,2011,90.14,6.283,0.0,6.283,0.0,bajo
-Ethiopia,África,2012,92.727,7.546,0.0,7.546,0.0,bajo
-Ethiopia,África,2013,95.386,8.653,0.0,8.653,0.0,bajo
-Ethiopia,África,2014,98.094,9.47,0.0,9.47,0.0,bajo
-Ethiopia,África,2015,100.835,10.385,0.0,10.385,0.0,bajo
-Ethiopia,África,2016,103.603,12.464,0.0,12.464,0.0,bajo
-Ethiopia,África,2017,106.4,13.137,0.0,13.137,0.0,bajo
-Ethiopia,África,2018,109.224,13.47,0.0,13.47,0.0,bajo
-Ethiopia,África,2019,112.079,14.574,0.0,14.574,0.0,bajo
-Fiji,Oceanía,2011,0.863,0.529,0.0,0.529,2.0,medio-alto
-Fiji,Oceanía,2012,0.865,0.59,0.0,0.59,2.0,medio-alto
-Fiji,Oceanía,2013,0.866,0.587,0.0,0.587,2.0,medio-alto
-Fiji,Oceanía,2014,0.866,0.484,0.0,0.484,2.0,medio-alto
-Fiji,Oceanía,2015,0.869,0.478,0.0,0.478,2.0,medio-alto
-Fiji,Oceanía,2016,0.872,0.554,0.0,0.554,2.0,medio-alto
-Fiji,Oceanía,2017,0.877,0.559,0.0,0.559,2.0,medio-alto
-Fiji,Oceanía,2018,0.883,0.636,0.0,0.636,2.0,medio-alto
-Fiji,Oceanía,2019,0.89,0.642,0.0,0.642,2.0,medio-alto
-Finland,Europa,2011,5.39,24.177,23.187,47.364,-1.0,alto
-Finland,Europa,2012,5.415,28.559,22.987,51.546,-1.0,alto
-Finland,Europa,2013,5.439,25.63,23.606,49.236,-1.0,alto
-Finland,Europa,2014,5.461,26.271,23.58,49.851,-1.0,alto
-Finland,Europa,2015,5.481,30.527,23.245,53.772,-1.0,alto
-Finland,Europa,2016,5.498,30.412,23.203,53.615,-1.0,alto
-Finland,Europa,2017,5.511,31.477,22.477,53.954,-1.0,alto
-Finland,Europa,2018,5.523,32.14,22.793,54.933,-1.0,alto
-Finland,Europa,2019,5.532,31.18,23.802,54.983,-1.0,alto
-France,Europa,2011,63.222,66.026,442.388,508.414,-1.0,alto
-France,Europa,2012,63.564,85.208,425.406,510.614,-1.0,alto
-France,Europa,2013,63.894,99.283,423.685,522.968,-1.0,alto
-France,Europa,2014,64.194,93.961,436.479,530.44,-1.0,alto
-France,Europa,2015,64.453,91.832,437.428,529.26,-1.0,alto
-France,Europa,2016,64.668,99.013,403.195,502.208,-1.0,alto
-France,Europa,2017,64.843,92.617,398.359,490.976,-1.0,alto
-France,Europa,2018,64.991,113.397,412.942,526.339,-1.0,alto
-France,Europa,2019,65.13,112.397,398.942,511.339,-1.0,alto
-French Guiana,Sudamérica,2011,0.238,0.699,0.0,0.699,2.0,alto
-French Guiana,Sudamérica,2012,0.244,0.62,0.0,0.62,2.0,alto
-French Guiana,Sudamérica,2013,0.249,0.547,0.0,0.547,2.0,alto
-French Guiana,Sudamérica,2014,0.255,0.564,0.0,0.564,2.0,alto
-French Guiana,Sudamérica,2015,0.261,0.559,0.0,0.559,2.0,alto
-French Guiana,Sudamérica,2016,0.268,0.499,0.0,0.499,2.0,alto
-French Guiana,Sudamérica,2017,0.275,0.626,0.0,0.626,2.0,alto
-French Guiana,Sudamérica,2018,0.283,0.6,0.0,0.6,2.0,alto
-French Guiana,Sudamérica,2019,0.291,0.613,0.0,0.613,2.0,alto
-French Polynesia,Oceanía,2011,0.268,0.23,0.0,0.23,3.0,alto
-French Polynesia,Oceanía,2012,0.269,0.216,0.0,0.216,3.0,alto
-French Polynesia,Oceanía,2013,0.27,0.175,0.0,0.175,3.0,alto
-French Polynesia,Oceanía,2014,0.272,0.195,0.0,0.195,3.0,alto
-French Polynesia,Oceanía,2015,0.273,0.199,0.0,0.199,3.0,alto
-French Polynesia,Oceanía,2016,0.275,0.217,0.0,0.217,3.0,alto
-French Polynesia,Oceanía,2017,0.276,0.212,0.0,0.212,3.0,alto
-French Polynesia,Oceanía,2018,0.278,0.203,0.0,0.203,3.0,alto
-French Polynesia,Oceanía,2019,0.279,0.22,0.0,0.22,3.0,alto
-Gabon,África,2011,1.685,0.842,0.0,0.842,3.0,medio-alto
-Gabon,África,2012,1.75,0.912,0.0,0.912,3.0,medio-alto
-Gabon,África,2013,1.817,0.939,0.0,0.939,3.0,medio-alto
-Gabon,África,2014,1.884,0.798,0.0,0.798,3.0,medio-alto
-Gabon,África,2015,1.948,0.921,0.0,0.921,3.0,medio-alto
-Gabon,África,2016,2.008,0.956,0.0,0.956,3.0,medio-alto
-Gabon,África,2017,2.065,0.933,0.0,0.933,3.0,medio-alto
-Gabon,África,2018,2.119,0.905,0.0,0.905,3.0,medio-alto
-Gabon,África,2019,2.173,0.9,0.0,0.9,3.0,medio-alto
-Gambia,África,2011,1.848,0.004,0.0,0.004,1.0,bajo
-Gambia,África,2012,1.905,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2013,1.964,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2014,2.024,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2015,2.086,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2016,2.149,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2017,2.214,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2018,2.28,0.003,0.0,0.003,1.0,bajo
-Gambia,África,2019,2.348,0.003,0.0,0.003,1.0,bajo
-Georgia,Asia,2011,4.081,7.811,0.0,7.811,4.0,medio-alto
-Georgia,Asia,2012,4.064,7.151,0.0,7.151,4.0,medio-alto
-Georgia,Asia,2013,4.049,8.188,0.0,8.188,4.0,medio-alto
-Georgia,Asia,2014,4.035,8.252,0.0,8.252,4.0,medio-alto
-Georgia,Asia,2015,4.024,8.369,0.0,8.369,4.0,medio-alto
-Georgia,Asia,2016,4.015,9.245,0.0,9.245,4.0,medio-alto
-Georgia,Asia,2017,4.009,9.206,0.0,9.206,4.0,medio-alto
-Georgia,Asia,2018,4.003,9.934,0.0,9.934,4.0,medio-alto
-Georgia,Asia,2019,3.997,8.928,0.0,8.928,4.0,medio-alto
-Germany,Europa,2011,80.856,124.1,108.0,232.1,-1.0,alto
-Germany,Europa,2012,80.973,143.1,99.5,242.6,-1.0,alto
-Germany,Europa,2013,81.174,152.3,97.3,249.6,-1.0,alto
-Germany,Europa,2014,81.45,162.6,97.1,259.7,-1.0,alto
-Germany,Europa,2015,81.787,188.8,91.8,280.6,-1.0,alto
-Germany,Europa,2016,82.194,189.7,84.6,274.3,-1.0,alto
-Germany,Europa,2017,82.658,216.5,76.3,292.8,-1.0,alto
-Germany,Europa,2018,83.124,224.9,76.0,300.9,-1.0,alto
-Germany,Europa,2019,83.517,242.4,75.1,317.5,-1.0,alto
-Ghana,África,2011,25.388,7.501,0.0,7.501,2.0,bajo-medio
-Ghana,África,2012,25.996,8.006,0.0,8.006,2.0,bajo-medio
-Ghana,África,2013,26.608,8.17,0.0,8.17,2.0,bajo-medio
-Ghana,África,2014,27.224,8.326,0.0,8.326,2.0,bajo-medio
-Ghana,África,2015,27.849,5.809,0.0,5.809,2.0,bajo-medio
-Ghana,África,2016,28.482,5.551,0.0,5.551,2.0,bajo-medio
-Ghana,África,2017,29.121,5.605,0.0,5.605,2.0,bajo-medio
-Ghana,África,2018,29.767,6.007,0.0,6.007,2.0,bajo-medio
-Ghana,África,2019,30.418,6.063,0.0,6.063,2.0,bajo-medio
-Gibraltar,Europa,2011,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2012,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2013,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2014,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2015,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2016,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2017,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2018,0.034,0.0,0.0,0.0,1.0,alto
-Gibraltar,Europa,2019,0.034,0.0,0.0,0.0,1.0,alto
-Greece,Europa,2011,10.829,8.144,0.0,8.144,3.0,alto
-Greece,Europa,2012,10.781,10.151,0.0,10.151,3.0,alto
-Greece,Europa,2013,10.741,14.35,0.0,14.35,3.0,alto
-Greece,Europa,2014,10.701,12.176,0.0,12.176,3.0,alto
-Greece,Europa,2015,10.66,14.85,0.0,14.85,3.0,alto
-Greece,Europa,2016,10.615,14.893,0.0,14.893,3.0,alto
-Greece,Europa,2017,10.569,13.801,0.0,13.801,3.0,alto
-Greece,Europa,2018,10.522,16.148,0.0,16.148,3.0,alto
-Greece,Europa,2019,10.473,15.807,0.0,15.807,3.0,alto
-Greenland,Norteamérica,2011,0.057,0.335,0.0,0.335,4.0,alto
-Greenland,Norteamérica,2012,0.056,0.342,0.0,0.342,4.0,alto
-Greenland,Norteamérica,2013,0.056,0.374,0.0,0.374,4.0,alto
-Greenland,Norteamérica,2014,0.056,0.392,0.0,0.392,4.0,alto
-Greenland,Norteamérica,2015,0.056,0.419,0.0,0.419,4.0,alto
-Greenland,Norteamérica,2016,0.056,0.397,0.0,0.397,4.0,alto
-Greenland,Norteamérica,2017,0.056,0.384,0.0,0.384,4.0,alto
-Greenland,Norteamérica,2018,0.057,0.414,0.0,0.414,4.0,alto
-Greenland,Norteamérica,2019,0.057,0.412,0.0,0.412,4.0,alto
-Grenada,Norteamérica,2011,0.107,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2012,0.107,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2013,0.108,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2014,0.109,0.007,0.0,0.007,1.0,medio-alto
-Grenada,Norteamérica,2015,0.11,0.002,0.0,0.002,1.0,medio-alto
-Grenada,Norteamérica,2016,0.11,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2017,0.111,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2018,0.111,0.003,0.0,0.003,1.0,medio-alto
-Grenada,Norteamérica,2019,0.112,0.003,0.0,0.003,1.0,medio-alto
-Guadeloupe,Norteamérica,2011,0.406,0.233,0.0,0.233,1.0,alto
-Guadeloupe,Norteamérica,2012,0.404,0.204,0.0,0.204,1.0,alto
-Guadeloupe,Norteamérica,2013,0.403,0.202,0.0,0.202,1.0,alto
-Guadeloupe,Norteamérica,2014,0.401,0.218,0.0,0.218,1.0,alto
-Guadeloupe,Norteamérica,2015,0.4,0.209,0.0,0.209,1.0,alto
-Guadeloupe,Norteamérica,2016,0.4,0.197,0.0,0.197,1.0,alto
-Guadeloupe,Norteamérica,2017,0.4,0.209,0.0,0.209,1.0,alto
-Guadeloupe,Norteamérica,2018,0.4,0.215,0.0,0.215,1.0,alto
-Guadeloupe,Norteamérica,2019,0.4,0.224,0.0,0.224,1.0,alto
-Guam,Oceanía,2011,0.16,0.0,0.0,0.0,1.0,alto
-Guam,Oceanía,2012,0.16,0.001,0.0,0.001,1.0,alto
-Guam,Oceanía,2013,0.16,0.002,0.0,0.002,1.0,alto
-Guam,Oceanía,2014,0.161,0.003,0.0,0.003,1.0,alto
-Guam,Oceanía,2015,0.162,0.031,0.0,0.031,1.0,alto
-Guam,Oceanía,2016,0.163,0.066,0.0,0.066,1.0,alto
-Guam,Oceanía,2017,0.164,0.06,0.0,0.06,1.0,alto
-Guam,Oceanía,2018,0.166,0.068,0.0,0.068,1.0,alto
-Guam,Oceanía,2019,0.167,0.068,0.0,0.068,1.0,alto
-Guatemala,Norteamérica,2011,14.949,5.864,0.0,5.864,2.0,medio-alto
-Guatemala,Norteamérica,2012,15.271,6.424,0.0,6.424,2.0,medio-alto
-Guatemala,Norteamérica,2013,15.596,6.994,0.0,6.994,2.0,medio-alto
-Guatemala,Norteamérica,2014,15.923,7.392,0.0,7.392,2.0,medio-alto
-Guatemala,Norteamérica,2015,16.252,6.719,0.0,6.719,2.0,medio-alto
-Guatemala,Norteamérica,2016,16.583,7.354,0.0,7.354,2.0,medio-alto
-Guatemala,Norteamérica,2017,16.915,8.984,0.0,8.984,2.0,medio-alto
-Guatemala,Norteamérica,2018,17.248,8.659,0.0,8.659,2.0,medio-alto
-Guatemala,Norteamérica,2019,17.581,8.064,0.0,8.064,2.0,medio-alto
-Guinea,África,2011,10.42,0.414,0.0,0.414,2.0,bajo-medio
-Guinea,África,2012,10.652,0.487,0.0,0.487,2.0,bajo-medio
-Guinea,África,2013,10.893,0.482,0.0,0.482,2.0,bajo-medio
-Guinea,África,2014,11.151,0.427,0.0,0.427,2.0,bajo-medio
-Guinea,África,2015,11.432,0.902,0.0,0.902,2.0,bajo-medio
-Guinea,África,2016,11.738,1.105,0.0,1.105,2.0,bajo-medio
-Guinea,África,2017,12.068,1.233,0.0,1.233,2.0,bajo-medio
-Guinea,África,2018,12.414,0.762,0.0,0.762,2.0,bajo-medio
-Guinea,África,2019,12.771,0.715,0.0,0.715,2.0,bajo-medio
-Guinea-Bissau,África,2011,1.563,0.0,0.0,0.0,1.0,bajo
-Guinea-Bissau,África,2012,1.605,0.0,0.0,0.0,1.0,bajo
-Guinea-Bissau,África,2013,1.648,0.0,0.0,0.0,1.0,bajo
-Guinea-Bissau,África,2014,1.692,0.0,0.0,0.0,1.0,bajo
-Guinea-Bissau,África,2015,1.737,0.001,0.0,0.001,1.0,bajo
-Guinea-Bissau,África,2016,1.782,0.001,0.0,0.001,1.0,bajo
-Guinea-Bissau,África,2017,1.828,0.001,0.0,0.001,1.0,bajo
-Guinea-Bissau,África,2018,1.874,0.002,0.0,0.002,1.0,bajo
-Guinea-Bissau,África,2019,1.921,0.002,0.0,0.002,1.0,bajo
-Guyana,Sudamérica,2011,0.752,0.013,0.0,0.013,1.0,alto
-Guyana,Sudamérica,2012,0.755,0.019,0.0,0.019,1.0,alto
-Guyana,Sudamérica,2013,0.759,0.022,0.0,0.022,1.0,alto
-Guyana,Sudamérica,2014,0.763,0.022,0.0,0.022,1.0,alto
-Guyana,Sudamérica,2015,0.767,0.029,0.0,0.029,1.0,alto
-Guyana,Sudamérica,2016,0.771,0.022,0.0,0.022,1.0,alto
-Guyana,Sudamérica,2017,0.775,0.019,0.0,0.019,1.0,alto
-Guyana,Sudamérica,2018,0.779,0.019,0.0,0.019,1.0,alto
-Guyana,Sudamérica,2019,0.783,0.014,0.0,0.014,1.0,alto
-Haiti,Norteamérica,2011,10.1,0.121,0.0,0.121,1.0,bajo-medio
-Haiti,Norteamérica,2012,10.251,0.221,0.0,0.221,1.0,bajo-medio
-Haiti,Norteamérica,2013,10.401,0.142,0.0,0.142,1.0,bajo-medio
-Haiti,Norteamérica,2014,10.549,0.091,0.0,0.091,1.0,bajo-medio
-Haiti,Norteamérica,2015,10.696,0.085,0.0,0.085,1.0,bajo-medio
-Haiti,Norteamérica,2016,10.84,0.071,0.0,0.071,1.0,bajo-medio
-Haiti,Norteamérica,2017,10.982,0.127,0.0,0.127,1.0,bajo-medio
-Haiti,Norteamérica,2018,11.123,0.196,0.0,0.196,1.0,bajo-medio
-Haiti,Norteamérica,2019,11.263,0.234,0.0,0.234,1.0,bajo-medio
-Honduras,Norteamérica,2011,8.481,3.441,0.0,3.441,2.0,bajo-medio
-Honduras,Norteamérica,2012,8.641,3.638,0.0,3.638,2.0,bajo-medio
-Honduras,Norteamérica,2013,8.799,3.623,0.0,3.623,2.0,bajo-medio
-Honduras,Norteamérica,2014,8.956,3.358,0.0,3.358,2.0,bajo-medio
-Honduras,Norteamérica,2015,9.113,3.923,0.0,3.923,2.0,bajo-medio
-Honduras,Norteamérica,2016,9.271,4.579,0.0,4.579,2.0,bajo-medio
-Honduras,Norteamérica,2017,9.429,5.557,0.0,5.557,2.0,bajo-medio
-Honduras,Norteamérica,2018,9.588,6.365,0.0,6.365,2.0,bajo-medio
-Honduras,Norteamérica,2019,9.746,6.808,0.0,6.808,2.0,bajo-medio
-Hong Kong,Asia,2011,7.007,0.045,0.0,0.045,1.0,alto
-Hong Kong,Asia,2012,7.047,0.042,0.0,0.042,1.0,alto
-Hong Kong,Asia,2013,7.089,0.038,0.0,0.038,1.0,alto
-Hong Kong,Asia,2014,7.135,0.045,0.0,0.045,1.0,alto
-Hong Kong,Asia,2015,7.186,0.073,0.0,0.073,1.0,alto
-Hong Kong,Asia,2016,7.244,0.092,0.0,0.092,1.0,alto
-Hong Kong,Asia,2017,7.306,0.091,0.0,0.091,1.0,alto
-Hong Kong,Asia,2018,7.372,0.093,0.0,0.093,1.0,alto
-Hong Kong,Asia,2019,7.436,0.1,0.0,0.1,1.0,alto
-Hungary,Europa,2011,9.896,2.708,15.685,18.393,-1.0,alto
-Hungary,Europa,2012,9.864,2.646,15.793,18.439,-1.0,alto
-Hungary,Europa,2013,9.834,2.787,15.37,18.157,-1.0,alto
-Hungary,Europa,2014,9.805,3.151,15.649,18.8,-1.0,alto
-Hungary,Europa,2015,9.778,3.229,15.834,19.063,-1.0,alto
-Hungary,Europa,2016,9.753,3.258,16.054,19.312,-1.0,alto
-Hungary,Europa,2017,9.73,3.482,16.098,19.58,-1.0,alto
-Hungary,Europa,2018,9.708,3.753,15.733,19.486,-1.0,alto
-Hungary,Europa,2019,9.685,4.73,16.287,21.018,-1.0,alto
-Iceland,Europa,2011,0.323,16.849,0.0,16.849,0.0,alto
-Iceland,Europa,2012,0.326,17.293,0.0,17.293,0.0,alto
-Iceland,Europa,2013,0.327,17.995,0.0,17.995,0.0,alto
-Iceland,Europa,2014,0.329,17.8,0.0,17.8,0.0,alto
-Iceland,Europa,2015,0.33,18.554,0.0,18.554,0.0,alto
-Iceland,Europa,2016,0.332,18.169,0.0,18.169,0.0,alto
-Iceland,Europa,2017,0.334,18.844,0.0,18.844,0.0,alto
-Iceland,Europa,2018,0.337,19.43,0.0,19.43,0.0,alto
-Iceland,Europa,2019,0.339,19.262,0.0,19.262,0.0,alto
-India,Asia,2011,1250.288,174.621,32.224,206.844,-1.0,bajo-medio
-India,Asia,2012,1265.779968,168.598,33.14,201.738,-1.0,bajo-medio
-India,Asia,2013,1280.841984,192.275,33.465,225.74,-1.0,bajo-medio
-India,Asia,2014,1295.601024,199.063,34.747,233.81,-1.0,bajo-medio
-India,Asia,2015,1310.151936,188.587,38.153,226.74,-1.0,bajo-medio
-India,Asia,2016,1324.516992,199.483,37.884,237.367,-1.0,bajo-medio
-India,Asia,2017,1338.676992,223.857,38.438,262.295,-1.0,bajo-medio
-India,Asia,2018,1352.642048,254.535,38.12,292.655,-1.0,bajo-medio
-India,Asia,2019,1366.418048,286.385,45.163,331.548,-1.0,bajo-medio
-Indonesia,Asia,2011,245.116,21.888,0.0,21.888,1.0,medio-alto
-Indonesia,Asia,2012,248.452,22.367,0.0,22.367,1.0,medio-alto
-Indonesia,Asia,2013,251.804992,26.354,0.0,26.354,1.0,medio-alto
-Indonesia,Asia,2014,255.128,26.018,0.0,26.018,1.0,medio-alto
-Indonesia,Asia,2015,258.383008,24.797,0.0,24.797,1.0,medio-alto
-Indonesia,Asia,2016,261.556,30.972,0.0,30.972,1.0,medio-alto
-Indonesia,Asia,2017,264.651008,32.074,0.0,32.074,1.0,medio-alto
-Indonesia,Asia,2018,267.671008,49.134,0.0,49.134,1.0,medio-alto
-Indonesia,Asia,2019,270.625984,47.663,0.0,47.663,1.0,medio-alto
-Iran,Asia,2011,74.635,12.176,0.098,12.274,1.0,bajo-medio
-Iran,Asia,2012,75.54,12.553,1.328,13.881,1.0,bajo-medio
-Iran,Asia,2013,76.482,14.837,3.894,18.731,1.0,bajo-medio
-Iran,Asia,2014,77.466,14.13,3.724,17.854,1.0,bajo-medio
-Iran,Asia,2015,78.492,14.184,3.198,17.382,1.0,bajo-medio
-Iran,Asia,2016,79.564,16.535,5.924,22.459,1.0,bajo-medio
-Iran,Asia,2017,80.674,15.315,6.366,21.681,1.0,bajo-medio
-Iran,Asia,2018,81.8,16.221,6.3,22.521,1.0,bajo-medio
-Iran,Asia,2019,82.914,30.737,5.866,36.603,1.0,bajo-medio
-Iraq,Asia,2011,30.725,3.363,0.0,3.363,1.0,medio-alto
-Iraq,Asia,2012,31.89,4.348,0.0,4.348,1.0,medio-alto
-Iraq,Asia,2013,33.157,4.755,0.0,4.755,1.0,medio-alto
-Iraq,Asia,2014,34.412,2.959,0.0,2.959,1.0,medio-alto
-Iraq,Asia,2015,35.572,2.578,0.0,2.578,1.0,medio-alto
-Iraq,Asia,2016,36.611,3.394,0.0,3.394,1.0,medio-alto
-Iraq,Asia,2017,37.553,2.211,0.0,2.211,1.0,medio-alto
-Iraq,Asia,2018,38.434,1.857,0.0,1.857,1.0,medio-alto
-Iraq,Asia,2019,39.31,2.51,0.0,2.51,1.0,medio-alto
-Ireland,Europa,2011,4.591,5.424,0.0,5.424,3.0,alto
-Ireland,Europa,2012,4.608,5.256,0.0,5.256,3.0,alto
-Ireland,Europa,2013,4.615,5.628,0.0,5.628,3.0,alto
-Ireland,Europa,2014,4.627,6.392,0.0,6.392,3.0,alto
-Ireland,Europa,2015,4.652,7.861,0.0,7.861,3.0,alto
-Ireland,Europa,2016,4.696,7.513,0.0,7.513,3.0,alto
-Ireland,Europa,2017,4.753,8.879,0.0,8.879,3.0,alto
-Ireland,Europa,2018,4.819,10.195,0.0,10.195,3.0,alto
-Ireland,Europa,2019,4.882,11.209,0.0,11.209,3.0,alto
-Israel,Asia,2011,7.487,0.281,0.0,0.281,1.0,alto
-Israel,Asia,2012,7.615,0.461,0.0,0.461,1.0,alto
-Israel,Asia,2013,7.735,0.607,0.0,0.607,1.0,alto
-Israel,Asia,2014,7.854,0.957,0.0,0.957,1.0,alto
-Israel,Asia,2015,7.978,1.317,0.0,1.317,1.0,alto
-Israel,Asia,2016,8.109,1.761,0.0,1.761,1.0,alto
-Israel,Asia,2017,8.244,1.729,0.0,1.729,1.0,alto
-Israel,Asia,2018,8.382,1.809,0.0,1.809,1.0,alto
-Israel,Asia,2019,8.519,2.832,0.0,2.832,1.0,alto
-Italy,Europa,2011,59.589,82.96,0.0,82.96,3.0,alto
-Italy,Europa,2012,59.879,92.221,0.0,92.221,3.0,alto
-Italy,Europa,2013,60.167,112.001,0.0,112.001,3.0,alto
-Italy,Europa,2014,60.41,120.67,0.0,120.67,3.0,alto
-Italy,Europa,2015,60.578,108.894,0.0,108.894,3.0,alto
-Italy,Europa,2016,60.663,108.011,0.0,108.011,3.0,alto
-Italy,Europa,2017,60.674,103.886,0.0,103.886,3.0,alto
-Italy,Europa,2018,60.627,114.402,0.0,114.402,3.0,alto
-Italy,Europa,2019,60.55,117.079,0.0,117.079,3.0,alto
-Jamaica,Norteamérica,2011,2.826,0.269,0.0,0.269,1.0,medio-alto
-Jamaica,Norteamérica,2012,2.842,0.284,0.0,0.284,1.0,medio-alto
-Jamaica,Norteamérica,2013,2.859,0.26,0.0,0.26,1.0,medio-alto
-Jamaica,Norteamérica,2014,2.875,0.287,0.0,0.287,1.0,medio-alto
-Jamaica,Norteamérica,2015,2.891,0.283,0.0,0.283,1.0,medio-alto
-Jamaica,Norteamérica,2016,2.906,0.345,0.0,0.345,1.0,medio-alto
-Jamaica,Norteamérica,2017,2.921,0.51,0.0,0.51,1.0,medio-alto
-Jamaica,Norteamérica,2018,2.935,0.544,0.0,0.544,1.0,medio-alto
-Jamaica,Norteamérica,2019,2.948,0.561,0.0,0.561,1.0,medio-alto
-Japan,Asia,2011,128.499,146.116,156.182,302.298,-1.0,alto
-Japan,Asia,2012,128.424,140.574,17.23,157.804,-1.0,alto
-Japan,Asia,2013,128.314,152.118,13.947,166.065,-1.0,alto
-Japan,Asia,2014,128.169,166.545,0.0,166.545,-1.0,alto
-Japan,Asia,2015,127.985,183.412,4.346,187.758,-1.0,alto
-Japan,Asia,2016,127.763,188.028,9.266,197.294,-1.0,alto
-Japan,Asia,2017,127.503,208.35,11.61,219.96,-1.0,alto
-Japan,Asia,2018,127.202,216.343,49.199,265.542,-1.0,alto
-Japan,Asia,2019,126.86,225.538,65.682,291.22,-1.0,alto
-Jordan,Asia,2011,7.663,0.065,0.0,0.065,1.0,bajo-medio
-Jordan,Asia,2012,8.09,0.069,0.0,0.069,1.0,bajo-medio
-Jordan,Asia,2013,8.519,0.061,0.0,0.061,1.0,bajo-medio
-Jordan,Asia,2014,8.919,0.063,0.0,0.063,1.0,bajo-medio
-Jordan,Asia,2015,9.267,0.179,0.0,0.179,1.0,bajo-medio
-Jordan,Asia,2016,9.554,0.858,0.0,0.858,1.0,bajo-medio
-Jordan,Asia,2017,9.786,1.398,0.0,1.398,1.0,bajo-medio
-Jordan,Asia,2018,9.965,2.188,0.0,2.188,1.0,bajo-medio
-Jordan,Asia,2019,10.102,2.717,0.0,2.717,1.0,bajo-medio
-Kazakhstan,Asia,2011,16.491,7.805,0.0,7.805,1.0,medio-alto
-Kazakhstan,Asia,2012,16.752,7.564,0.0,7.564,1.0,medio-alto
-Kazakhstan,Asia,2013,17.026,7.661,0.0,7.661,1.0,medio-alto
-Kazakhstan,Asia,2014,17.303,8.291,0.0,8.291,1.0,medio-alto
-Kazakhstan,Asia,2015,17.572,9.429,0.0,9.429,1.0,medio-alto
-Kazakhstan,Asia,2016,17.831,11.92,0.0,11.92,1.0,medio-alto
-Kazakhstan,Asia,2017,18.08,11.6,0.0,11.6,1.0,medio-alto
-Kazakhstan,Asia,2018,18.32,11.137,0.0,11.137,1.0,medio-alto
-Kazakhstan,Asia,2019,18.551,10.629,0.0,10.629,1.0,medio-alto
-Kenya,África,2011,43.178,5.12,0.0,5.12,4.0,bajo-medio
-Kenya,África,2012,44.343,6.008,0.0,6.008,4.0,bajo-medio
-Kenya,África,2013,45.52,5.915,0.0,5.915,4.0,bajo-medio
-Kenya,África,2014,46.7,6.404,0.0,6.404,4.0,bajo-medio
-Kenya,África,2015,47.878,8.489,0.0,8.489,4.0,bajo-medio
-Kenya,África,2016,49.052,8.011,0.0,8.011,4.0,bajo-medio
-Kenya,África,2017,50.221,8.175,0.0,8.175,4.0,bajo-medio
-Kenya,África,2018,51.393,9.652,0.0,9.652,4.0,bajo-medio
-Kenya,África,2019,52.574,10.192,0.0,10.192,4.0,bajo-medio
-Kiribati,Oceanía,2011,0.105,0.001,0.0,0.001,1.0,bajo-medio
-Kiribati,Oceanía,2012,0.106,0.001,0.0,0.001,1.0,bajo-medio
-Kiribati,Oceanía,2013,0.108,0.001,0.0,0.001,1.0,bajo-medio
-Kiribati,Oceanía,2014,0.109,0.001,0.0,0.001,1.0,bajo-medio
-Kiribati,Oceanía,2015,0.111,0.004,0.0,0.004,1.0,bajo-medio
-Kiribati,Oceanía,2016,0.113,0.005,0.0,0.005,1.0,bajo-medio
-Kiribati,Oceanía,2017,0.114,0.005,0.0,0.005,1.0,bajo-medio
-Kiribati,Oceanía,2018,0.116,0.005,0.0,0.005,1.0,bajo-medio
-Kiribati,Oceanía,2019,0.118,0.005,0.0,0.005,1.0,bajo-medio
-Kuwait,Asia,2011,3.168,0.0,0.0,0.0,1.0,alto
-Kuwait,Asia,2012,3.349,0.0,0.0,0.0,1.0,alto
-Kuwait,Asia,2013,3.526,0.004,0.0,0.004,1.0,alto
-Kuwait,Asia,2014,3.691,0.007,0.0,0.007,1.0,alto
-Kuwait,Asia,2015,3.836,0.009,0.0,0.009,1.0,alto
-Kuwait,Asia,2016,3.957,0.053,0.0,0.053,1.0,alto
-Kuwait,Asia,2017,4.056,0.067,0.0,0.067,1.0,alto
-Kuwait,Asia,2018,4.137,0.084,0.0,0.084,1.0,alto
-Kuwait,Asia,2019,4.207,0.158,0.0,0.158,1.0,alto
-Kyrgyzstan,Asia,2011,5.518,13.998,0.0,13.998,0.0,bajo-medio
-Kyrgyzstan,Asia,2012,5.622,14.037,0.0,14.037,0.0,bajo-medio
-Kyrgyzstan,Asia,2013,5.731,12.996,0.0,12.996,0.0,bajo-medio
-Kyrgyzstan,Asia,2014,5.845,13.165,0.0,13.165,0.0,bajo-medio
-Kyrgyzstan,Asia,2015,5.959,10.989,0.0,10.989,0.0,bajo-medio
-Kyrgyzstan,Asia,2016,6.074,11.379,0.0,11.379,0.0,bajo-medio
-Kyrgyzstan,Asia,2017,6.19,14.061,0.0,14.061,0.0,bajo-medio
-Kyrgyzstan,Asia,2018,6.304,14.175,0.0,14.175,0.0,bajo-medio
-Kyrgyzstan,Asia,2019,6.416,13.706,0.0,13.706,0.0,bajo-medio
-Laos,Asia,2011,6.348,12.839,0.0,12.839,4.0,medio-alto
-Laos,Asia,2012,6.445,12.926,0.0,12.926,4.0,medio-alto
-Laos,Asia,2013,6.541,15.356,0.0,15.356,4.0,medio-alto
-Laos,Asia,2014,6.64,15.126,0.0,15.126,4.0,medio-alto
-Laos,Asia,2015,6.741,13.908,0.0,13.908,4.0,medio-alto
-Laos,Asia,2016,6.846,17.536,0.0,17.536,4.0,medio-alto
-Laos,Asia,2017,6.953,19.93,0.0,19.93,4.0,medio-alto
-Laos,Asia,2018,7.061,22.167,0.0,22.167,4.0,medio-alto
-Laos,Asia,2019,7.169,19.409,0.0,19.409,4.0,medio-alto
-Latvia,Europa,2011,2.094,3.076,0.0,3.076,2.0,alto
-Latvia,Europa,2012,2.069,4.109,0.0,4.109,2.0,alto
-Latvia,Europa,2013,2.045,3.533,0.0,3.533,2.0,alto
-Latvia,Europa,2014,2.021,2.802,0.0,2.802,2.0,alto
-Latvia,Europa,2015,1.998,2.777,0.0,2.777,2.0,alto
-Latvia,Europa,2016,1.974,3.482,0.0,3.482,2.0,alto
-Latvia,Europa,2017,1.951,5.462,0.0,5.462,2.0,alto
-Latvia,Europa,2018,1.928,3.499,0.0,3.499,2.0,alto
-Latvia,Europa,2019,1.907,3.135,0.0,3.135,2.0,alto
-Lebanon,Asia,2011,5.202,0.798,0.0,0.798,1.0,bajo-medio
-Lebanon,Asia,2012,5.538,0.999,0.0,0.999,1.0,bajo-medio
-Lebanon,Asia,2013,5.913,1.263,0.0,1.263,1.0,bajo-medio
-Lebanon,Asia,2014,6.261,0.204,0.0,0.204,1.0,bajo-medio
-Lebanon,Asia,2015,6.533,0.495,0.0,0.495,1.0,bajo-medio
-Lebanon,Asia,2016,6.714,0.412,0.0,0.412,1.0,bajo-medio
-Lebanon,Asia,2017,6.819,0.458,0.0,0.458,1.0,bajo-medio
-Lebanon,Asia,2018,6.859,0.419,0.0,0.419,1.0,bajo-medio
-Lebanon,Asia,2019,6.856,0.387,0.0,0.387,1.0,bajo-medio
-Lesotho,África,2011,2.004,0.49,0.0,0.49,0.0,bajo-medio
-Lesotho,África,2012,2.015,0.486,0.0,0.486,0.0,bajo-medio
-Lesotho,África,2013,2.029,0.515,0.0,0.515,0.0,bajo-medio
-Lesotho,África,2014,2.043,0.521,0.0,0.521,0.0,bajo-medio
-Lesotho,África,2015,2.059,0.533,0.0,0.533,0.0,bajo-medio
-Lesotho,África,2016,2.075,0.523,0.0,0.523,0.0,bajo-medio
-Lesotho,África,2017,2.092,0.54,0.0,0.54,0.0,bajo-medio
-Lesotho,África,2018,2.108,0.54,0.0,0.54,0.0,bajo-medio
-Lesotho,África,2019,2.125,0.542,0.0,0.542,0.0,bajo-medio
-Liberia,África,2011,4.017,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2012,4.136,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2013,4.248,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2014,4.36,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2015,4.472,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2016,4.587,0.0,0.0,0.0,1.0,bajo
-Liberia,África,2017,4.702,0.003,0.0,0.003,1.0,bajo
-Liberia,África,2018,4.819,0.004,0.0,0.004,1.0,bajo
-Liberia,África,2019,4.937,0.004,0.0,0.004,1.0,bajo
-Libya,África,2011,6.247,0.006,0.0,0.006,1.0,medio-alto
-Libya,África,2012,6.286,0.007,0.0,0.007,1.0,medio-alto
-Libya,África,2013,6.32,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2014,6.362,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2015,6.418,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2016,6.492,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2017,6.581,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2018,6.679,0.008,0.0,0.008,1.0,medio-alto
-Libya,África,2019,6.777,0.008,0.0,0.008,1.0,medio-alto
-Lithuania,Europa,2011,3.083,1.113,0.0,1.113,2.0,alto
-Lithuania,Europa,2012,3.046,1.183,0.0,1.183,2.0,alto
-Lithuania,Europa,2013,3.009,1.525,0.0,1.525,2.0,alto
-Lithuania,Europa,2014,2.971,1.511,0.0,1.511,2.0,alto
-Lithuania,Europa,2015,2.932,1.679,0.0,1.679,2.0,alto
-Lithuania,Europa,2016,2.89,2.095,0.0,2.095,2.0,alto
-Lithuania,Europa,2017,2.845,2.538,0.0,2.538,2.0,alto
-Lithuania,Europa,2018,2.801,2.205,0.0,2.205,2.0,alto
-Lithuania,Europa,2019,2.76,2.439,0.0,2.439,2.0,alto
-Luxembourg,Europa,2011,0.519,0.246,0.0,0.246,3.0,alto
-Luxembourg,Europa,2012,0.531,0.308,0.0,0.308,3.0,alto
-Luxembourg,Europa,2013,0.543,0.37,0.0,0.37,3.0,alto
-Luxembourg,Europa,2014,0.555,0.398,0.0,0.398,3.0,alto
-Luxembourg,Europa,2015,0.567,0.431,0.0,0.431,3.0,alto
-Luxembourg,Europa,2016,0.579,0.457,0.0,0.457,3.0,alto
-Luxembourg,Europa,2017,0.592,0.6,0.0,0.6,3.0,alto
-Luxembourg,Europa,2018,0.604,0.684,0.0,0.684,3.0,alto
-Luxembourg,Europa,2019,0.616,0.684,0.0,0.684,3.0,alto
-Madagascar,África,2011,21.744,0.702,0.0,0.702,3.0,bajo
-Madagascar,África,2012,22.347,0.768,0.0,0.768,3.0,bajo
-Madagascar,África,2013,22.961,0.827,0.0,0.827,3.0,bajo
-Madagascar,África,2014,23.59,0.908,0.0,0.908,3.0,bajo
-Madagascar,África,2015,24.234,0.958,0.0,0.958,3.0,bajo
-Madagascar,África,2016,24.894,0.921,0.0,0.921,3.0,bajo
-Madagascar,África,2017,25.571,0.831,0.0,0.831,3.0,bajo
-Madagascar,África,2018,26.262,1.008,0.0,1.008,3.0,bajo
-Madagascar,África,2019,26.969,1.022,0.0,1.022,3.0,bajo
-Malawi,África,2011,14.962,1.839,0.0,1.839,0.0,bajo
-Malawi,África,2012,15.396,1.916,0.0,1.916,0.0,bajo
-Malawi,África,2013,15.839,1.924,0.0,1.924,0.0,bajo
-Malawi,África,2014,16.29,2.034,0.0,2.034,0.0,bajo
-Malawi,África,2015,16.745,2.032,0.0,2.032,0.0,bajo
-Malawi,África,2016,17.205,2.021,0.0,2.021,0.0,bajo
-Malawi,África,2017,17.67,1.915,0.0,1.915,0.0,bajo
-Malawi,África,2018,18.143,1.457,0.0,1.457,0.0,bajo
-Malawi,África,2019,18.629,1.262,0.0,1.262,0.0,bajo
-Malaysia,Asia,2011,28.651,8.631,0.0,8.631,1.0,medio-alto
-Malaysia,Asia,2012,29.068,9.839,0.0,9.839,1.0,medio-alto
-Malaysia,Asia,2013,29.469,12.97,0.0,12.97,1.0,medio-alto
-Malaysia,Asia,2014,29.867,14.336,0.0,14.336,1.0,medio-alto
-Malaysia,Asia,2015,30.271,16.39,0.0,16.39,1.0,medio-alto
-Malaysia,Asia,2016,30.685,21.223,0.0,21.223,1.0,medio-alto
-Malaysia,Asia,2017,31.105,27.618,0.0,27.618,1.0,medio-alto
-Malaysia,Asia,2018,31.528,27.957,0.0,27.957,1.0,medio-alto
-Malaysia,Asia,2019,31.95,29.082,0.0,29.082,1.0,medio-alto
-Maldives,Asia,2011,0.38,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2012,0.397,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2013,0.416,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2014,0.435,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2015,0.455,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2016,0.476,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2017,0.496,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2018,0.516,0.002,0.0,0.002,1.0,medio-alto
-Maldives,Asia,2019,0.531,0.002,0.0,0.002,1.0,medio-alto
-Mali,África,2011,15.515,1.213,0.0,1.213,2.0,bajo
-Mali,África,2012,15.979,1.317,0.0,1.317,2.0,bajo
-Mali,África,2013,16.45,1.192,0.0,1.192,2.0,bajo
-Mali,África,2014,16.934,1.46,0.0,1.46,2.0,bajo
-Mali,África,2015,17.439,1.204,0.0,1.204,2.0,bajo
-Mali,África,2016,17.965,1.563,0.0,1.563,2.0,bajo
-Mali,África,2017,18.512,1.569,0.0,1.569,2.0,bajo
-Mali,África,2018,19.078,1.447,0.0,1.447,2.0,bajo
-Mali,África,2019,19.658,1.527,0.0,1.527,2.0,bajo
-Malta,Europa,2011,0.418,0.01,0.0,0.01,1.0,alto
-Malta,Europa,2012,0.422,0.026,0.0,0.026,1.0,alto
-Malta,Europa,2013,0.426,0.035,0.0,0.035,1.0,alto
-Malta,Europa,2014,0.43,0.075,0.0,0.075,1.0,alto
-Malta,Europa,2015,0.434,0.102,0.0,0.102,1.0,alto
-Malta,Europa,2016,0.436,0.136,0.0,0.136,1.0,alto
-Malta,Europa,2017,0.438,0.172,0.0,0.172,1.0,alto
-Malta,Europa,2018,0.439,0.199,0.0,0.199,1.0,alto
-Malta,Europa,2019,0.44,0.199,0.0,0.199,1.0,alto
-Martinique,Norteamérica,2011,0.392,0.016,0.0,0.016,1.0,medio-alto
-Martinique,Norteamérica,2012,0.388,0.021,0.0,0.021,1.0,medio-alto
-Martinique,Norteamérica,2013,0.385,0.018,0.0,0.018,1.0,medio-alto
-Martinique,Norteamérica,2014,0.381,0.025,0.0,0.025,1.0,medio-alto
-Martinique,Norteamérica,2015,0.378,0.029,0.0,0.029,1.0,medio-alto
-Martinique,Norteamérica,2016,0.377,0.03,0.0,0.03,1.0,medio-alto
-Martinique,Norteamérica,2017,0.376,0.026,0.0,0.026,1.0,medio-alto
-Martinique,Norteamérica,2018,0.376,0.096,0.0,0.096,1.0,medio-alto
-Martinique,Norteamérica,2019,0.376,0.117,0.0,0.117,1.0,medio-alto
-Mauritania,África,2011,3.599,0.13,0.0,0.13,3.0,bajo-medio
-Mauritania,África,2012,3.707,0.136,0.0,0.136,3.0,bajo-medio
-Mauritania,África,2013,3.817,0.209,0.0,0.209,3.0,bajo-medio
-Mauritania,África,2014,3.931,0.223,0.0,0.223,3.0,bajo-medio
-Mauritania,África,2015,4.046,0.32,0.0,0.32,3.0,bajo-medio
-Mauritania,África,2016,4.164,0.291,0.0,0.291,3.0,bajo-medio
-Mauritania,África,2017,4.283,0.335,0.0,0.335,3.0,bajo-medio
-Mauritania,África,2018,4.403,0.438,0.0,0.438,3.0,bajo-medio
-Mauritania,África,2019,4.526,0.448,0.0,0.448,3.0,bajo-medio
-Mauritius,África,2011,1.251,0.551,0.0,0.551,-1.0,medio-alto
-Mauritius,África,2012,1.253,0.578,0.0,0.578,-1.0,medio-alto
-Mauritius,África,2013,1.255,0.594,0.0,0.594,-1.0,medio-alto
-Mauritius,África,2014,1.257,0.595,0.0,0.595,-1.0,medio-alto
-Mauritius,África,2015,1.259,0.68,0.0,0.68,-1.0,medio-alto
-Mauritius,África,2016,1.262,0.663,0.0,0.663,-1.0,medio-alto
-Mauritius,África,2017,1.264,0.623,0.0,0.623,-1.0,medio-alto
-Mauritius,África,2018,1.267,0.648,0.0,0.648,-1.0,medio-alto
-Mauritius,África,2019,1.27,0.636,0.0,0.636,-1.0,medio-alto
-Mexico,Norteamérica,2011,115.695,44.526,9.313,53.839,-1.0,medio-alto
-Mexico,Norteamérica,2012,117.274,42.004,8.412,50.416,-1.0,medio-alto
-Mexico,Norteamérica,2013,118.827,39.08,11.377,50.457,-1.0,medio-alto
-Mexico,Norteamérica,2014,120.355,52.253,9.312,61.565,-1.0,medio-alto
-Mexico,Norteamérica,2015,121.858,46.67,11.185,57.855,-1.0,medio-alto
-Mexico,Norteamérica,2016,123.333,47.499,10.272,57.771,-1.0,medio-alto
-Mexico,Norteamérica,2017,124.777,50.543,10.572,61.115,-1.0,medio-alto
-Mexico,Norteamérica,2018,126.191,54.007,13.2,67.207,-1.0,medio-alto
-Mexico,Norteamérica,2019,127.576,55.36,10.881,66.241,-1.0,medio-alto
-Moldova,Europa,2011,4.079,0.348,0.0,0.348,1.0,medio-alto
-Moldova,Europa,2012,4.076,0.266,0.0,0.266,1.0,medio-alto
-Moldova,Europa,2013,4.075,0.314,0.0,0.314,1.0,medio-alto
-Moldova,Europa,2014,4.073,0.332,0.0,0.332,1.0,medio-alto
-Moldova,Europa,2015,4.071,0.284,0.0,0.284,1.0,medio-alto
-Moldova,Europa,2016,4.066,0.247,0.0,0.247,1.0,medio-alto
-Moldova,Europa,2017,4.06,0.314,0.0,0.314,1.0,medio-alto
-Moldova,Europa,2018,4.052,0.329,0.0,0.329,1.0,medio-alto
-Moldova,Europa,2019,4.043,0.375,0.0,0.375,1.0,medio-alto
-Mongolia,Asia,2011,2.77,0.061,0.0,0.061,1.0,bajo-medio
-Mongolia,Asia,2012,2.825,0.06,0.0,0.06,1.0,bajo-medio
-Mongolia,Asia,2013,2.882,0.122,0.0,0.122,1.0,bajo-medio
-Mongolia,Asia,2014,2.94,0.2,0.0,0.2,1.0,bajo-medio
-Mongolia,Asia,2015,2.998,0.221,0.0,0.221,1.0,bajo-medio
-Mongolia,Asia,2016,3.056,0.247,0.0,0.247,1.0,bajo-medio
-Mongolia,Asia,2017,3.114,0.416,0.0,0.416,1.0,bajo-medio
-Mongolia,Asia,2018,3.17,0.457,0.0,0.457,1.0,bajo-medio
-Mongolia,Asia,2019,3.225,0.513,0.0,0.513,1.0,bajo-medio
-Montenegro,Europa,2011,0.625,1.192,0.0,1.192,2.0,medio-alto
-Montenegro,Europa,2012,0.626,1.462,0.0,1.462,2.0,medio-alto
-Montenegro,Europa,2013,0.626,2.479,0.0,2.479,2.0,medio-alto
-Montenegro,Europa,2014,0.627,1.734,0.0,1.734,2.0,medio-alto
-Montenegro,Europa,2015,0.627,1.476,0.0,1.476,2.0,medio-alto
-Montenegro,Europa,2016,0.627,1.825,0.0,1.825,2.0,medio-alto
-Montenegro,Europa,2017,0.628,1.111,0.0,1.111,2.0,medio-alto
-Montenegro,Europa,2018,0.628,2.235,0.0,2.235,2.0,medio-alto
-Montenegro,Europa,2019,0.628,2.507,0.0,2.507,2.0,medio-alto
-Montserrat,Norteamérica,2011,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2012,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2013,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2014,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2015,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2016,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2017,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2018,0.005,0.0,0.0,0.0,1.0,alto
-Montserrat,Norteamérica,2019,0.005,0.0,0.0,0.0,1.0,alto
-Morocco,África,2011,32.782,2.676,0.0,2.676,1.0,bajo-medio
-Morocco,África,2012,33.242,2.348,0.0,2.348,1.0,bajo-medio
-Morocco,África,2013,33.716,4.118,0.0,4.118,1.0,bajo-medio
-Morocco,África,2014,34.192,3.546,0.0,3.546,1.0,bajo-medio
-Morocco,África,2015,34.664,4.396,0.0,4.396,1.0,bajo-medio
-Morocco,África,2016,35.126,4.655,0.0,4.655,1.0,bajo-medio
-Morocco,África,2017,35.581,4.636,0.0,4.636,1.0,bajo-medio
-Morocco,África,2018,36.029,6.481,0.0,6.481,1.0,bajo-medio
-Morocco,África,2019,36.472,7.933,0.0,7.933,1.0,bajo-medio
-Mozambique,África,2011,24.188,16.71,0.0,16.71,0.0,bajo
-Mozambique,África,2012,24.863,15.062,0.0,15.062,0.0,bajo
-Mozambique,África,2013,25.561,14.464,0.0,14.464,0.0,bajo
-Mozambique,África,2014,26.286,16.086,0.0,16.086,0.0,bajo
-Mozambique,África,2015,27.042,17.099,0.0,17.099,0.0,bajo
-Mozambique,África,2016,27.83,15.51,0.0,15.51,0.0,bajo
-Mozambique,África,2017,28.649,13.98,0.0,13.98,0.0,bajo
-Mozambique,África,2018,29.496,13.845,0.0,13.845,0.0,bajo
-Mozambique,África,2019,30.366,12.761,0.0,12.761,0.0,bajo
-Namibia,África,2011,2.157,1.399,0.0,1.399,0.0,medio-alto
-Namibia,África,2012,2.195,1.606,0.0,1.606,0.0,medio-alto
-Namibia,África,2013,2.234,1.282,0.0,1.282,0.0,medio-alto
-Namibia,África,2014,2.273,1.5,0.0,1.5,0.0,medio-alto
-Namibia,África,2015,2.315,1.527,0.0,1.527,0.0,medio-alto
-Namibia,África,2016,2.358,1.403,0.0,1.403,0.0,medio-alto
-Namibia,África,2017,2.403,1.608,0.0,1.608,0.0,medio-alto
-Namibia,África,2018,2.448,1.164,0.0,1.164,0.0,medio-alto
-Namibia,África,2019,2.495,1.045,0.0,1.045,0.0,medio-alto
-Nauru,Oceanía,2011,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2012,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2013,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2014,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2015,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2016,0.01,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2017,0.011,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2018,0.011,0.0,0.0,0.0,1.0,alto
-Nauru,Oceanía,2019,0.011,0.0,0.0,0.0,1.0,alto
-Nepal,Asia,2011,27.041,3.466,0.0,3.466,0.0,bajo-medio
-Nepal,Asia,2012,26.989,3.511,0.0,3.511,0.0,bajo-medio
-Nepal,Asia,2013,26.917,3.487,0.0,3.487,0.0,bajo-medio
-Nepal,Asia,2014,26.906,3.774,0.0,3.774,0.0,bajo-medio
-Nepal,Asia,2015,27.015,3.443,0.0,3.443,0.0,bajo-medio
-Nepal,Asia,2016,27.263,4.22,0.0,4.22,0.0,bajo-medio
-Nepal,Asia,2017,27.633,4.67,0.0,4.67,0.0,bajo-medio
-Nepal,Asia,2018,28.096,4.941,0.0,4.941,0.0,bajo-medio
-Nepal,Asia,2019,28.609,5.42,0.0,5.42,0.0,bajo-medio
-Netherlands,Europa,2011,16.738,12.32,4.141,16.461,-1.0,alto
-Netherlands,Europa,2012,16.792,12.481,3.915,16.396,-1.0,alto
-Netherlands,Europa,2013,16.844,12.106,2.891,14.997,-1.0,alto
-Netherlands,Europa,2014,16.893,11.648,4.091,15.739,-1.0,alto
-Netherlands,Europa,2015,16.938,13.685,4.077,17.762,-1.0,alto
-Netherlands,Europa,2016,16.981,14.777,3.96,18.737,-1.0,alto
-Netherlands,Europa,2017,17.021,17.437,3.402,20.839,-1.0,alto
-Netherlands,Europa,2018,17.06,18.884,3.515,22.399,-1.0,alto
-Netherlands,Europa,2019,17.097,22.715,3.91,26.625,-1.0,alto
-New Caledonia,Oceanía,2011,0.257,0.417,0.0,0.417,1.0,alto
-New Caledonia,Oceanía,2012,0.261,0.452,0.0,0.452,1.0,alto
-New Caledonia,Oceanía,2013,0.264,0.508,0.0,0.508,1.0,alto
-New Caledonia,Oceanía,2014,0.268,0.346,0.0,0.346,1.0,alto
-New Caledonia,Oceanía,2015,0.271,0.402,0.0,0.402,1.0,alto
-New Caledonia,Oceanía,2016,0.274,0.277,0.0,0.277,1.0,alto
-New Caledonia,Oceanía,2017,0.277,0.406,0.0,0.406,1.0,alto
-New Caledonia,Oceanía,2018,0.28,0.362,0.0,0.362,1.0,alto
-New Caledonia,Oceanía,2019,0.283,0.355,0.0,0.355,1.0,alto
-New Zealand,Oceanía,2011,4.419,33.233,0.0,33.233,4.0,alto
-New Zealand,Oceanía,2012,4.468,31.223,0.0,31.223,4.0,alto
-New Zealand,Oceanía,2013,4.519,31.53,0.0,31.53,4.0,alto
-New Zealand,Oceanía,2014,4.568,33.827,0.0,33.827,4.0,alto
-New Zealand,Oceanía,2015,4.615,34.754,0.0,34.754,4.0,alto
-New Zealand,Oceanía,2016,4.659,36.135,0.0,36.135,4.0,alto
-New Zealand,Oceanía,2017,4.702,35.176,0.0,35.176,4.0,alto
-New Zealand,Oceanía,2018,4.743,36.319,0.0,36.319,4.0,alto
-New Zealand,Oceanía,2019,4.783,35.769,0.0,35.769,4.0,alto
-Nicaragua,Norteamérica,2011,5.903,1.301,0.0,1.301,2.0,bajo-medio
-Nicaragua,Norteamérica,2012,5.983,1.731,0.0,1.731,2.0,bajo-medio
-Nicaragua,Norteamérica,2013,6.062,2.176,0.0,2.176,2.0,bajo-medio
-Nicaragua,Norteamérica,2014,6.143,2.394,0.0,2.394,2.0,bajo-medio
-Nicaragua,Norteamérica,2015,6.223,2.293,0.0,2.293,2.0,bajo-medio
-Nicaragua,Norteamérica,2016,6.304,2.392,0.0,2.392,2.0,bajo-medio
-Nicaragua,Norteamérica,2017,6.385,2.529,0.0,2.529,2.0,bajo-medio
-Nicaragua,Norteamérica,2018,6.466,2.731,0.0,2.731,2.0,bajo-medio
-Nicaragua,Norteamérica,2019,6.546,2.832,0.0,2.832,2.0,bajo-medio
-Niger,África,2011,17.115,0.0,0.0,0.0,1.0,bajo
-Niger,África,2012,17.795,0.0,0.0,0.0,1.0,bajo
-Niger,África,2013,18.504,0.004,0.0,0.004,1.0,bajo
-Niger,África,2014,19.24,0.004,0.0,0.004,1.0,bajo
-Niger,África,2015,20.002,0.004,0.0,0.004,1.0,bajo
-Niger,África,2016,20.789,0.005,0.0,0.005,1.0,bajo
-Niger,África,2017,21.602,0.006,0.0,0.006,1.0,bajo
-Niger,África,2018,22.443,0.024,0.0,0.024,1.0,bajo
-Niger,África,2019,23.311,0.024,0.0,0.024,1.0,bajo
-Nigeria,África,2011,162.804992,5.841,0.0,5.841,-1.0,bajo-medio
-Nigeria,África,2012,167.228992,5.64,0.0,5.64,-1.0,bajo-medio
-Nigeria,África,2013,171.766,5.316,0.0,5.316,-1.0,bajo-medio
-Nigeria,África,2014,176.404992,5.34,0.0,5.34,-1.0,bajo-medio
-Nigeria,África,2015,181.136992,5.713,0.0,5.713,-1.0,bajo-medio
-Nigeria,África,2016,185.96,8.124,0.0,8.124,-1.0,bajo-medio
-Nigeria,África,2017,190.872992,7.726,0.0,7.726,-1.0,bajo-medio
-Nigeria,África,2018,195.875008,6.45,0.0,6.45,-1.0,bajo-medio
-Nigeria,África,2019,200.964,6.696,0.0,6.696,-1.0,bajo-medio
-Niue,Oceanía,2011,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2012,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2013,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2014,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2015,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2016,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2017,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2018,0.002,0.0,0.0,0.0,1.0,alto
-Niue,Oceanía,2019,0.002,0.0,0.0,0.0,1.0,alto
-North Korea,Asia,2011,24.673,13.071,0.0,13.071,4.0,bajo
-North Korea,Asia,2012,24.801,13.369,0.0,13.369,4.0,bajo
-North Korea,Asia,2013,24.93,13.766,0.0,13.766,4.0,bajo
-North Korea,Asia,2014,25.058,12.877,0.0,12.877,4.0,bajo
-North Korea,Asia,2015,25.184,9.911,0.0,9.911,4.0,bajo
-North Korea,Asia,2016,25.308,12.685,0.0,12.685,4.0,bajo
-North Korea,Asia,2017,25.43,11.796,0.0,11.796,4.0,bajo
-North Korea,Asia,2018,25.55,12.688,0.0,12.688,4.0,bajo
-North Korea,Asia,2019,25.666,13.666,0.0,13.666,4.0,bajo
-Norway,Europa,2011,4.948,121.502,0.0,121.502,0.0,alto
-Norway,Europa,2012,5.014,143.177,0.0,143.177,0.0,alto
-Norway,Europa,2013,5.079,130.032,0.0,130.032,0.0,alto
-Norway,Europa,2014,5.142,137.527,0.0,137.527,0.0,alto
-Norway,Europa,2015,5.2,139.649,0.0,139.649,0.0,alto
-Norway,Europa,2016,5.251,144.785,0.0,144.785,0.0,alto
-Norway,Europa,2017,5.296,144.958,0.0,144.958,0.0,alto
-Norway,Europa,2018,5.338,142.455,0.0,142.455,0.0,alto
-Norway,Europa,2019,5.379,129.655,0.0,129.655,0.0,alto
-Oman,Asia,2011,3.251,0.0,0.0,0.0,1.0,alto
-Oman,Asia,2012,3.498,0.0,0.0,0.0,1.0,alto
-Oman,Asia,2013,3.765,0.001,0.0,0.001,1.0,alto
-Oman,Asia,2014,4.027,0.001,0.0,0.001,1.0,alto
-Oman,Asia,2015,4.267,0.004,0.0,0.004,1.0,alto
-Oman,Asia,2016,4.479,0.004,0.0,0.004,1.0,alto
-Oman,Asia,2017,4.666,0.004,0.0,0.004,1.0,alto
-Oman,Asia,2018,4.829,0.004,0.0,0.004,1.0,alto
-Oman,Asia,2019,4.975,0.004,0.0,0.004,1.0,alto
-Pakistan,Asia,2011,183.34,29.678,3.843,33.521,-1.0,bajo-medio
-Pakistan,Asia,2012,187.28,31.103,5.271,36.374,-1.0,bajo-medio
-Pakistan,Asia,2013,191.260992,33.825,4.397,38.221,-1.0,bajo-medio
-Pakistan,Asia,2014,195.304992,34.84,4.578,39.418,-1.0,bajo-medio
-Pakistan,Asia,2015,199.427008,37.468,4.333,41.801,-1.0,bajo-medio
-Pakistan,Asia,2016,203.631008,36.865,5.439,42.304,-1.0,bajo-medio
-Pakistan,Asia,2017,207.906,33.953,8.109,42.062,-1.0,bajo-medio
-Pakistan,Asia,2018,212.228,44.208,9.29,53.498,-1.0,bajo-medio
-Pakistan,Asia,2019,216.564992,50.446,9.783,60.23,-1.0,bajo-medio
-Palestine,Asia,2011,4.15,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2012,4.242,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2013,4.334,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2014,4.429,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2015,4.529,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2016,4.636,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2017,4.747,0.001,0.0,0.001,1.0,bajo
-Palestine,Asia,2018,4.863,0.0,0.0,0.0,1.0,bajo
-Palestine,Asia,2019,4.981,0.0,0.0,0.0,1.0,bajo
-Panama,Norteamérica,2011,3.706,4.08,0.0,4.08,2.0,alto
-Panama,Norteamérica,2012,3.771,5.36,0.0,5.36,2.0,alto
-Panama,Norteamérica,2013,3.835,5.137,0.0,5.137,2.0,alto
-Panama,Norteamérica,2014,3.901,5.132,0.0,5.132,2.0,alto
-Panama,Norteamérica,2015,3.968,6.664,0.0,6.664,2.0,alto
-Panama,Norteamérica,2016,4.037,7.187,0.0,7.187,2.0,alto
-Panama,Norteamérica,2017,4.107,7.859,0.0,7.859,2.0,alto
-Panama,Norteamérica,2018,4.177,8.63,0.0,8.63,2.0,alto
-Panama,Norteamérica,2019,4.246,9.311,0.0,9.311,2.0,alto
-Papua New Guinea,Oceanía,2011,7.472,1.384,0.0,1.384,3.0,bajo-medio
-Papua New Guinea,Oceanía,2012,7.631,1.001,0.0,1.001,3.0,bajo-medio
-Papua New Guinea,Oceanía,2013,7.788,1.019,0.0,1.019,3.0,bajo-medio
-Papua New Guinea,Oceanía,2014,7.947,1.045,0.0,1.045,3.0,bajo-medio
-Papua New Guinea,Oceanía,2015,8.108,1.04,0.0,1.04,3.0,bajo-medio
-Papua New Guinea,Oceanía,2016,8.272,1.035,0.0,1.035,3.0,bajo-medio
-Papua New Guinea,Oceanía,2017,8.438,0.831,0.0,0.831,3.0,bajo-medio
-Papua New Guinea,Oceanía,2018,8.606,0.822,0.0,0.822,3.0,bajo-medio
-Papua New Guinea,Oceanía,2019,8.776,0.843,0.0,0.843,3.0,bajo-medio
-Paraguay,Sudamérica,2011,6.334,57.049,0.0,57.049,0.0,medio-alto
-Paraguay,Sudamérica,2012,6.422,59.63,0.0,59.63,0.0,medio-alto
-Paraguay,Sudamérica,2013,6.51,59.9,0.0,59.9,0.0,medio-alto
-Paraguay,Sudamérica,2014,6.6,54.862,0.0,54.862,0.0,medio-alto
-Paraguay,Sudamérica,2015,6.689,55.332,0.0,55.332,0.0,medio-alto
-Paraguay,Sudamérica,2016,6.778,64.027,0.0,64.027,0.0,medio-alto
-Paraguay,Sudamérica,2017,6.867,59.769,0.0,59.769,0.0,medio-alto
-Paraguay,Sudamérica,2018,6.956,59.32,0.0,59.32,0.0,medio-alto
-Paraguay,Sudamérica,2019,7.045,49.821,0.0,49.821,0.0,medio-alto
-Peru,Sudamérica,2011,29.264,22.047,0.0,22.047,2.0,medio-alto
-Peru,Sudamérica,2012,29.507,21.869,0.0,21.869,2.0,medio-alto
-Peru,Sudamérica,2013,29.774,23.247,0.0,23.247,2.0,medio-alto
-Peru,Sudamérica,2014,30.09,23.728,0.0,23.728,2.0,medio-alto
-Peru,Sudamérica,2015,30.471,25.206,0.0,25.206,2.0,medio-alto
-Peru,Sudamérica,2016,30.926,25.776,0.0,25.776,2.0,medio-alto
-Peru,Sudamérica,2017,31.444,30.6,0.0,30.6,2.0,medio-alto
-Peru,Sudamérica,2018,31.989,33.086,0.0,33.086,2.0,medio-alto
-Peru,Sudamérica,2019,32.51,34.207,0.0,34.207,2.0,medio-alto
-Philippines,Asia,2011,95.57,19.75,0.0,19.75,3.0,bajo-medio
-Philippines,Asia,2012,97.213,20.657,0.0,20.657,3.0,bajo-medio
-Philippines,Asia,2013,98.872,19.803,0.0,19.803,3.0,bajo-medio
-Philippines,Asia,2014,100.513,19.719,0.0,19.719,3.0,bajo-medio
-Philippines,Asia,2015,102.113,20.874,0.0,20.874,3.0,bajo-medio
-Philippines,Asia,2016,103.664,21.898,0.0,21.898,3.0,bajo-medio
-Philippines,Asia,2017,105.173,23.092,0.0,23.092,3.0,bajo-medio
-Philippines,Asia,2018,106.651,22.66,0.0,22.66,3.0,bajo-medio
-Philippines,Asia,2019,108.117,21.425,0.0,21.425,3.0,bajo-medio
-Poland,Europa,2011,38.287,13.137,0.0,13.137,1.0,alto
-Poland,Europa,2012,38.227,16.879,0.0,16.879,1.0,alto
-Poland,Europa,2013,38.158,17.066,0.0,17.066,1.0,alto
-Poland,Europa,2014,38.091,19.842,0.0,19.842,1.0,alto
-Poland,Europa,2015,38.034,22.684,0.0,22.684,1.0,alto
-Poland,Europa,2016,37.989,22.807,0.0,22.807,1.0,alto
-Poland,Europa,2017,37.953,24.122,0.0,24.122,1.0,alto
-Poland,Europa,2018,37.922,21.617,0.0,21.617,1.0,alto
-Poland,Europa,2019,37.888,24.505,0.0,24.505,1.0,alto
-Portugal,Europa,2011,10.569,24.115,0.0,24.115,2.0,alto
-Portugal,Europa,2012,10.526,19.372,0.0,19.372,2.0,alto
-Portugal,Europa,2013,10.473,29.472,0.0,29.472,2.0,alto
-Portugal,Europa,2014,10.418,31.561,0.0,31.561,2.0,alto
-Portugal,Europa,2015,10.368,24.372,0.0,24.372,2.0,alto
-Portugal,Europa,2016,10.326,32.31,0.0,32.31,2.0,alto
-Portugal,Europa,2017,10.289,22.573,0.0,22.573,2.0,alto
-Portugal,Europa,2018,10.256,29.402,0.0,29.402,2.0,alto
-Portugal,Europa,2019,10.226,27.792,0.0,27.792,2.0,alto
-Puerto Rico,Norteamérica,2011,3.56,0.152,0.0,0.152,1.0,alto
-Puerto Rico,Norteamérica,2012,3.537,0.123,0.0,0.123,1.0,alto
-Puerto Rico,Norteamérica,2013,3.504,0.16,0.0,0.16,1.0,alto
-Puerto Rico,Norteamérica,2014,3.454,0.177,0.0,0.177,1.0,alto
-Puerto Rico,Norteamérica,2015,3.382,0.243,0.0,0.243,1.0,alto
-Puerto Rico,Norteamérica,2016,3.283,0.314,0.0,0.314,1.0,alto
-Puerto Rico,Norteamérica,2017,3.164,0.345,0.0,0.345,1.0,alto
-Puerto Rico,Norteamérica,2018,3.04,1.215,0.0,1.215,1.0,alto
-Puerto Rico,Norteamérica,2019,2.933,4.887,0.0,4.887,1.0,alto
-Qatar,Asia,2011,2.036,0.116,0.0,0.116,1.0,alto
-Qatar,Asia,2012,2.196,0.116,0.0,0.116,1.0,alto
-Qatar,Asia,2013,2.337,0.119,0.0,0.119,1.0,alto
-Qatar,Asia,2014,2.459,0.122,0.0,0.122,1.0,alto
-Qatar,Asia,2015,2.566,0.122,0.0,0.122,1.0,alto
-Qatar,Asia,2016,2.654,0.123,0.0,0.123,1.0,alto
-Qatar,Asia,2017,2.725,0.123,0.0,0.123,1.0,alto
-Qatar,Asia,2018,2.782,0.123,0.0,0.123,1.0,alto
-Qatar,Asia,2019,2.832,0.123,0.0,0.123,1.0,alto
-Romania,Europa,2011,20.337,16.313,11.747,28.06,-1.0,alto
-Romania,Europa,2012,20.227,14.926,11.466,26.392,-1.0,alto
-Romania,Europa,2013,20.133,20.148,11.618,31.766,-1.0,alto
-Romania,Europa,2014,20.036,27.126,11.676,38.802,-1.0,alto
-Romania,Europa,2015,19.925,26.2,11.64,37.84,-1.0,alto
-Romania,Europa,2016,19.796,26.969,11.286,38.255,-1.0,alto
-Romania,Europa,2017,19.654,24.282,11.509,35.791,-1.0,alto
-Romania,Europa,2018,19.506,26.195,11.377,37.572,-1.0,alto
-Romania,Europa,2019,19.365,24.737,11.279,36.016,-1.0,alto
-Russia,Europa,2011,143.703008,167.49,162.018,329.508,-1.0,medio-alto
-Russia,Europa,2012,143.994,167.758,166.293,334.051,-1.0,medio-alto
-Russia,Europa,2013,144.324992,182.71,161.38,344.09,-1.0,medio-alto
-Russia,Europa,2014,144.664992,177.332,169.065,346.397,-1.0,medio-alto
-Russia,Europa,2015,144.984992,170.077,182.807,352.884,-1.0,medio-alto
-Russia,Europa,2016,145.275008,186.29,184.054,370.344,-1.0,medio-alto
-Russia,Europa,2017,145.53,186.976,190.115,377.091,-1.0,medio-alto
-Russia,Europa,2018,145.734,193.222,181.765,374.987,-1.0,medio-alto
-Russia,Europa,2019,145.872,197.462,195.535,392.997,-1.0,medio-alto
-Rwanda,África,2011,10.293,0.132,0.0,0.132,2.0,bajo
-Rwanda,África,2012,10.55,0.138,0.0,0.138,2.0,bajo
-Rwanda,África,2013,10.812,0.15,0.0,0.15,2.0,bajo
-Rwanda,África,2014,11.084,0.212,0.0,0.212,2.0,bajo
-Rwanda,África,2015,11.369,0.305,0.0,0.305,2.0,bajo
-Rwanda,África,2016,11.669,0.364,0.0,0.364,2.0,bajo
-Rwanda,África,2017,11.981,0.421,0.0,0.421,2.0,bajo
-Rwanda,África,2018,12.302,0.387,0.0,0.387,2.0,bajo
-Rwanda,África,2019,12.627,0.403,0.0,0.403,2.0,bajo
-Saint Helena,África,2011,0.005,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2012,0.005,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2013,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2014,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2015,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2016,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2017,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2018,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Helena,África,2019,0.006,0.0,0.0,0.0,1.0,bajo
-Saint Kitts and Nevis,Norteamérica,2011,0.049,0.005,0.0,0.005,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2012,0.05,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2013,0.05,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2014,0.051,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2015,0.051,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2016,0.052,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2017,0.052,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2018,0.052,0.008,0.0,0.008,1.0,alto
-Saint Kitts and Nevis,Norteamérica,2019,0.053,0.008,0.0,0.008,1.0,alto
-Saint Lucia,Norteamérica,2011,0.176,0.0,0.0,0.0,1.0,alto
-Saint Lucia,Norteamérica,2012,0.177,0.0,0.0,0.0,1.0,alto
-Saint Lucia,Norteamérica,2013,0.178,0.0,0.0,0.0,1.0,alto
-Saint Lucia,Norteamérica,2014,0.178,0.0,0.0,0.0,1.0,alto
-Saint Lucia,Norteamérica,2015,0.179,0.001,0.0,0.001,1.0,alto
-Saint Lucia,Norteamérica,2016,0.18,0.001,0.0,0.001,1.0,alto
-Saint Lucia,Norteamérica,2017,0.181,0.001,0.0,0.001,1.0,alto
-Saint Lucia,Norteamérica,2018,0.182,0.003,0.0,0.003,1.0,alto
-Saint Lucia,Norteamérica,2019,0.183,0.003,0.0,0.003,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2011,0.006,0.002,0.0,0.002,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2012,0.006,0.002,0.0,0.002,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2013,0.006,0.002,0.0,0.002,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2014,0.006,0.0,0.0,0.0,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2015,0.006,0.0,0.0,0.0,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2016,0.006,0.0,0.0,0.0,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2017,0.006,0.0,0.0,0.0,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2018,0.006,0.0,0.0,0.0,1.0,alto
-Saint Pierre and Miquelon,Norteamérica,2019,0.006,0.0,0.0,0.0,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2011,0.108,0.025,0.0,0.025,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2012,0.108,0.025,0.0,0.025,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2013,0.109,0.023,0.0,0.023,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2014,0.109,0.012,0.0,0.012,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2015,0.109,0.018,0.0,0.018,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2016,0.109,0.017,0.0,0.017,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2017,0.11,0.021,0.0,0.021,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2018,0.11,0.025,0.0,0.025,1.0,alto
-Saint Vincent and the Grenadines,Norteamérica,2019,0.111,0.025,0.0,0.025,1.0,alto
-Samoa,Oceanía,2011,0.187,0.055,0.0,0.055,3.0,bajo-medio
-Samoa,Oceanía,2012,0.189,0.037,0.0,0.037,3.0,bajo-medio
-Samoa,Oceanía,2013,0.191,0.032,0.0,0.032,3.0,bajo-medio
-Samoa,Oceanía,2014,0.192,0.03,0.0,0.03,3.0,bajo-medio
-Samoa,Oceanía,2015,0.194,0.031,0.0,0.031,3.0,bajo-medio
-Samoa,Oceanía,2016,0.195,0.031,0.0,0.031,3.0,bajo-medio
-Samoa,Oceanía,2017,0.195,0.035,0.0,0.035,3.0,bajo-medio
-Samoa,Oceanía,2018,0.196,0.043,0.0,0.043,3.0,bajo-medio
-Samoa,Oceanía,2019,0.197,0.047,0.0,0.047,3.0,bajo-medio
-Sao Tome and Principe,África,2011,0.185,0.006,0.0,0.006,1.0,bajo
-Sao Tome and Principe,África,2012,0.188,0.006,0.0,0.006,1.0,bajo
-Sao Tome and Principe,África,2013,0.192,0.006,0.0,0.006,1.0,bajo
-Sao Tome and Principe,África,2014,0.196,0.006,0.0,0.006,1.0,bajo
-Sao Tome and Principe,África,2015,0.199,0.008,0.0,0.008,1.0,bajo
-Sao Tome and Principe,África,2016,0.203,0.007,0.0,0.007,1.0,bajo
-Sao Tome and Principe,África,2017,0.207,0.007,0.0,0.007,1.0,bajo
-Sao Tome and Principe,África,2018,0.211,0.007,0.0,0.007,1.0,bajo
-Sao Tome and Principe,África,2019,0.215,0.007,0.0,0.007,1.0,bajo
-Saudi Arabia,Asia,2011,28.268,0.0,0.0,0.0,1.0,alto
-Saudi Arabia,Asia,2012,29.155,0.024,0.0,0.024,1.0,alto
-Saudi Arabia,Asia,2013,30.052,0.039,0.0,0.039,1.0,alto
-Saudi Arabia,Asia,2014,30.917,0.042,0.0,0.042,1.0,alto
-Saudi Arabia,Asia,2015,31.718,0.129,0.0,0.129,1.0,alto
-Saudi Arabia,Asia,2016,32.443,0.129,0.0,0.129,1.0,alto
-Saudi Arabia,Asia,2017,33.101,0.16,0.0,0.16,1.0,alto
-Saudi Arabia,Asia,2018,33.703,0.16,0.0,0.16,1.0,alto
-Saudi Arabia,Asia,2019,34.269,0.16,0.0,0.16,1.0,alto
-Senegal,África,2011,13.034,0.334,0.0,0.334,1.0,bajo-medio
-Senegal,África,2012,13.402,0.336,0.0,0.336,1.0,bajo-medio
-Senegal,África,2013,13.782,0.368,0.0,0.368,1.0,bajo-medio
-Senegal,África,2014,14.175,0.387,0.0,0.387,1.0,bajo-medio
-Senegal,África,2015,14.578,0.407,0.0,0.407,1.0,bajo-medio
-Senegal,África,2016,14.994,0.425,0.0,0.425,1.0,bajo-medio
-Senegal,África,2017,15.419,0.532,0.0,0.532,1.0,bajo-medio
-Senegal,África,2018,15.854,0.525,0.0,0.525,1.0,bajo-medio
-Senegal,África,2019,16.296,0.54,0.0,0.54,1.0,bajo-medio
-Serbia,Europa,2011,8.964,8.58,0.0,8.58,3.0,medio-alto
-Serbia,Europa,2012,8.94,9.2,0.0,9.2,3.0,medio-alto
-Serbia,Europa,2013,8.919,10.125,0.0,10.125,3.0,medio-alto
-Serbia,Europa,2014,8.898,10.925,0.0,10.925,3.0,medio-alto
-Serbia,Europa,2015,8.877,10.018,0.0,10.018,3.0,medio-alto
-Serbia,Europa,2016,8.854,10.76,0.0,10.76,3.0,medio-alto
-Serbia,Europa,2017,8.83,9.201,0.0,9.201,3.0,medio-alto
-Serbia,Europa,2018,8.803,10.803,0.0,10.803,3.0,medio-alto
-Serbia,Europa,2019,8.772,11.048,0.0,11.048,3.0,medio-alto
-Seychelles,África,2011,0.092,0.0,0.0,0.0,1.0,alto
-Seychelles,África,2012,0.093,0.0,0.0,0.0,1.0,alto
-Seychelles,África,2013,0.093,0.007,0.0,0.007,1.0,alto
-Seychelles,África,2014,0.094,0.008,0.0,0.008,1.0,alto
-Seychelles,África,2015,0.095,0.009,0.0,0.009,1.0,alto
-Seychelles,África,2016,0.096,0.002,0.0,0.002,1.0,alto
-Seychelles,África,2017,0.096,0.003,0.0,0.003,1.0,alto
-Seychelles,África,2018,0.097,0.005,0.0,0.005,1.0,alto
-Seychelles,África,2019,0.098,0.005,0.0,0.005,1.0,alto
-Sierra Leone,África,2011,6.563,0.15,0.0,0.15,2.0,bajo
-Sierra Leone,África,2012,6.713,0.116,0.0,0.116,2.0,bajo
-Sierra Leone,África,2013,6.864,0.105,0.0,0.105,2.0,bajo
-Sierra Leone,África,2014,7.017,0.123,0.0,0.123,2.0,bajo
-Sierra Leone,África,2015,7.172,0.129,0.0,0.129,2.0,bajo
-Sierra Leone,África,2016,7.329,0.131,0.0,0.131,2.0,bajo
-Sierra Leone,África,2017,7.488,0.14,0.0,0.14,2.0,bajo
-Sierra Leone,África,2018,7.65,0.18,0.0,0.18,2.0,bajo
-Sierra Leone,África,2019,7.813,0.19,0.0,0.19,2.0,bajo
-Singapore,Asia,2011,5.264,1.213,0.0,1.213,1.0,alto
-Singapore,Asia,2012,5.369,1.263,0.0,1.263,1.0,alto
-Singapore,Asia,2013,5.454,1.374,0.0,1.374,1.0,alto
-Singapore,Asia,2014,5.526,1.453,0.0,1.453,1.0,alto
-Singapore,Asia,2015,5.592,1.556,0.0,1.556,1.0,alto
-Singapore,Asia,2016,5.654,1.588,0.0,1.588,1.0,alto
-Singapore,Asia,2017,5.708,1.629,0.0,1.629,1.0,alto
-Singapore,Asia,2018,5.758,1.668,0.0,1.668,1.0,alto
-Singapore,Asia,2019,5.804,1.673,0.0,1.673,1.0,alto
-Slovakia,Europa,2011,5.409,4.999,15.411,20.41,-1.0,alto
-Slovakia,Europa,2012,5.415,5.474,15.495,20.969,-1.0,alto
-Slovakia,Europa,2013,5.422,6.353,15.72,22.073,-1.0,alto
-Slovakia,Europa,2014,5.429,6.229,15.499,21.728,-1.0,alto
-Slovakia,Europa,2015,5.436,6.04,15.146,21.186,-1.0,alto
-Slovakia,Europa,2016,5.442,6.629,14.774,21.403,-1.0,alto
-Slovakia,Europa,2017,5.448,6.532,15.081,21.613,-1.0,alto
-Slovakia,Europa,2018,5.453,5.806,14.843,20.649,-1.0,alto
-Slovakia,Europa,2019,5.457,7.211,15.365,22.576,-1.0,alto
-Slovenia,Europa,2011,2.051,3.879,6.215,10.094,-1.0,alto
-Slovenia,Europa,2012,2.058,4.329,5.528,9.857,-1.0,alto
-Slovenia,Europa,2013,2.063,5.108,5.3,10.408,-1.0,alto
-Slovenia,Europa,2014,2.067,6.607,6.37,12.977,-1.0,alto
-Slovenia,Europa,2015,2.071,4.351,5.648,9.999,-1.0,alto
-Slovenia,Europa,2016,2.074,5.055,5.715,10.77,-1.0,alto
-Slovenia,Europa,2017,2.076,4.443,6.285,10.728,-1.0,alto
-Slovenia,Europa,2018,2.078,5.23,5.776,11.007,-1.0,alto
-Slovenia,Europa,2019,2.079,5.158,5.82,10.978,-1.0,alto
-Solomon Islands,Oceanía,2011,0.542,0.004,0.0,0.004,1.0,bajo-medio
-Solomon Islands,Oceanía,2012,0.556,0.004,0.0,0.004,1.0,bajo-medio
-Solomon Islands,Oceanía,2013,0.571,0.004,0.0,0.004,1.0,bajo-medio
-Solomon Islands,Oceanía,2014,0.587,0.005,0.0,0.005,1.0,bajo-medio
-Solomon Islands,Oceanía,2015,0.603,0.006,0.0,0.006,1.0,bajo-medio
-Solomon Islands,Oceanía,2016,0.619,0.006,0.0,0.006,1.0,bajo-medio
-Solomon Islands,Oceanía,2017,0.636,0.007,0.0,0.007,1.0,bajo-medio
-Solomon Islands,Oceanía,2018,0.653,0.006,0.0,0.006,1.0,bajo-medio
-Solomon Islands,Oceanía,2019,0.67,0.005,0.0,0.005,1.0,bajo-medio
-Somalia,África,2011,12.376,0.0,0.0,0.0,1.0,bajo
-Somalia,África,2012,12.715,0.004,0.0,0.004,1.0,bajo
-Somalia,África,2013,13.064,0.004,0.0,0.004,1.0,bajo
-Somalia,África,2014,13.424,0.004,0.0,0.004,1.0,bajo
-Somalia,África,2015,13.797,0.005,0.0,0.005,1.0,bajo
-Somalia,África,2016,14.186,0.012,0.0,0.012,1.0,bajo
-Somalia,África,2017,14.589,0.017,0.0,0.017,1.0,bajo
-Somalia,África,2018,15.008,0.017,0.0,0.017,1.0,bajo
-Somalia,África,2019,15.443,0.017,0.0,0.017,1.0,bajo
-South Africa,África,2011,52.004,2.44,12.939,15.379,-1.0,medio-alto
-South Africa,África,2012,52.833,1.614,12.398,14.012,-1.0,medio-alto
-South Africa,África,2013,53.687,1.527,13.615,15.142,-1.0,medio-alto
-South Africa,África,2014,54.544,3.379,14.763,18.142,-1.0,medio-alto
-South Africa,África,2015,55.386,5.81,10.965,16.775,-1.0,medio-alto
-South Africa,África,2016,56.208,7.755,15.209,22.964,-1.0,medio-alto
-South Africa,África,2017,57.01,10.079,15.087,25.166,-1.0,medio-alto
-South Africa,África,2018,57.793,12.244,10.564,22.808,-1.0,medio-alto
-South Africa,África,2019,58.558,12.952,13.603,26.555,-1.0,medio-alto
-South Korea,Asia,2011,49.786,8.252,147.763,156.015,-1.0,alto
-South Korea,Asia,2012,50.061,7.932,143.55,151.482,-1.0,alto
-South Korea,Asia,2013,50.346,9.795,132.465,142.26,-1.0,alto
-South Korea,Asia,2014,50.608,10.002,149.199,159.201,-1.0,alto
-South Korea,Asia,2015,50.823,12.076,157.199,169.275,-1.0,alto
-South Korea,Asia,2016,50.983,17.522,154.307,171.829,-1.0,alto
-South Korea,Asia,2017,51.096,20.906,141.278,162.184,-1.0,alto
-South Korea,Asia,2018,51.172,25.676,127.075,152.751,-1.0,alto
-South Korea,Asia,2019,51.225,31.209,138.809,170.018,-1.0,alto
-South Sudan,África,2011,9.831,0.0,0.0,0.0,1.0,bajo
-South Sudan,África,2012,10.114,0.002,0.0,0.002,1.0,bajo
-South Sudan,África,2013,10.355,0.002,0.0,0.002,1.0,bajo
-South Sudan,África,2014,10.555,0.002,0.0,0.002,1.0,bajo
-South Sudan,África,2015,10.716,0.002,0.0,0.002,1.0,bajo
-South Sudan,África,2016,10.833,0.002,0.0,0.002,1.0,bajo
-South Sudan,África,2017,10.911,0.003,0.0,0.003,1.0,bajo
-South Sudan,África,2018,10.976,0.003,0.0,0.003,1.0,bajo
-South Sudan,África,2019,11.062,0.003,0.0,0.003,1.0,bajo
-Spain,Europa,2011,47.084,87.522,57.718,145.24,-1.0,alto
-Spain,Europa,2012,47.063,86.962,61.47,148.432,-1.0,alto
-Spain,Europa,2013,46.931,111.406,56.726,168.132,-1.0,alto
-Spain,Europa,2014,46.778,110.268,57.305,167.573,-1.0,alto
-Spain,Europa,2015,46.672,97.088,57.196,154.284,-1.0,alto
-Spain,Europa,2016,46.634,104.633,58.633,163.266,-1.0,alto
-Spain,Europa,2017,46.647,87.924,58.039,145.963,-1.0,alto
-Spain,Europa,2018,46.693,103.885,55.766,159.651,-1.0,alto
-Spain,Europa,2019,46.737,100.308,58.448,158.756,-1.0,alto
-Sri Lanka,Asia,2011,20.398,4.714,0.0,4.714,3.0,bajo-medio
-Sri Lanka,Asia,2012,20.533,3.444,0.0,3.444,3.0,bajo-medio
-Sri Lanka,Asia,2013,20.663,7.13,0.0,7.13,3.0,bajo-medio
-Sri Lanka,Asia,2014,20.789,4.837,0.0,4.837,3.0,bajo-medio
-Sri Lanka,Asia,2015,20.908,6.33,0.0,6.33,3.0,bajo-medio
-Sri Lanka,Asia,2016,21.021,4.619,0.0,4.619,3.0,bajo-medio
-Sri Lanka,Asia,2017,21.128,4.554,0.0,4.554,3.0,bajo-medio
-Sri Lanka,Asia,2018,21.229,6.866,0.0,6.866,3.0,bajo-medio
-Sri Lanka,Asia,2019,21.324,7.314,0.0,7.314,3.0,bajo-medio
-Sudan,África,2011,35.35,6.527,0.0,6.527,2.0,bajo
-Sudan,África,2012,36.194,6.682,0.0,6.682,2.0,bajo
-Sudan,África,2013,37.073,8.381,0.0,8.381,2.0,bajo
-Sudan,África,2014,37.978,8.953,0.0,8.953,2.0,bajo
-Sudan,África,2015,38.903,8.46,0.0,8.46,2.0,bajo
-Sudan,África,2016,39.847,8.099,0.0,8.099,2.0,bajo
-Sudan,África,2017,40.813,9.391,0.0,9.391,2.0,bajo
-Sudan,África,2018,41.802,9.698,0.0,9.698,2.0,bajo
-Sudan,África,2019,42.813,10.109,0.0,10.109,2.0,bajo
-Suriname,Sudamérica,2011,0.535,1.031,0.0,1.031,3.0,medio-alto
-Suriname,Sudamérica,2012,0.541,0.825,0.0,0.825,3.0,medio-alto
-Suriname,Sudamérica,2013,0.547,0.83,0.0,0.83,3.0,medio-alto
-Suriname,Sudamérica,2014,0.553,0.562,0.0,0.562,3.0,medio-alto
-Suriname,Sudamérica,2015,0.559,0.483,0.0,0.483,3.0,medio-alto
-Suriname,Sudamérica,2016,0.565,0.791,0.0,0.791,3.0,medio-alto
-Suriname,Sudamérica,2017,0.571,0.932,0.0,0.932,3.0,medio-alto
-Suriname,Sudamérica,2018,0.576,1.006,0.0,1.006,3.0,medio-alto
-Suriname,Sudamérica,2019,0.581,1.181,0.0,1.181,3.0,medio-alto
-Sweden,Europa,2011,9.467,84.088,60.475,144.563,-1.0,alto
-Sweden,Europa,2012,9.543,98.309,64.037,162.346,-1.0,alto
-Sweden,Europa,2013,9.618,82.688,66.457,149.145,-1.0,alto
-Sweden,Europa,2014,9.692,85.741,64.877,150.618,-1.0,alto
-Sweden,Europa,2015,9.765,102.496,56.348,158.844,-1.0,alto
-Sweden,Europa,2016,9.836,89.127,63.101,152.228,-1.0,alto
-Sweden,Europa,2017,9.905,95.058,65.696,160.754,-1.0,alto
-Sweden,Europa,2018,9.972,91.153,68.549,159.702,-1.0,alto
-Sweden,Europa,2019,10.036,99.768,67.176,166.944,-1.0,alto
-Switzerland,Europa,2011,7.907,34.837,25.694,60.531,-1.0,alto
-Switzerland,Europa,2012,8.008,41.347,24.445,65.792,-1.0,alto
-Switzerland,Europa,2013,8.109,41.536,24.871,66.407,-1.0,alto
-Switzerland,Europa,2014,8.206,41.607,26.468,68.075,-1.0,alto
-Switzerland,Europa,2015,8.297,41.926,22.156,64.082,-1.0,alto
-Switzerland,Europa,2016,8.38,38.716,20.303,59.019,-1.0,alto
-Switzerland,Europa,2017,8.456,38.676,19.591,58.267,-1.0,alto
-Switzerland,Europa,2018,8.526,39.785,24.496,64.281,-1.0,alto
-Switzerland,Europa,2019,8.591,43.22,25.37,68.59,-1.0,alto
-Syria,Asia,2011,21.082,3.283,0.0,3.283,1.0,bajo
-Syria,Asia,2012,20.439,3.238,0.0,3.238,1.0,bajo
-Syria,Asia,2013,19.578,3.003,0.0,3.003,1.0,bajo
-Syria,Asia,2014,18.711,2.35,0.0,2.35,1.0,bajo
-Syria,Asia,2015,17.997,0.442,0.0,0.442,1.0,bajo
-Syria,Asia,2016,17.466,0.953,0.0,0.953,1.0,bajo
-Syria,Asia,2017,17.096,0.779,0.0,0.779,1.0,bajo
-Syria,Asia,2018,16.945,0.779,0.0,0.779,1.0,bajo
-Syria,Asia,2019,17.07,0.892,0.0,0.892,1.0,bajo
-Taiwan,Asia,2011,23.269,9.153,40.372,49.525,-1.0,alto
-Taiwan,Asia,2012,23.347,10.715,38.733,49.448,-1.0,alto
-Taiwan,Asia,2013,23.422,10.87,40.079,50.949,-1.0,alto
-Taiwan,Asia,2014,23.492,10.053,40.801,50.854,-1.0,alto
-Taiwan,Asia,2015,23.557,10.661,35.143,45.804,-1.0,alto
-Taiwan,Asia,2016,23.618,12.753,30.461,43.214,-1.0,alto
-Taiwan,Asia,2017,23.675,12.389,21.56,33.949,-1.0,alto
-Taiwan,Asia,2018,23.726,12.656,26.656,39.312,-1.0,alto
-Taiwan,Asia,2019,23.774,15.355,31.147,46.502,-1.0,alto
-Tajikistan,Asia,2011,7.698,16.038,0.0,16.038,0.0,bajo-medio
-Tajikistan,Asia,2012,7.875,16.731,0.0,16.731,0.0,bajo-medio
-Tajikistan,Asia,2013,8.06,16.9,0.0,16.9,0.0,bajo-medio
-Tajikistan,Asia,2014,8.253,15.84,0.0,15.84,0.0,bajo-medio
-Tajikistan,Asia,2015,8.454,16.83,0.0,16.83,0.0,bajo-medio
-Tajikistan,Asia,2016,8.664,16.466,0.0,16.466,0.0,bajo-medio
-Tajikistan,Asia,2017,8.88,16.962,0.0,16.962,0.0,bajo-medio
-Tajikistan,Asia,2018,9.101,18.21,0.0,18.21,0.0,bajo-medio
-Tajikistan,Asia,2019,9.321,18.977,0.0,18.977,0.0,bajo-medio
-Tanzania,África,2011,45.674,2.05,0.0,2.05,3.0,bajo-medio
-Tanzania,África,2012,47.053,1.82,0.0,1.82,3.0,bajo-medio
-Tanzania,África,2013,48.483,1.783,0.0,1.783,3.0,bajo-medio
-Tanzania,África,2014,49.961,2.643,0.0,2.643,3.0,bajo-medio
-Tanzania,África,2015,51.483,2.166,0.0,2.166,3.0,bajo-medio
-Tanzania,África,2016,53.049,2.444,0.0,2.444,3.0,bajo-medio
-Tanzania,África,2017,54.66,2.438,0.0,2.438,3.0,bajo-medio
-Tanzania,África,2018,56.313,2.372,0.0,2.372,3.0,bajo-medio
-Tanzania,África,2019,58.005,2.416,0.0,2.416,3.0,bajo-medio
-Thailand,Asia,2011,67.518,12.473,0.0,12.473,1.0,medio-alto
-Thailand,Asia,2012,67.836,13.706,0.0,13.706,1.0,medio-alto
-Thailand,Asia,2013,68.145,13.781,0.0,13.781,1.0,medio-alto
-Thailand,Asia,2014,68.439,14.344,0.0,14.344,1.0,medio-alto
-Thailand,Asia,2015,68.715,13.871,0.0,13.871,1.0,medio-alto
-Thailand,Asia,2016,68.971,25.272,0.0,25.272,1.0,medio-alto
-Thailand,Asia,2017,69.21,25.743,0.0,25.743,1.0,medio-alto
-Thailand,Asia,2018,69.428,29.996,0.0,29.996,1.0,medio-alto
-Thailand,Asia,2019,69.626,33.893,0.0,33.893,1.0,medio-alto
-Togo,África,2011,6.596,0.111,0.0,0.111,3.0,bajo
-Togo,África,2012,6.774,0.094,0.0,0.094,3.0,bajo
-Togo,África,2013,6.955,0.04,0.0,0.04,3.0,bajo
-Togo,África,2014,7.138,0.12,0.0,0.12,3.0,bajo
-Togo,África,2015,7.323,0.059,0.0,0.059,3.0,bajo
-Togo,África,2016,7.51,0.207,0.0,0.207,3.0,bajo
-Togo,África,2017,7.698,0.105,0.0,0.105,3.0,bajo
-Togo,África,2018,7.889,0.007,0.0,0.007,3.0,bajo
-Togo,África,2019,8.082,0.003,0.0,0.003,3.0,bajo
-Tonga,Oceanía,2011,0.104,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2012,0.103,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2013,0.102,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2014,0.101,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2015,0.101,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2016,0.101,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2017,0.102,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2018,0.103,0.0,0.0,0.0,1.0,medio-alto
-Tonga,Oceanía,2019,0.104,0.0,0.0,0.0,1.0,medio-alto
-Trinidad and Tobago,Sudamérica,2011,1.336,0.004,0.0,0.004,1.0,alto
-Trinidad and Tobago,Sudamérica,2012,1.345,0.004,0.0,0.004,1.0,alto
-Trinidad and Tobago,Sudamérica,2013,1.354,0.004,0.0,0.004,1.0,alto
-Trinidad and Tobago,Sudamérica,2014,1.362,0.004,0.0,0.004,1.0,alto
-Trinidad and Tobago,Sudamérica,2015,1.37,0.005,0.0,0.005,1.0,alto
-Trinidad and Tobago,Sudamérica,2016,1.378,0.005,0.0,0.005,1.0,alto
-Trinidad and Tobago,Sudamérica,2017,1.384,0.005,0.0,0.005,1.0,alto
-Trinidad and Tobago,Sudamérica,2018,1.39,0.005,0.0,0.005,1.0,alto
-Trinidad and Tobago,Sudamérica,2019,1.395,0.005,0.0,0.005,1.0,alto
-Tunisia,África,2011,10.742,0.166,0.0,0.166,1.0,bajo-medio
-Tunisia,África,2012,10.847,0.31,0.0,0.31,1.0,bajo-medio
-Tunisia,África,2013,10.953,0.433,0.0,0.433,1.0,bajo-medio
-Tunisia,África,2014,11.063,0.599,0.0,0.599,1.0,bajo-medio
-Tunisia,África,2015,11.18,0.583,0.0,0.583,1.0,bajo-medio
-Tunisia,África,2016,11.304,0.628,0.0,0.628,1.0,bajo-medio
-Tunisia,África,2017,11.433,0.599,0.0,0.599,1.0,bajo-medio
-Tunisia,África,2018,11.565,0.644,0.0,0.644,1.0,bajo-medio
-Tunisia,África,2019,11.695,0.739,0.0,0.739,1.0,bajo-medio
-Turkey,Asia,2011,73.443,56.927,0.0,56.927,3.0,medio-alto
-Turkey,Asia,2012,74.651,63.993,0.0,63.993,3.0,medio-alto
-Turkey,Asia,2013,75.925,68.087,0.0,68.087,3.0,medio-alto
-Turkey,Asia,2014,77.229,51.707,0.0,51.707,3.0,medio-alto
-Turkey,Asia,2015,78.529,82.293,0.0,82.293,3.0,medio-alto
-Turkey,Asia,2016,79.828,89.43,0.0,89.43,3.0,medio-alto
-Turkey,Asia,2017,81.116,86.471,0.0,86.471,3.0,medio-alto
-Turkey,Asia,2018,82.34,96.69,0.0,96.69,3.0,medio-alto
-Turkey,Asia,2019,83.43,130.206,0.0,130.206,3.0,medio-alto
-Turkmenistan,Asia,2011,5.174,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2012,5.268,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2013,5.366,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2014,5.466,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2015,5.565,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2016,5.662,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2017,5.758,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2018,5.851,0.003,0.0,0.003,1.0,medio-alto
-Turkmenistan,Asia,2019,5.942,0.0,0.0,0.0,1.0,medio-alto
-Turks and Caicos Islands,Norteamérica,2011,0.033,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2012,0.034,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2013,0.035,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2014,0.035,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2015,0.036,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2016,0.037,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2017,0.037,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2018,0.038,0.0,0.0,0.0,1.0,alto
-Turks and Caicos Islands,Norteamérica,2019,0.038,0.0,0.0,0.0,1.0,alto
-Uganda,África,2011,33.477,1.772,0.0,1.772,0.0,bajo
-Uganda,África,2012,34.559,1.844,0.0,1.844,0.0,bajo
-Uganda,África,2013,35.695,2.78,0.0,2.78,0.0,bajo
-Uganda,África,2014,36.912,3.042,0.0,3.042,0.0,bajo
-Uganda,África,2015,38.225,2.935,0.0,2.935,0.0,bajo
-Uganda,África,2016,39.649,3.816,0.0,3.816,0.0,bajo
-Uganda,África,2017,41.167,3.972,0.0,3.972,0.0,bajo
-Uganda,África,2018,42.729,4.179,0.0,4.179,0.0,bajo
-Uganda,África,2019,44.27,4.58,0.0,4.58,0.0,bajo
-Ukraine,Europa,2011,45.62,11.091,84.894,95.985,-1.0,bajo-medio
-Ukraine,Europa,2012,45.454,11.126,84.886,96.012,-1.0,bajo-medio
-Ukraine,Europa,2013,45.287,14.974,78.0,92.974,-1.0,bajo-medio
-Ukraine,Europa,2014,45.112,10.083,83.123,93.206,-1.0,bajo-medio
-Ukraine,Europa,2015,44.922,7.048,82.405,89.453,-1.0,bajo-medio
-Ukraine,Europa,2016,44.714,9.175,76.078,85.253,-1.0,bajo-medio
-Ukraine,Europa,2017,44.488,10.789,80.406,91.195,-1.0,bajo-medio
-Ukraine,Europa,2018,44.246,12.921,80.178,93.099,-1.0,bajo-medio
-Ukraine,Europa,2019,43.994,10.432,78.144,88.576,-1.0,bajo-medio
-United Arab Emirates,Asia,2011,8.947,0.034,0.0,0.034,1.0,alto
-United Arab Emirates,Asia,2012,9.142,0.035,0.0,0.035,1.0,alto
-United Arab Emirates,Asia,2013,9.198,0.101,0.0,0.101,1.0,alto
-United Arab Emirates,Asia,2014,9.214,0.309,0.0,0.309,1.0,alto
-United Arab Emirates,Asia,2015,9.263,0.304,0.0,0.304,1.0,alto
-United Arab Emirates,Asia,2016,9.361,0.316,0.0,0.316,1.0,alto
-United Arab Emirates,Asia,2017,9.487,0.741,0.0,0.741,1.0,alto
-United Arab Emirates,Asia,2018,9.631,1.31,0.0,1.31,1.0,alto
-United Arab Emirates,Asia,2019,9.771,4.177,0.0,4.177,1.0,alto
-United Kingdom,Europa,2011,64.022,35.213,68.98,104.193,-1.0,alto
-United Kingdom,Europa,2012,64.525,41.249,70.405,111.654,-1.0,alto
-United Kingdom,Europa,2013,64.984,53.214,70.607,123.821,-1.0,alto
-United Kingdom,Europa,2014,65.423,64.523,63.748,128.271,-1.0,alto
-United Kingdom,Europa,2015,65.86,82.576,70.345,152.921,-1.0,alto
-United Kingdom,Europa,2016,66.298,81.608,71.726,153.334,-1.0,alto
-United Kingdom,Europa,2017,66.727,97.038,70.336,167.375,-1.0,alto
-United Kingdom,Europa,2018,67.142,108.131,65.064,173.194,-1.0,alto
-United Kingdom,Europa,2019,67.53,117.333,57.176,174.509,-1.0,alto
-United States,Norteamérica,2011,311.584,506.916,790.204,1297.12,-1.0,alto
-United States,Norteamérica,2012,314.044,489.623,769.331,1258.954,-1.0,alto
-United States,Norteamérica,2013,316.400992,517.392,789.016,1306.409,-1.0,alto
-United States,Norteamérica,2014,318.672992,543.638,797.166,1340.804,-1.0,alto
-United States,Norteamérica,2015,320.878016,553.289,797.178,1350.467,-1.0,alto
-United States,Norteamérica,2016,323.016,621.571,805.694,1427.265,-1.0,alto
-United States,Norteamérica,2017,325.084992,704.106,804.95,1509.056,-1.0,alto
-United States,Norteamérica,2018,327.096,730.502,807.084,1537.587,-1.0,alto
-United States,Norteamérica,2019,329.064992,757.393,809.409,1566.802,-1.0,alto
-United States Virgin Islands,Norteamérica,2011,0.106,0.001,0.0,0.001,1.0,alto
-United States Virgin Islands,Norteamérica,2012,0.106,0.001,0.0,0.001,1.0,alto
-United States Virgin Islands,Norteamérica,2013,0.105,0.001,0.0,0.001,1.0,alto
-United States Virgin Islands,Norteamérica,2014,0.105,0.007,0.0,0.007,1.0,alto
-United States Virgin Islands,Norteamérica,2015,0.105,0.013,0.0,0.013,1.0,alto
-United States Virgin Islands,Norteamérica,2016,0.105,0.013,0.0,0.013,1.0,alto
-United States Virgin Islands,Norteamérica,2017,0.105,0.007,0.0,0.007,1.0,alto
-United States Virgin Islands,Norteamérica,2018,0.105,0.007,0.0,0.007,1.0,alto
-United States Virgin Islands,Norteamérica,2019,0.105,0.007,0.0,0.007,1.0,alto
-Uruguay,Sudamérica,2011,3.369,7.655,0.0,7.655,0.0,alto
-Uruguay,Sudamérica,2012,3.379,6.798,0.0,6.798,0.0,alto
-Uruguay,Sudamérica,2013,3.389,9.728,0.0,9.728,0.0,alto
-Uruguay,Sudamérica,2014,3.4,12.213,0.0,12.213,0.0,alto
-Uruguay,Sudamérica,2015,3.412,12.704,0.0,12.704,0.0,alto
-Uruguay,Sudamérica,2016,3.424,13.362,0.0,13.362,0.0,alto
-Uruguay,Sudamérica,2017,3.437,14.054,0.0,14.054,0.0,alto
-Uruguay,Sudamérica,2018,3.449,14.193,0.0,14.193,0.0,alto
-Uruguay,Sudamérica,2019,3.462,15.718,0.0,15.718,0.0,alto
-Uzbekistan,Asia,2011,28.977,5.646,0.0,5.646,1.0,bajo-medio
-Uzbekistan,Asia,2012,29.449,6.586,0.0,6.586,1.0,bajo-medio
-Uzbekistan,Asia,2013,29.933,5.649,0.0,5.649,1.0,bajo-medio
-Uzbekistan,Asia,2014,30.426,6.016,0.0,6.016,1.0,bajo-medio
-Uzbekistan,Asia,2015,30.93,7.0,0.0,7.0,1.0,bajo-medio
-Uzbekistan,Asia,2016,31.442,7.259,0.0,7.259,1.0,bajo-medio
-Uzbekistan,Asia,2017,31.96,8.349,0.0,8.349,1.0,bajo-medio
-Uzbekistan,Asia,2018,32.476,5.845,0.0,5.845,1.0,bajo-medio
-Uzbekistan,Asia,2019,32.982,5.458,0.0,5.458,1.0,bajo-medio
-Vanuatu,Oceanía,2011,0.243,0.005,0.0,0.005,1.0,bajo-medio
-Vanuatu,Oceanía,2012,0.25,0.008,0.0,0.008,1.0,bajo-medio
-Vanuatu,Oceanía,2013,0.257,0.009,0.0,0.009,1.0,bajo-medio
-Vanuatu,Oceanía,2014,0.264,0.01,0.0,0.01,1.0,bajo-medio
-Vanuatu,Oceanía,2015,0.271,0.013,0.0,0.013,1.0,bajo-medio
-Vanuatu,Oceanía,2016,0.278,0.01,0.0,0.01,1.0,bajo-medio
-Vanuatu,Oceanía,2017,0.285,0.009,0.0,0.009,1.0,bajo-medio
-Vanuatu,Oceanía,2018,0.293,0.01,0.0,0.01,1.0,bajo-medio
-Vanuatu,Oceanía,2019,0.3,0.01,0.0,0.01,1.0,bajo-medio
-Venezuela,Sudamérica,2011,28.888,82.835,0.0,82.835,2.0,medio-alto
-Venezuela,Sudamérica,2012,29.361,81.222,0.0,81.222,2.0,medio-alto
-Venezuela,Sudamérica,2013,29.781,82.785,0.0,82.785,2.0,medio-alto
-Venezuela,Sudamérica,2014,30.043,63.721,0.0,63.721,2.0,medio-alto
-Venezuela,Sudamérica,2015,30.082,74.228,0.0,74.228,2.0,medio-alto
-Venezuela,Sudamérica,2016,29.851,62.407,0.0,62.407,2.0,medio-alto
-Venezuela,Sudamérica,2017,29.402,59.98,0.0,59.98,2.0,medio-alto
-Venezuela,Sudamérica,2018,28.887,57.646,0.0,57.646,2.0,medio-alto
-Venezuela,Sudamérica,2019,28.516,52.118,0.0,52.118,2.0,medio-alto
-Vietnam,Asia,2011,88.871,40.664,0.0,40.664,3.0,bajo-medio
-Vietnam,Asia,2012,89.802,52.417,0.0,52.417,3.0,bajo-medio
-Vietnam,Asia,2013,90.753,51.586,0.0,51.586,3.0,bajo-medio
-Vietnam,Asia,2014,91.714,59.396,0.0,59.396,3.0,bajo-medio
-Vietnam,Asia,2015,92.677,56.803,0.0,56.803,3.0,bajo-medio
-Vietnam,Asia,2016,93.64,65.358,0.0,65.358,3.0,bajo-medio
-Vietnam,Asia,2017,94.601,88.5,0.0,88.5,3.0,bajo-medio
-Vietnam,Asia,2018,95.546,83.93,0.0,83.93,3.0,bajo-medio
-Vietnam,Asia,2019,96.462,74.189,0.0,74.189,3.0,bajo-medio
-Yemen,Asia,2011,23.808,0.002,0.0,0.002,1.0,bajo
-Yemen,Asia,2012,24.473,0.003,0.0,0.003,1.0,bajo
-Yemen,Asia,2013,25.147,0.004,0.0,0.004,1.0,bajo
-Yemen,Asia,2014,25.823,0.009,0.0,0.009,1.0,bajo
-Yemen,Asia,2015,26.498,0.11,0.0,0.11,1.0,bajo
-Yemen,Asia,2016,27.168,0.147,0.0,0.147,1.0,bajo
-Yemen,Asia,2017,27.835,0.183,0.0,0.183,1.0,bajo
-Yemen,Asia,2018,28.499,0.458,0.0,0.458,1.0,bajo
-Yemen,Asia,2019,29.162,0.5,0.0,0.5,1.0,bajo
-Zambia,África,2011,14.023,11.433,0.0,11.433,0.0,bajo-medio
-Zambia,África,2012,14.465,12.294,0.0,12.294,0.0,bajo-medio
-Zambia,África,2013,14.927,13.214,0.0,13.214,0.0,bajo-medio
-Zambia,África,2014,15.4,13.973,0.0,13.973,0.0,bajo-medio
-Zambia,África,2015,15.879,12.98,0.0,12.98,0.0,bajo-medio
-Zambia,África,2016,16.363,10.991,0.0,10.991,0.0,bajo-medio
-Zambia,África,2017,16.854,12.444,0.0,12.444,0.0,bajo-medio
-Zambia,África,2018,17.352,13.635,0.0,13.635,0.0,bajo-medio
-Zambia,África,2019,17.861,13.853,0.0,13.853,0.0,bajo-medio
-Zimbabwe,África,2011,12.894,5.28,0.0,5.28,2.0,bajo-medio
-Zimbabwe,África,2012,13.115,5.506,0.0,5.506,2.0,bajo-medio
-Zimbabwe,África,2013,13.35,5.115,0.0,5.115,2.0,bajo-medio
-Zimbabwe,África,2014,13.587,5.526,0.0,5.526,2.0,bajo-medio
-Zimbabwe,África,2015,13.815,5.076,0.0,5.076,2.0,bajo-medio
-Zimbabwe,África,2016,14.03,3.111,0.0,3.111,2.0,bajo-medio
-Zimbabwe,África,2017,14.237,4.091,0.0,4.091,2.0,bajo-medio
-Zimbabwe,África,2018,14.439,5.201,0.0,5.201,2.0,bajo-medio
-Zimbabwe,África,2019,14.645,5.241,0.0,5.241,2.0,bajo-medio
+country,continente,year,population,low_carbon_electricity,nivel_ingresos
+Afghanistan,Asia,2011,30.117,0.595,bajo
+Afghanistan,Asia,2012,31.161,0.738,bajo
+Afghanistan,Asia,2013,32.27,0.885,bajo
+Afghanistan,Asia,2014,33.371,1.0,bajo
+Afghanistan,Asia,2015,34.414,1.034,bajo
+Afghanistan,Asia,2016,35.383,1.06,bajo
+Afghanistan,Asia,2017,36.296,1.088,bajo
+Afghanistan,Asia,2018,37.172,0.965,bajo
+Afghanistan,Asia,2019,38.042,0.88,bajo
+Albania,Europa,2011,2.929,4.091,medio-alto
+Albania,Europa,2012,2.914,4.679,medio-alto
+Albania,Europa,2013,2.904,6.89,medio-alto
+Albania,Europa,2014,2.896,4.678,medio-alto
+Albania,Europa,2015,2.891,5.837,medio-alto
+Albania,Europa,2016,2.886,7.706,medio-alto
+Albania,Europa,2017,2.884,4.481,medio-alto
+Albania,Europa,2018,2.883,8.467,medio-alto
+Albania,Europa,2019,2.881,5.176,medio-alto
+Algeria,África,2011,36.661,0.497,bajo-medio
+Algeria,África,2012,37.384,0.616,bajo-medio
+Algeria,África,2013,38.14,0.327,bajo-medio
+Algeria,África,2014,38.924,0.252,bajo-medio
+Algeria,África,2015,39.728,0.221,bajo-medio
+Algeria,África,2016,40.551,0.332,bajo-medio
+Algeria,África,2017,41.389,0.635,bajo-medio
+Algeria,África,2018,42.228,0.73,bajo-medio
+Algeria,África,2019,43.053,0.732,bajo-medio
+American Samoa,Oceanía,2011,0.056,0.0,alto
+American Samoa,Oceanía,2012,0.056,0.0,alto
+American Samoa,Oceanía,2013,0.056,0.0,alto
+American Samoa,Oceanía,2014,0.056,0.0,alto
+American Samoa,Oceanía,2015,0.056,0.0,alto
+American Samoa,Oceanía,2016,0.056,0.0,alto
+American Samoa,Oceanía,2017,0.056,0.0,alto
+American Samoa,Oceanía,2018,0.055,0.0,alto
+American Samoa,Oceanía,2019,0.055,0.0,alto
+Angola,África,2011,24.221,3.978,bajo-medio
+Angola,África,2012,25.108,3.748,bajo-medio
+Angola,África,2013,26.016,4.734,bajo-medio
+Angola,África,2014,26.942,5.044,bajo-medio
+Angola,África,2015,27.884,5.097,bajo-medio
+Angola,África,2016,28.842,5.93,bajo-medio
+Angola,África,2017,29.817,7.794,bajo-medio
+Angola,África,2018,30.81,8.865,bajo-medio
+Angola,África,2019,31.825,10.121,bajo-medio
+Antigua and Barbuda,Norteamérica,2011,0.089,0.0,alto
+Antigua and Barbuda,Norteamérica,2012,0.09,0.0,alto
+Antigua and Barbuda,Norteamérica,2013,0.092,0.001,alto
+Antigua and Barbuda,Norteamérica,2014,0.093,0.001,alto
+Antigua and Barbuda,Norteamérica,2015,0.094,0.005,alto
+Antigua and Barbuda,Norteamérica,2016,0.095,0.006,alto
+Antigua and Barbuda,Norteamérica,2017,0.095,0.006,alto
+Antigua and Barbuda,Norteamérica,2018,0.096,0.013,alto
+Antigua and Barbuda,Norteamérica,2019,0.097,0.015,alto
+Argentina,Sudamérica,2011,41.32,38.151,medio-alto
+Argentina,Sudamérica,2012,41.755,36.817,medio-alto
+Argentina,Sudamérica,2013,42.196,40.58,medio-alto
+Argentina,Sudamérica,2014,42.638,39.213,medio-alto
+Argentina,Sudamérica,2015,43.075,40.26,medio-alto
+Argentina,Sudamérica,2016,43.508,38.858,medio-alto
+Argentina,Sudamérica,2017,43.937,39.192,medio-alto
+Argentina,Sudamérica,2018,44.361,41.296,medio-alto
+Argentina,Sudamérica,2019,44.781,42.783,medio-alto
+Armenia,Asia,2011,2.877,4.824,medio-alto
+Armenia,Asia,2012,2.884,4.427,medio-alto
+Armenia,Asia,2013,2.898,4.323,medio-alto
+Armenia,Asia,2014,2.912,4.242,medio-alto
+Armenia,Asia,2015,2.926,4.759,medio-alto
+Armenia,Asia,2016,2.936,4.525,medio-alto
+Armenia,Asia,2017,2.945,4.662,medio-alto
+Armenia,Asia,2018,2.952,4.214,medio-alto
+Armenia,Asia,2019,2.958,4.392,medio-alto
+Aruba,Norteamérica,2011,0.102,0.114,alto
+Aruba,Norteamérica,2012,0.103,0.137,alto
+Aruba,Norteamérica,2013,0.103,0.153,alto
+Aruba,Norteamérica,2014,0.104,0.162,alto
+Aruba,Norteamérica,2015,0.104,0.176,alto
+Aruba,Norteamérica,2016,0.105,0.15,alto
+Aruba,Norteamérica,2017,0.105,0.144,alto
+Aruba,Norteamérica,2018,0.106,0.147,alto
+Aruba,Norteamérica,2019,0.106,0.147,alto
+Australia,Oceanía,2011,22.538,26.273,alto
+Australia,Oceanía,2012,22.904,26.318,alto
+Australia,Oceanía,2013,23.255,32.705,alto
+Australia,Oceanía,2014,23.596,36.112,alto
+Australia,Oceanía,2015,23.932,33.423,alto
+Australia,Oceanía,2016,24.263,37.152,alto
+Australia,Oceanía,2017,24.585,40.206,alto
+Australia,Oceanía,2018,24.898,44.443,alto
+Australia,Oceanía,2019,25.203,54.4,alto
+Austria,Europa,2011,8.454,40.908,alto
+Austria,Europa,2012,8.502,51.328,alto
+Austria,Europa,2013,8.556,50.491,alto
+Austria,Europa,2014,8.615,50.186,alto
+Austria,Europa,2015,8.679,47.582,alto
+Austria,Europa,2016,8.747,51.083,alto
+Austria,Europa,2017,8.82,51.055,alto
+Austria,Europa,2018,8.891,50.036,alto
+Austria,Europa,2019,8.955,55.128,alto
+Azerbaijan,Asia,2011,9.146,2.649,medio-alto
+Azerbaijan,Asia,2012,9.265,1.803,medio-alto
+Azerbaijan,Asia,2013,9.385,1.61,medio-alto
+Azerbaijan,Asia,2014,9.506,1.466,medio-alto
+Azerbaijan,Asia,2015,9.623,1.813,medio-alto
+Azerbaijan,Asia,2016,9.736,2.171,medio-alto
+Azerbaijan,Asia,2017,9.845,1.958,medio-alto
+Azerbaijan,Asia,2018,9.95,2.033,medio-alto
+Azerbaijan,Asia,2019,10.048,1.884,medio-alto
+Bahamas,Norteamérica,2011,0.36,0.001,alto
+Bahamas,Norteamérica,2012,0.364,0.001,alto
+Bahamas,Norteamérica,2013,0.367,0.001,alto
+Bahamas,Norteamérica,2014,0.371,0.002,alto
+Bahamas,Norteamérica,2015,0.374,0.002,alto
+Bahamas,Norteamérica,2016,0.378,0.002,alto
+Bahamas,Norteamérica,2017,0.382,0.002,alto
+Bahamas,Norteamérica,2018,0.386,0.003,alto
+Bahamas,Norteamérica,2019,0.389,0.003,alto
+Bahrain,Asia,2011,1.278,0.002,alto
+Bahrain,Asia,2012,1.3,0.002,alto
+Bahrain,Asia,2013,1.315,0.002,alto
+Bahrain,Asia,2014,1.336,0.009,alto
+Bahrain,Asia,2015,1.372,0.009,alto
+Bahrain,Asia,2016,1.426,0.009,alto
+Bahrain,Asia,2017,1.494,0.009,alto
+Bahrain,Asia,2018,1.569,0.009,alto
+Bahrain,Asia,2019,1.641,0.009,alto
+Bangladesh,Asia,2011,149.272992,0.98,bajo-medio
+Bangladesh,Asia,2012,151.006,0.817,bajo-medio
+Bangladesh,Asia,2013,152.760992,1.08,bajo-medio
+Bangladesh,Asia,2014,154.516992,0.796,bajo-medio
+Bangladesh,Asia,2015,156.256,0.813,bajo-medio
+Bangladesh,Asia,2016,157.976992,1.252,bajo-medio
+Bangladesh,Asia,2017,159.684992,1.308,bajo-medio
+Bangladesh,Asia,2018,161.376992,1.375,bajo-medio
+Bangladesh,Asia,2019,163.046,1.249,bajo-medio
+Barbados,Norteamérica,2011,0.283,0.003,alto
+Barbados,Norteamérica,2012,0.284,0.003,alto
+Barbados,Norteamérica,2013,0.284,0.004,alto
+Barbados,Norteamérica,2014,0.285,0.01,alto
+Barbados,Norteamérica,2015,0.285,0.014,alto
+Barbados,Norteamérica,2016,0.286,0.03,alto
+Barbados,Norteamérica,2017,0.286,0.03,alto
+Barbados,Norteamérica,2018,0.287,0.037,alto
+Barbados,Norteamérica,2019,0.287,0.04,alto
+Belarus,Europa,2011,9.415,0.148,medio-alto
+Belarus,Europa,2012,9.417,0.202,medio-alto
+Belarus,Europa,2013,9.424,0.297,medio-alto
+Belarus,Europa,2014,9.432,0.287,medio-alto
+Belarus,Europa,2015,9.439,0.326,medio-alto
+Belarus,Europa,2016,9.446,0.42,medio-alto
+Belarus,Europa,2017,9.45,0.782,medio-alto
+Belarus,Europa,2018,9.453,0.803,medio-alto
+Belarus,Europa,2019,9.452,1.04,medio-alto
+Belgium,Europa,2011,11.014,56.587,alto
+Belgium,Europa,2012,11.085,50.733,alto
+Belgium,Europa,2013,11.154,54.301,alto
+Belgium,Europa,2014,11.221,45.957,alto
+Belgium,Europa,2015,11.288,40.602,alto
+Belgium,Europa,2016,11.354,57.862,alto
+Belgium,Europa,2017,11.42,58.084,alto
+Belgium,Europa,2018,11.482,45.736,alto
+Belgium,Europa,2019,11.539,61.181,alto
+Belize,Norteamérica,2011,0.33,0.339,medio-alto
+Belize,Norteamérica,2012,0.338,0.302,medio-alto
+Belize,Norteamérica,2013,0.346,0.336,medio-alto
+Belize,Norteamérica,2014,0.353,0.354,medio-alto
+Belize,Norteamérica,2015,0.361,0.358,medio-alto
+Belize,Norteamérica,2016,0.368,0.377,medio-alto
+Belize,Norteamérica,2017,0.376,0.389,medio-alto
+Belize,Norteamérica,2018,0.383,0.386,medio-alto
+Belize,Norteamérica,2019,0.39,0.438,medio-alto
+Benin,África,2011,9.461,0.002,bajo-medio
+Benin,África,2012,9.729,0.002,bajo-medio
+Benin,África,2013,10.005,0.003,bajo-medio
+Benin,África,2014,10.287,0.003,bajo-medio
+Benin,África,2015,10.576,0.007,bajo-medio
+Benin,África,2016,10.872,0.01,bajo-medio
+Benin,África,2017,11.175,0.006,bajo-medio
+Benin,África,2018,11.485,0.005,bajo-medio
+Benin,África,2019,11.801,0.005,bajo-medio
+Bermuda,Norteamérica,2011,0.065,0.0,alto
+Bermuda,Norteamérica,2012,0.065,0.0,alto
+Bermuda,Norteamérica,2013,0.064,0.0,alto
+Bermuda,Norteamérica,2014,0.064,0.0,alto
+Bermuda,Norteamérica,2015,0.064,0.0,alto
+Bermuda,Norteamérica,2016,0.063,0.0,alto
+Bermuda,Norteamérica,2017,0.063,0.0,alto
+Bermuda,Norteamérica,2018,0.063,0.0,alto
+Bermuda,Norteamérica,2019,0.063,0.0,alto
+Bhutan,Asia,2011,0.693,6.976,bajo-medio
+Bhutan,Asia,2012,0.702,6.746,bajo-medio
+Bhutan,Asia,2013,0.71,7.532,bajo-medio
+Bhutan,Asia,2014,0.719,7.151,bajo-medio
+Bhutan,Asia,2015,0.728,7.733,bajo-medio
+Bhutan,Asia,2016,0.737,7.881,bajo-medio
+Bhutan,Asia,2017,0.746,7.652,bajo-medio
+Bhutan,Asia,2018,0.754,6.891,bajo-medio
+Bhutan,Asia,2019,0.763,6.61,bajo-medio
+Bolivia,Sudamérica,2011,10.213,2.412,bajo-medio
+Bolivia,Sudamérica,2012,10.378,2.413,bajo-medio
+Bolivia,Sudamérica,2013,10.542,2.604,bajo-medio
+Bolivia,Sudamérica,2014,10.707,2.33,bajo-medio
+Bolivia,Sudamérica,2015,10.87,2.659,bajo-medio
+Bolivia,Sudamérica,2016,11.032,1.926,bajo-medio
+Bolivia,Sudamérica,2017,11.193,2.421,bajo-medio
+Bolivia,Sudamérica,2018,11.353,2.968,bajo-medio
+Bolivia,Sudamérica,2019,11.513,3.748,bajo-medio
+Bosnia and Herzegovina,Europa,2011,3.661,4.344,medio-alto
+Bosnia and Herzegovina,Europa,2012,3.605,4.174,medio-alto
+Bosnia and Herzegovina,Europa,2013,3.543,7.165,medio-alto
+Bosnia and Herzegovina,Europa,2014,3.482,5.877,medio-alto
+Bosnia and Herzegovina,Europa,2015,3.429,5.496,medio-alto
+Bosnia and Herzegovina,Europa,2016,3.386,5.611,medio-alto
+Bosnia and Herzegovina,Europa,2017,3.352,3.78,medio-alto
+Bosnia and Herzegovina,Europa,2018,3.324,6.486,medio-alto
+Bosnia and Herzegovina,Europa,2019,3.301,6.315,medio-alto
+Botswana,África,2011,2.015,0.0,medio-alto
+Botswana,África,2012,2.04,0.001,medio-alto
+Botswana,África,2013,2.063,0.002,medio-alto
+Botswana,África,2014,2.089,0.003,medio-alto
+Botswana,África,2015,2.121,0.003,medio-alto
+Botswana,África,2016,2.16,0.005,medio-alto
+Botswana,África,2017,2.205,0.005,medio-alto
+Botswana,África,2018,2.254,0.005,medio-alto
+Botswana,África,2019,2.304,0.005,medio-alto
+Brazil,Sudamérica,2011,197.515008,473.986,medio-alto
+Brazil,Sudamérica,2012,199.287008,467.061,medio-alto
+Brazil,Sudamérica,2013,201.036,449.074,medio-alto
+Brazil,Sudamérica,2014,202.764,443.082,medio-alto
+Brazil,Sudamérica,2015,204.472,441.173,medio-alto
+Brazil,Sudamérica,2016,206.163008,476.583,medio-alto
+Brazil,Sudamérica,2017,207.834,477.792,medio-alto
+Brazil,Sudamérica,2018,209.468992,506.602,medio-alto
+Brazil,Sudamérica,2019,211.05,526.277,medio-alto
+British Virgin Islands,Norteamérica,2011,0.028,0.001,alto
+British Virgin Islands,Norteamérica,2012,0.029,0.001,alto
+British Virgin Islands,Norteamérica,2013,0.029,0.001,alto
+British Virgin Islands,Norteamérica,2014,0.029,0.001,alto
+British Virgin Islands,Norteamérica,2015,0.029,0.002,alto
+British Virgin Islands,Norteamérica,2016,0.029,0.002,alto
+British Virgin Islands,Norteamérica,2017,0.03,0.002,alto
+British Virgin Islands,Norteamérica,2018,0.03,0.002,alto
+British Virgin Islands,Norteamérica,2019,0.03,0.002,alto
+Brunei,Asia,2011,0.394,0.0,alto
+Brunei,Asia,2012,0.399,0.002,alto
+Brunei,Asia,2013,0.404,0.002,alto
+Brunei,Asia,2014,0.41,0.002,alto
+Brunei,Asia,2015,0.415,0.002,alto
+Brunei,Asia,2016,0.42,0.001,alto
+Brunei,Asia,2017,0.424,0.002,alto
+Brunei,Asia,2018,0.429,0.002,alto
+Brunei,Asia,2019,0.433,0.002,alto
+Bulgaria,Europa,2011,7.379,20.203,medio-alto
+Bulgaria,Europa,2012,7.334,21.063,medio-alto
+Bulgaria,Europa,2013,7.29,21.053,medio-alto
+Bulgaria,Europa,2014,7.246,23.252,medio-alto
+Bulgaria,Europa,2015,7.2,24.143,medio-alto
+Bulgaria,Europa,2016,7.152,22.821,medio-alto
+Bulgaria,Europa,2017,7.102,21.677,medio-alto
+Bulgaria,Europa,2018,7.052,25.425,medio-alto
+Bulgaria,Europa,2019,7.0,23.735,medio-alto
+Burkina Faso,África,2011,16.082,0.09,bajo
+Burkina Faso,África,2012,16.571,0.106,bajo
+Burkina Faso,África,2013,17.073,0.116,bajo
+Burkina Faso,África,2014,17.586,0.101,bajo
+Burkina Faso,África,2015,18.111,0.106,bajo
+Burkina Faso,África,2016,18.646,0.155,bajo
+Burkina Faso,África,2017,19.193,0.158,bajo
+Burkina Faso,África,2018,19.751,0.182,bajo
+Burkina Faso,África,2019,20.321,0.194,bajo
+Burundi,África,2011,8.958,0.135,bajo
+Burundi,África,2012,9.246,0.147,bajo
+Burundi,África,2013,9.54,0.148,bajo
+Burundi,África,2014,9.844,0.15,bajo
+Burundi,África,2015,10.16,0.147,bajo
+Burundi,África,2016,10.488,0.155,bajo
+Burundi,África,2017,10.827,0.2,bajo
+Burundi,África,2018,11.175,0.164,bajo
+Burundi,África,2019,11.531,0.234,bajo
+Cambodia,Asia,2011,14.541,0.074,bajo-medio
+Cambodia,Asia,2012,14.78,0.535,bajo-medio
+Cambodia,Asia,2013,15.026,1.02,bajo-medio
+Cambodia,Asia,2014,15.275,1.853,bajo-medio
+Cambodia,Asia,2015,15.521,2.021,bajo-medio
+Cambodia,Asia,2016,15.766,2.638,bajo-medio
+Cambodia,Asia,2017,16.009,2.763,bajo-medio
+Cambodia,Asia,2018,16.25,4.77,bajo-medio
+Cambodia,Asia,2019,16.487,4.119,bajo-medio
+Cameroon,África,2011,20.906,4.417,bajo-medio
+Cameroon,África,2012,21.485,4.281,bajo-medio
+Cameroon,África,2013,22.077,4.402,bajo-medio
+Cameroon,África,2014,22.682,4.408,bajo-medio
+Cameroon,África,2015,23.298,4.36,bajo-medio
+Cameroon,África,2016,23.927,4.378,bajo-medio
+Cameroon,África,2017,24.566,5.093,bajo-medio
+Cameroon,África,2018,25.216,5.032,bajo-medio
+Cameroon,África,2019,25.876,5.401,bajo-medio
+Canada,Norteamérica,2011,34.539,482.751,alto
+Canada,Norteamérica,2012,34.922,490.166,alto
+Canada,Norteamérica,2013,35.297,516.676,alto
+Canada,Norteamérica,2014,35.664,512.798,alto
+Canada,Norteamérica,2015,36.027,512.976,alto
+Canada,Norteamérica,2016,36.383,521.804,alto
+Canada,Norteamérica,2017,36.732,532.227,alto
+Canada,Norteamérica,2018,37.075,524.652,alto
+Canada,Norteamérica,2019,37.411,518.674,alto
+Cayman Islands,Norteamérica,2011,0.058,0.0,alto
+Cayman Islands,Norteamérica,2012,0.059,0.0,alto
+Cayman Islands,Norteamérica,2013,0.06,0.0,alto
+Cayman Islands,Norteamérica,2014,0.061,0.0,alto
+Cayman Islands,Norteamérica,2015,0.062,0.0,alto
+Cayman Islands,Norteamérica,2016,0.063,0.004,alto
+Cayman Islands,Norteamérica,2017,0.063,0.014,alto
+Cayman Islands,Norteamérica,2018,0.064,0.016,alto
+Cayman Islands,Norteamérica,2019,0.065,0.016,alto
+Central African Republic,África,2011,4.419,0.146,bajo
+Central African Republic,África,2012,4.436,0.149,bajo
+Central African Republic,África,2013,4.448,0.137,bajo
+Central African Republic,África,2014,4.464,0.168,bajo
+Central African Republic,África,2015,4.493,0.168,bajo
+Central African Republic,África,2016,4.538,0.169,bajo
+Central African Republic,África,2017,4.596,0.15,bajo
+Central African Republic,África,2018,4.666,0.15,bajo
+Central African Republic,África,2019,4.745,0.15,bajo
+Chad,África,2011,12.361,0.0,bajo
+Chad,África,2012,12.785,0.0,bajo
+Chad,África,2013,13.22,0.0,bajo
+Chad,África,2014,13.664,0.0,bajo
+Chad,África,2015,14.111,0.0,bajo
+Chad,África,2016,14.562,0.009,bajo
+Chad,África,2017,15.017,0.009,bajo
+Chad,África,2018,15.478,0.009,bajo
+Chad,África,2019,15.947,0.009,bajo
+Chile,Sudamérica,2011,17.234,25.948,alto
+Chile,Sudamérica,2012,17.4,25.24,alto
+Chile,Sudamérica,2013,17.572,26.0,alto
+Chile,Sudamérica,2014,17.759,30.062,alto
+Chile,Sudamérica,2015,17.969,32.368,alto
+Chile,Sudamérica,2016,18.209,33.801,alto
+Chile,Sudamérica,2017,18.47,34.374,alto
+Chile,Sudamérica,2018,18.729,37.507,alto
+Chile,Sudamérica,2019,18.952,36.44,alto
+China,Asia,2011,1376.498048,853.4,medio-alto
+China,Asia,2012,1384.205952,1092.58,medio-alto
+China,Asia,2013,1391.883008,1188.88,medio-alto
+China,Asia,2014,1399.453952,1423.2,medio-alto
+China,Asia,2015,1406.848,1563.2,medio-alto
+China,Asia,2016,1414.049024,1760.9,medio-alto
+China,Asia,2017,1421.021952,1942.3,medio-alto
+China,Asia,2018,1427.648,2164.9,medio-alto
+China,Asia,2019,1433.784064,2391.958,medio-alto
+Colombia,Sudamérica,2011,45.663,50.436,medio-alto
+Colombia,Sudamérica,2012,46.076,49.122,medio-alto
+Colombia,Sudamérica,2013,46.495,50.873,medio-alto
+Colombia,Sudamérica,2014,46.968,48.817,medio-alto
+Colombia,Sudamérica,2015,47.521,49.53,medio-alto
+Colombia,Sudamérica,2016,48.175,50.126,medio-alto
+Colombia,Sudamérica,2017,48.91,62.264,medio-alto
+Colombia,Sudamérica,2018,49.661,60.855,medio-alto
+Colombia,Sudamérica,2019,50.339,55.496,medio-alto
+Comoros,África,2011,0.707,0.005,bajo-medio
+Comoros,África,2012,0.724,0.003,bajo-medio
+Comoros,África,2013,0.742,0.002,bajo-medio
+Comoros,África,2014,0.759,0.002,bajo-medio
+Comoros,África,2015,0.777,0.002,bajo-medio
+Comoros,África,2016,0.796,0.002,bajo-medio
+Comoros,África,2017,0.814,0.0,bajo-medio
+Comoros,África,2018,0.832,0.0,bajo-medio
+Comoros,África,2019,0.851,0.0,bajo-medio
+Congo,África,2011,4.395,0.783,bajo-medio
+Congo,África,2012,4.51,0.977,bajo-medio
+Congo,África,2013,4.623,0.961,bajo-medio
+Congo,África,2014,4.737,0.942,bajo-medio
+Congo,África,2015,4.856,1.088,bajo-medio
+Congo,África,2016,4.981,1.117,bajo-medio
+Congo,África,2017,5.111,1.192,bajo-medio
+Congo,África,2018,5.244,1.228,bajo-medio
+Congo,África,2019,5.381,1.274,bajo-medio
+Cook Islands,Oceanía,2011,0.018,0.0,alto
+Cook Islands,Oceanía,2012,0.018,0.0,alto
+Cook Islands,Oceanía,2013,0.018,0.001,alto
+Cook Islands,Oceanía,2014,0.018,0.001,alto
+Cook Islands,Oceanía,2015,0.018,0.003,alto
+Cook Islands,Oceanía,2016,0.018,0.005,alto
+Cook Islands,Oceanía,2017,0.018,0.006,alto
+Cook Islands,Oceanía,2018,0.018,0.011,alto
+Cook Islands,Oceanía,2019,0.018,0.011,alto
+Costa Rica,Norteamérica,2011,4.633,8.894,medio-alto
+Costa Rica,Norteamérica,2012,4.688,9.273,medio-alto
+Costa Rica,Norteamérica,2013,4.742,8.97,medio-alto
+Costa Rica,Norteamérica,2014,4.795,9.107,medio-alto
+Costa Rica,Norteamérica,2015,4.848,10.623,medio-alto
+Costa Rica,Norteamérica,2016,4.899,10.611,medio-alto
+Costa Rica,Norteamérica,2017,4.95,11.184,medio-alto
+Costa Rica,Norteamérica,2018,4.999,11.258,medio-alto
+Costa Rica,Norteamérica,2019,5.048,11.296,medio-alto
+Croatia,Europa,2011,4.313,5.287,alto
+Croatia,Europa,2012,4.296,5.262,alto
+Croatia,Europa,2013,4.277,9.276,alto
+Croatia,Europa,2014,4.256,9.936,alto
+Croatia,Europa,2015,4.233,7.509,alto
+Croatia,Europa,2016,4.209,8.363,alto
+Croatia,Europa,2017,4.183,7.116,alto
+Croatia,Europa,2018,4.156,9.781,alto
+Croatia,Europa,2019,4.13,8.298,alto
+Cuba,Norteamérica,2011,11.237,0.574,medio-alto
+Cuba,Norteamérica,2012,11.257,0.683,medio-alto
+Cuba,Norteamérica,2013,11.283,0.832,medio-alto
+Cuba,Norteamérica,2014,11.307,0.777,medio-alto
+Cuba,Norteamérica,2015,11.325,0.801,medio-alto
+Cuba,Norteamérica,2016,11.335,0.809,medio-alto
+Cuba,Norteamérica,2017,11.339,0.785,medio-alto
+Cuba,Norteamérica,2018,11.338,0.757,medio-alto
+Cuba,Norteamérica,2019,11.333,0.706,medio-alto
+Cyprus,Europa,2011,1.125,0.178,alto
+Cyprus,Europa,2012,1.135,0.257,alto
+Cyprus,Europa,2013,1.144,0.327,alto
+Cyprus,Europa,2014,1.152,0.317,alto
+Cyprus,Europa,2015,1.161,0.4,alto
+Cyprus,Europa,2016,1.17,0.425,alto
+Cyprus,Europa,2017,1.18,0.435,alto
+Cyprus,Europa,2018,1.189,0.477,alto
+Cyprus,Europa,2019,1.199,0.496,alto
+Czechia,Europa,2011,10.567,35.529,medio-alto
+Czechia,Europa,2012,10.581,38.389,medio-alto
+Czechia,Europa,2013,10.587,40.053,medio-alto
+Czechia,Europa,2014,10.591,39.497,medio-alto
+Czechia,Europa,2015,10.601,36.261,medio-alto
+Czechia,Europa,2016,10.619,33.488,medio-alto
+Czechia,Europa,2017,10.641,37.96,medio-alto
+Czechia,Europa,2018,10.666,39.347,medio-alto
+Czechia,Europa,2019,10.689,39.562,medio-alto
+Democratic Republic of Congo,África,2011,66.755,7.733,bajo-medio
+Democratic Republic of Congo,África,2012,69.021,7.527,bajo-medio
+Democratic Republic of Congo,África,2013,71.359,8.166,bajo-medio
+Democratic Republic of Congo,África,2014,73.767,8.752,bajo-medio
+Democratic Republic of Congo,África,2015,76.245,8.849,bajo-medio
+Democratic Republic of Congo,África,2016,78.789,9.035,bajo-medio
+Democratic Republic of Congo,África,2017,81.399,9.414,bajo-medio
+Democratic Republic of Congo,África,2018,84.068,10.47,bajo-medio
+Democratic Republic of Congo,África,2019,86.791,11.007,bajo-medio
+Denmark,Europa,2011,5.583,14.181,alto
+Denmark,Europa,2012,5.611,14.837,alto
+Denmark,Europa,2013,5.638,15.968,alto
+Denmark,Europa,2014,5.664,17.984,alto
+Denmark,Europa,2015,5.689,18.937,alto
+Denmark,Europa,2016,5.711,18.39,alto
+Denmark,Europa,2017,5.732,21.813,alto
+Denmark,Europa,2018,5.752,20.766,alto
+Denmark,Europa,2019,5.772,22.613,alto
+Djibouti,África,2011,0.854,0.0,bajo-medio
+Djibouti,África,2012,0.868,0.0,bajo-medio
+Djibouti,África,2013,0.883,0.0,bajo-medio
+Djibouti,África,2014,0.899,0.0,bajo-medio
+Djibouti,África,2015,0.914,0.0,bajo-medio
+Djibouti,África,2016,0.929,0.0,bajo-medio
+Djibouti,África,2017,0.944,0.0,bajo-medio
+Djibouti,África,2018,0.959,0.001,bajo-medio
+Djibouti,África,2019,0.974,0.001,bajo-medio
+Dominica,Norteamérica,2011,0.071,0.036,medio-alto
+Dominica,Norteamérica,2012,0.071,0.027,medio-alto
+Dominica,Norteamérica,2013,0.071,0.037,medio-alto
+Dominica,Norteamérica,2014,0.071,0.031,medio-alto
+Dominica,Norteamérica,2015,0.071,0.025,medio-alto
+Dominica,Norteamérica,2016,0.071,0.037,medio-alto
+Dominica,Norteamérica,2017,0.071,0.028,medio-alto
+Dominica,Norteamérica,2018,0.072,0.025,medio-alto
+Dominica,Norteamérica,2019,0.072,0.021,medio-alto
+Dominican Republic,Norteamérica,2011,9.813,1.62,medio-alto
+Dominican Republic,Norteamérica,2012,9.931,1.959,medio-alto
+Dominican Republic,Norteamérica,2013,10.048,2.21,medio-alto
+Dominican Republic,Norteamérica,2014,10.165,1.654,medio-alto
+Dominican Republic,Norteamérica,2015,10.282,1.33,medio-alto
+Dominican Republic,Norteamérica,2016,10.398,1.973,medio-alto
+Dominican Republic,Norteamérica,2017,10.513,2.856,medio-alto
+Dominican Republic,Norteamérica,2018,10.627,2.698,medio-alto
+Dominican Republic,Norteamérica,2019,10.739,2.487,medio-alto
+Ecuador,Sudamérica,2011,15.244,11.303,medio-alto
+Ecuador,Sudamérica,2012,15.474,12.414,medio-alto
+Ecuador,Sudamérica,2013,15.707,11.289,medio-alto
+Ecuador,Sudamérica,2014,15.952,11.838,medio-alto
+Ecuador,Sudamérica,2015,16.212,13.509,medio-alto
+Ecuador,Sudamérica,2016,16.491,16.288,medio-alto
+Ecuador,Sudamérica,2017,16.785,20.456,medio-alto
+Ecuador,Sudamérica,2018,17.084,21.017,medio-alto
+Ecuador,Sudamérica,2019,17.374,24.997,medio-alto
+Egypt,África,2011,84.529,14.863,bajo-medio
+Egypt,África,2012,86.422,14.661,bajo-medio
+Egypt,África,2013,88.405,15.08,bajo-medio
+Egypt,África,2014,90.425,15.693,bajo-medio
+Egypt,África,2015,92.443,15.954,bajo-medio
+Egypt,África,2016,94.447,15.813,bajo-medio
+Egypt,África,2017,96.443,15.84,bajo-medio
+Egypt,África,2018,98.424,16.945,bajo-medio
+Egypt,África,2019,100.388,19.329,bajo-medio
+El Salvador,Norteamérica,2011,6.211,3.719,medio-alto
+El Salvador,Norteamérica,2012,6.238,3.637,medio-alto
+El Salvador,Norteamérica,2013,6.266,3.69,medio-alto
+El Salvador,Norteamérica,2014,6.295,3.618,medio-alto
+El Salvador,Norteamérica,2015,6.325,3.154,medio-alto
+El Salvador,Norteamérica,2016,6.356,3.164,medio-alto
+El Salvador,Norteamérica,2017,6.388,3.603,medio-alto
+El Salvador,Norteamérica,2018,6.421,3.6,medio-alto
+El Salvador,Norteamérica,2019,6.454,3.578,medio-alto
+Equatorial Guinea,África,2011,0.987,0.028,medio-alto
+Equatorial Guinea,África,2012,1.031,0.08,medio-alto
+Equatorial Guinea,África,2013,1.076,0.251,medio-alto
+Equatorial Guinea,África,2014,1.122,0.379,medio-alto
+Equatorial Guinea,África,2015,1.169,0.561,medio-alto
+Equatorial Guinea,África,2016,1.215,0.565,medio-alto
+Equatorial Guinea,África,2017,1.262,0.434,medio-alto
+Equatorial Guinea,África,2018,1.309,0.58,medio-alto
+Equatorial Guinea,África,2019,1.356,0.586,medio-alto
+Eritrea,África,2011,3.214,0.004,bajo
+Eritrea,África,2012,3.25,0.004,bajo
+Eritrea,África,2013,3.281,0.004,bajo
+Eritrea,África,2014,3.311,0.004,bajo
+Eritrea,África,2015,3.343,0.004,bajo
+Eritrea,África,2016,3.377,0.004,bajo
+Eritrea,África,2017,3.413,0.013,bajo
+Eritrea,África,2018,3.453,0.045,bajo
+Eritrea,África,2019,3.497,0.062,bajo
+Estonia,Europa,2011,1.328,1.18,alto
+Estonia,Europa,2012,1.323,1.476,alto
+Estonia,Europa,2013,1.319,1.22,alto
+Estonia,Europa,2014,1.316,1.389,alto
+Estonia,Europa,2015,1.315,1.502,alto
+Estonia,Europa,2016,1.317,1.524,alto
+Estonia,Europa,2017,1.319,1.801,alto
+Estonia,Europa,2018,1.323,1.989,alto
+Estonia,Europa,2019,1.326,2.077,alto
+Ethiopia,África,2011,90.14,6.283,bajo
+Ethiopia,África,2012,92.727,7.546,bajo
+Ethiopia,África,2013,95.386,8.653,bajo
+Ethiopia,África,2014,98.094,9.47,bajo
+Ethiopia,África,2015,100.835,10.385,bajo
+Ethiopia,África,2016,103.603,12.464,bajo
+Ethiopia,África,2017,106.4,13.137,bajo
+Ethiopia,África,2018,109.224,13.47,bajo
+Ethiopia,África,2019,112.079,14.574,bajo
+Fiji,Oceanía,2011,0.863,0.529,medio-alto
+Fiji,Oceanía,2012,0.865,0.59,medio-alto
+Fiji,Oceanía,2013,0.866,0.587,medio-alto
+Fiji,Oceanía,2014,0.866,0.484,medio-alto
+Fiji,Oceanía,2015,0.869,0.478,medio-alto
+Fiji,Oceanía,2016,0.872,0.554,medio-alto
+Fiji,Oceanía,2017,0.877,0.559,medio-alto
+Fiji,Oceanía,2018,0.883,0.636,medio-alto
+Fiji,Oceanía,2019,0.89,0.642,medio-alto
+Finland,Europa,2011,5.39,47.364,alto
+Finland,Europa,2012,5.415,51.546,alto
+Finland,Europa,2013,5.439,49.236,alto
+Finland,Europa,2014,5.461,49.851,alto
+Finland,Europa,2015,5.481,53.772,alto
+Finland,Europa,2016,5.498,53.615,alto
+Finland,Europa,2017,5.511,53.954,alto
+Finland,Europa,2018,5.523,54.933,alto
+Finland,Europa,2019,5.532,54.983,alto
+France,Europa,2011,63.222,508.414,alto
+France,Europa,2012,63.564,510.614,alto
+France,Europa,2013,63.894,522.968,alto
+France,Europa,2014,64.194,530.44,alto
+France,Europa,2015,64.453,529.26,alto
+France,Europa,2016,64.668,502.208,alto
+France,Europa,2017,64.843,490.976,alto
+France,Europa,2018,64.991,526.339,alto
+France,Europa,2019,65.13,511.339,alto
+French Guiana,Sudamérica,2011,0.238,0.699,alto
+French Guiana,Sudamérica,2012,0.244,0.62,alto
+French Guiana,Sudamérica,2013,0.249,0.547,alto
+French Guiana,Sudamérica,2014,0.255,0.564,alto
+French Guiana,Sudamérica,2015,0.261,0.559,alto
+French Guiana,Sudamérica,2016,0.268,0.499,alto
+French Guiana,Sudamérica,2017,0.275,0.626,alto
+French Guiana,Sudamérica,2018,0.283,0.6,alto
+French Guiana,Sudamérica,2019,0.291,0.613,alto
+French Polynesia,Oceanía,2011,0.268,0.23,alto
+French Polynesia,Oceanía,2012,0.269,0.216,alto
+French Polynesia,Oceanía,2013,0.27,0.175,alto
+French Polynesia,Oceanía,2014,0.272,0.195,alto
+French Polynesia,Oceanía,2015,0.273,0.199,alto
+French Polynesia,Oceanía,2016,0.275,0.217,alto
+French Polynesia,Oceanía,2017,0.276,0.212,alto
+French Polynesia,Oceanía,2018,0.278,0.203,alto
+French Polynesia,Oceanía,2019,0.279,0.22,alto
+Gabon,África,2011,1.685,0.842,medio-alto
+Gabon,África,2012,1.75,0.912,medio-alto
+Gabon,África,2013,1.817,0.939,medio-alto
+Gabon,África,2014,1.884,0.798,medio-alto
+Gabon,África,2015,1.948,0.921,medio-alto
+Gabon,África,2016,2.008,0.956,medio-alto
+Gabon,África,2017,2.065,0.933,medio-alto
+Gabon,África,2018,2.119,0.905,medio-alto
+Gabon,África,2019,2.173,0.9,medio-alto
+Gambia,África,2011,1.848,0.004,bajo
+Gambia,África,2012,1.905,0.003,bajo
+Gambia,África,2013,1.964,0.003,bajo
+Gambia,África,2014,2.024,0.003,bajo
+Gambia,África,2015,2.086,0.003,bajo
+Gambia,África,2016,2.149,0.003,bajo
+Gambia,África,2017,2.214,0.003,bajo
+Gambia,África,2018,2.28,0.003,bajo
+Gambia,África,2019,2.348,0.003,bajo
+Georgia,Asia,2011,4.081,7.811,medio-alto
+Georgia,Asia,2012,4.064,7.151,medio-alto
+Georgia,Asia,2013,4.049,8.188,medio-alto
+Georgia,Asia,2014,4.035,8.252,medio-alto
+Georgia,Asia,2015,4.024,8.369,medio-alto
+Georgia,Asia,2016,4.015,9.245,medio-alto
+Georgia,Asia,2017,4.009,9.206,medio-alto
+Georgia,Asia,2018,4.003,9.934,medio-alto
+Georgia,Asia,2019,3.997,8.928,medio-alto
+Germany,Europa,2011,80.856,232.1,alto
+Germany,Europa,2012,80.973,242.6,alto
+Germany,Europa,2013,81.174,249.6,alto
+Germany,Europa,2014,81.45,259.7,alto
+Germany,Europa,2015,81.787,280.6,alto
+Germany,Europa,2016,82.194,274.3,alto
+Germany,Europa,2017,82.658,292.8,alto
+Germany,Europa,2018,83.124,300.9,alto
+Germany,Europa,2019,83.517,317.5,alto
+Ghana,África,2011,25.388,7.501,bajo-medio
+Ghana,África,2012,25.996,8.006,bajo-medio
+Ghana,África,2013,26.608,8.17,bajo-medio
+Ghana,África,2014,27.224,8.326,bajo-medio
+Ghana,África,2015,27.849,5.809,bajo-medio
+Ghana,África,2016,28.482,5.551,bajo-medio
+Ghana,África,2017,29.121,5.605,bajo-medio
+Ghana,África,2018,29.767,6.007,bajo-medio
+Ghana,África,2019,30.418,6.063,bajo-medio
+Gibraltar,Europa,2011,0.034,0.0,alto
+Gibraltar,Europa,2012,0.034,0.0,alto
+Gibraltar,Europa,2013,0.034,0.0,alto
+Gibraltar,Europa,2014,0.034,0.0,alto
+Gibraltar,Europa,2015,0.034,0.0,alto
+Gibraltar,Europa,2016,0.034,0.0,alto
+Gibraltar,Europa,2017,0.034,0.0,alto
+Gibraltar,Europa,2018,0.034,0.0,alto
+Gibraltar,Europa,2019,0.034,0.0,alto
+Greece,Europa,2011,10.829,8.144,alto
+Greece,Europa,2012,10.781,10.151,alto
+Greece,Europa,2013,10.741,14.35,alto
+Greece,Europa,2014,10.701,12.176,alto
+Greece,Europa,2015,10.66,14.85,alto
+Greece,Europa,2016,10.615,14.893,alto
+Greece,Europa,2017,10.569,13.801,alto
+Greece,Europa,2018,10.522,16.148,alto
+Greece,Europa,2019,10.473,15.807,alto
+Greenland,Norteamérica,2011,0.057,0.335,alto
+Greenland,Norteamérica,2012,0.056,0.342,alto
+Greenland,Norteamérica,2013,0.056,0.374,alto
+Greenland,Norteamérica,2014,0.056,0.392,alto
+Greenland,Norteamérica,2015,0.056,0.419,alto
+Greenland,Norteamérica,2016,0.056,0.397,alto
+Greenland,Norteamérica,2017,0.056,0.384,alto
+Greenland,Norteamérica,2018,0.057,0.414,alto
+Greenland,Norteamérica,2019,0.057,0.412,alto
+Grenada,Norteamérica,2011,0.107,0.003,medio-alto
+Grenada,Norteamérica,2012,0.107,0.003,medio-alto
+Grenada,Norteamérica,2013,0.108,0.003,medio-alto
+Grenada,Norteamérica,2014,0.109,0.007,medio-alto
+Grenada,Norteamérica,2015,0.11,0.002,medio-alto
+Grenada,Norteamérica,2016,0.11,0.003,medio-alto
+Grenada,Norteamérica,2017,0.111,0.003,medio-alto
+Grenada,Norteamérica,2018,0.111,0.003,medio-alto
+Grenada,Norteamérica,2019,0.112,0.003,medio-alto
+Guadeloupe,Norteamérica,2011,0.406,0.233,alto
+Guadeloupe,Norteamérica,2012,0.404,0.204,alto
+Guadeloupe,Norteamérica,2013,0.403,0.202,alto
+Guadeloupe,Norteamérica,2014,0.401,0.218,alto
+Guadeloupe,Norteamérica,2015,0.4,0.209,alto
+Guadeloupe,Norteamérica,2016,0.4,0.197,alto
+Guadeloupe,Norteamérica,2017,0.4,0.209,alto
+Guadeloupe,Norteamérica,2018,0.4,0.215,alto
+Guadeloupe,Norteamérica,2019,0.4,0.224,alto
+Guam,Oceanía,2011,0.16,0.0,alto
+Guam,Oceanía,2012,0.16,0.001,alto
+Guam,Oceanía,2013,0.16,0.002,alto
+Guam,Oceanía,2014,0.161,0.003,alto
+Guam,Oceanía,2015,0.162,0.031,alto
+Guam,Oceanía,2016,0.163,0.066,alto
+Guam,Oceanía,2017,0.164,0.06,alto
+Guam,Oceanía,2018,0.166,0.068,alto
+Guam,Oceanía,2019,0.167,0.068,alto
+Guatemala,Norteamérica,2011,14.949,5.864,medio-alto
+Guatemala,Norteamérica,2012,15.271,6.424,medio-alto
+Guatemala,Norteamérica,2013,15.596,6.994,medio-alto
+Guatemala,Norteamérica,2014,15.923,7.392,medio-alto
+Guatemala,Norteamérica,2015,16.252,6.719,medio-alto
+Guatemala,Norteamérica,2016,16.583,7.354,medio-alto
+Guatemala,Norteamérica,2017,16.915,8.984,medio-alto
+Guatemala,Norteamérica,2018,17.248,8.659,medio-alto
+Guatemala,Norteamérica,2019,17.581,8.064,medio-alto
+Guinea,África,2011,10.42,0.414,bajo-medio
+Guinea,África,2012,10.652,0.487,bajo-medio
+Guinea,África,2013,10.893,0.482,bajo-medio
+Guinea,África,2014,11.151,0.427,bajo-medio
+Guinea,África,2015,11.432,0.902,bajo-medio
+Guinea,África,2016,11.738,1.105,bajo-medio
+Guinea,África,2017,12.068,1.233,bajo-medio
+Guinea,África,2018,12.414,0.762,bajo-medio
+Guinea,África,2019,12.771,0.715,bajo-medio
+Guinea-Bissau,África,2011,1.563,0.0,bajo
+Guinea-Bissau,África,2012,1.605,0.0,bajo
+Guinea-Bissau,África,2013,1.648,0.0,bajo
+Guinea-Bissau,África,2014,1.692,0.0,bajo
+Guinea-Bissau,África,2015,1.737,0.001,bajo
+Guinea-Bissau,África,2016,1.782,0.001,bajo
+Guinea-Bissau,África,2017,1.828,0.001,bajo
+Guinea-Bissau,África,2018,1.874,0.002,bajo
+Guinea-Bissau,África,2019,1.921,0.002,bajo
+Guyana,Sudamérica,2011,0.752,0.013,alto
+Guyana,Sudamérica,2012,0.755,0.019,alto
+Guyana,Sudamérica,2013,0.759,0.022,alto
+Guyana,Sudamérica,2014,0.763,0.022,alto
+Guyana,Sudamérica,2015,0.767,0.029,alto
+Guyana,Sudamérica,2016,0.771,0.022,alto
+Guyana,Sudamérica,2017,0.775,0.019,alto
+Guyana,Sudamérica,2018,0.779,0.019,alto
+Guyana,Sudamérica,2019,0.783,0.014,alto
+Haiti,Norteamérica,2011,10.1,0.121,bajo-medio
+Haiti,Norteamérica,2012,10.251,0.221,bajo-medio
+Haiti,Norteamérica,2013,10.401,0.142,bajo-medio
+Haiti,Norteamérica,2014,10.549,0.091,bajo-medio
+Haiti,Norteamérica,2015,10.696,0.085,bajo-medio
+Haiti,Norteamérica,2016,10.84,0.071,bajo-medio
+Haiti,Norteamérica,2017,10.982,0.127,bajo-medio
+Haiti,Norteamérica,2018,11.123,0.196,bajo-medio
+Haiti,Norteamérica,2019,11.263,0.234,bajo-medio
+Honduras,Norteamérica,2011,8.481,3.441,bajo-medio
+Honduras,Norteamérica,2012,8.641,3.638,bajo-medio
+Honduras,Norteamérica,2013,8.799,3.623,bajo-medio
+Honduras,Norteamérica,2014,8.956,3.358,bajo-medio
+Honduras,Norteamérica,2015,9.113,3.923,bajo-medio
+Honduras,Norteamérica,2016,9.271,4.579,bajo-medio
+Honduras,Norteamérica,2017,9.429,5.557,bajo-medio
+Honduras,Norteamérica,2018,9.588,6.365,bajo-medio
+Honduras,Norteamérica,2019,9.746,6.808,bajo-medio
+Hong Kong,Asia,2011,7.007,0.045,alto
+Hong Kong,Asia,2012,7.047,0.042,alto
+Hong Kong,Asia,2013,7.089,0.038,alto
+Hong Kong,Asia,2014,7.135,0.045,alto
+Hong Kong,Asia,2015,7.186,0.073,alto
+Hong Kong,Asia,2016,7.244,0.092,alto
+Hong Kong,Asia,2017,7.306,0.091,alto
+Hong Kong,Asia,2018,7.372,0.093,alto
+Hong Kong,Asia,2019,7.436,0.1,alto
+Hungary,Europa,2011,9.896,18.393,alto
+Hungary,Europa,2012,9.864,18.439,alto
+Hungary,Europa,2013,9.834,18.157,alto
+Hungary,Europa,2014,9.805,18.8,alto
+Hungary,Europa,2015,9.778,19.063,alto
+Hungary,Europa,2016,9.753,19.312,alto
+Hungary,Europa,2017,9.73,19.58,alto
+Hungary,Europa,2018,9.708,19.486,alto
+Hungary,Europa,2019,9.685,21.018,alto
+Iceland,Europa,2011,0.323,16.849,alto
+Iceland,Europa,2012,0.326,17.293,alto
+Iceland,Europa,2013,0.327,17.995,alto
+Iceland,Europa,2014,0.329,17.8,alto
+Iceland,Europa,2015,0.33,18.554,alto
+Iceland,Europa,2016,0.332,18.169,alto
+Iceland,Europa,2017,0.334,18.844,alto
+Iceland,Europa,2018,0.337,19.43,alto
+Iceland,Europa,2019,0.339,19.262,alto
+India,Asia,2011,1250.288,206.844,bajo-medio
+India,Asia,2012,1265.779968,201.738,bajo-medio
+India,Asia,2013,1280.841984,225.74,bajo-medio
+India,Asia,2014,1295.601024,233.81,bajo-medio
+India,Asia,2015,1310.151936,226.74,bajo-medio
+India,Asia,2016,1324.516992,237.367,bajo-medio
+India,Asia,2017,1338.676992,262.295,bajo-medio
+India,Asia,2018,1352.642048,292.655,bajo-medio
+India,Asia,2019,1366.418048,331.548,bajo-medio
+Indonesia,Asia,2011,245.116,21.888,medio-alto
+Indonesia,Asia,2012,248.452,22.367,medio-alto
+Indonesia,Asia,2013,251.804992,26.354,medio-alto
+Indonesia,Asia,2014,255.128,26.018,medio-alto
+Indonesia,Asia,2015,258.383008,24.797,medio-alto
+Indonesia,Asia,2016,261.556,30.972,medio-alto
+Indonesia,Asia,2017,264.651008,32.074,medio-alto
+Indonesia,Asia,2018,267.671008,49.134,medio-alto
+Indonesia,Asia,2019,270.625984,47.663,medio-alto
+Iran,Asia,2011,74.635,12.274,bajo-medio
+Iran,Asia,2012,75.54,13.881,bajo-medio
+Iran,Asia,2013,76.482,18.731,bajo-medio
+Iran,Asia,2014,77.466,17.854,bajo-medio
+Iran,Asia,2015,78.492,17.382,bajo-medio
+Iran,Asia,2016,79.564,22.459,bajo-medio
+Iran,Asia,2017,80.674,21.681,bajo-medio
+Iran,Asia,2018,81.8,22.521,bajo-medio
+Iran,Asia,2019,82.914,36.603,bajo-medio
+Iraq,Asia,2011,30.725,3.363,medio-alto
+Iraq,Asia,2012,31.89,4.348,medio-alto
+Iraq,Asia,2013,33.157,4.755,medio-alto
+Iraq,Asia,2014,34.412,2.959,medio-alto
+Iraq,Asia,2015,35.572,2.578,medio-alto
+Iraq,Asia,2016,36.611,3.394,medio-alto
+Iraq,Asia,2017,37.553,2.211,medio-alto
+Iraq,Asia,2018,38.434,1.857,medio-alto
+Iraq,Asia,2019,39.31,2.51,medio-alto
+Ireland,Europa,2011,4.591,5.424,alto
+Ireland,Europa,2012,4.608,5.256,alto
+Ireland,Europa,2013,4.615,5.628,alto
+Ireland,Europa,2014,4.627,6.392,alto
+Ireland,Europa,2015,4.652,7.861,alto
+Ireland,Europa,2016,4.696,7.513,alto
+Ireland,Europa,2017,4.753,8.879,alto
+Ireland,Europa,2018,4.819,10.195,alto
+Ireland,Europa,2019,4.882,11.209,alto
+Israel,Asia,2011,7.487,0.281,alto
+Israel,Asia,2012,7.615,0.461,alto
+Israel,Asia,2013,7.735,0.607,alto
+Israel,Asia,2014,7.854,0.957,alto
+Israel,Asia,2015,7.978,1.317,alto
+Israel,Asia,2016,8.109,1.761,alto
+Israel,Asia,2017,8.244,1.729,alto
+Israel,Asia,2018,8.382,1.809,alto
+Israel,Asia,2019,8.519,2.832,alto
+Italy,Europa,2011,59.589,82.96,alto
+Italy,Europa,2012,59.879,92.221,alto
+Italy,Europa,2013,60.167,112.001,alto
+Italy,Europa,2014,60.41,120.67,alto
+Italy,Europa,2015,60.578,108.894,alto
+Italy,Europa,2016,60.663,108.011,alto
+Italy,Europa,2017,60.674,103.886,alto
+Italy,Europa,2018,60.627,114.402,alto
+Italy,Europa,2019,60.55,117.079,alto
+Jamaica,Norteamérica,2011,2.826,0.269,medio-alto
+Jamaica,Norteamérica,2012,2.842,0.284,medio-alto
+Jamaica,Norteamérica,2013,2.859,0.26,medio-alto
+Jamaica,Norteamérica,2014,2.875,0.287,medio-alto
+Jamaica,Norteamérica,2015,2.891,0.283,medio-alto
+Jamaica,Norteamérica,2016,2.906,0.345,medio-alto
+Jamaica,Norteamérica,2017,2.921,0.51,medio-alto
+Jamaica,Norteamérica,2018,2.935,0.544,medio-alto
+Jamaica,Norteamérica,2019,2.948,0.561,medio-alto
+Japan,Asia,2011,128.499,302.298,alto
+Japan,Asia,2012,128.424,157.804,alto
+Japan,Asia,2013,128.314,166.065,alto
+Japan,Asia,2014,128.169,166.545,alto
+Japan,Asia,2015,127.985,187.758,alto
+Japan,Asia,2016,127.763,197.294,alto
+Japan,Asia,2017,127.503,219.96,alto
+Japan,Asia,2018,127.202,265.542,alto
+Japan,Asia,2019,126.86,291.22,alto
+Jordan,Asia,2011,7.663,0.065,bajo-medio
+Jordan,Asia,2012,8.09,0.069,bajo-medio
+Jordan,Asia,2013,8.519,0.061,bajo-medio
+Jordan,Asia,2014,8.919,0.063,bajo-medio
+Jordan,Asia,2015,9.267,0.179,bajo-medio
+Jordan,Asia,2016,9.554,0.858,bajo-medio
+Jordan,Asia,2017,9.786,1.398,bajo-medio
+Jordan,Asia,2018,9.965,2.188,bajo-medio
+Jordan,Asia,2019,10.102,2.717,bajo-medio
+Kazakhstan,Asia,2011,16.491,7.805,medio-alto
+Kazakhstan,Asia,2012,16.752,7.564,medio-alto
+Kazakhstan,Asia,2013,17.026,7.661,medio-alto
+Kazakhstan,Asia,2014,17.303,8.291,medio-alto
+Kazakhstan,Asia,2015,17.572,9.429,medio-alto
+Kazakhstan,Asia,2016,17.831,11.92,medio-alto
+Kazakhstan,Asia,2017,18.08,11.6,medio-alto
+Kazakhstan,Asia,2018,18.32,11.137,medio-alto
+Kazakhstan,Asia,2019,18.551,10.629,medio-alto
+Kenya,África,2011,43.178,5.12,bajo-medio
+Kenya,África,2012,44.343,6.008,bajo-medio
+Kenya,África,2013,45.52,5.915,bajo-medio
+Kenya,África,2014,46.7,6.404,bajo-medio
+Kenya,África,2015,47.878,8.489,bajo-medio
+Kenya,África,2016,49.052,8.011,bajo-medio
+Kenya,África,2017,50.221,8.175,bajo-medio
+Kenya,África,2018,51.393,9.652,bajo-medio
+Kenya,África,2019,52.574,10.192,bajo-medio
+Kiribati,Oceanía,2011,0.105,0.001,bajo-medio
+Kiribati,Oceanía,2012,0.106,0.001,bajo-medio
+Kiribati,Oceanía,2013,0.108,0.001,bajo-medio
+Kiribati,Oceanía,2014,0.109,0.001,bajo-medio
+Kiribati,Oceanía,2015,0.111,0.004,bajo-medio
+Kiribati,Oceanía,2016,0.113,0.005,bajo-medio
+Kiribati,Oceanía,2017,0.114,0.005,bajo-medio
+Kiribati,Oceanía,2018,0.116,0.005,bajo-medio
+Kiribati,Oceanía,2019,0.118,0.005,bajo-medio
+Kuwait,Asia,2011,3.168,0.0,alto
+Kuwait,Asia,2012,3.349,0.0,alto
+Kuwait,Asia,2013,3.526,0.004,alto
+Kuwait,Asia,2014,3.691,0.007,alto
+Kuwait,Asia,2015,3.836,0.009,alto
+Kuwait,Asia,2016,3.957,0.053,alto
+Kuwait,Asia,2017,4.056,0.067,alto
+Kuwait,Asia,2018,4.137,0.084,alto
+Kuwait,Asia,2019,4.207,0.158,alto
+Kyrgyzstan,Asia,2011,5.518,13.998,bajo-medio
+Kyrgyzstan,Asia,2012,5.622,14.037,bajo-medio
+Kyrgyzstan,Asia,2013,5.731,12.996,bajo-medio
+Kyrgyzstan,Asia,2014,5.845,13.165,bajo-medio
+Kyrgyzstan,Asia,2015,5.959,10.989,bajo-medio
+Kyrgyzstan,Asia,2016,6.074,11.379,bajo-medio
+Kyrgyzstan,Asia,2017,6.19,14.061,bajo-medio
+Kyrgyzstan,Asia,2018,6.304,14.175,bajo-medio
+Kyrgyzstan,Asia,2019,6.416,13.706,bajo-medio
+Laos,Asia,2011,6.348,12.839,medio-alto
+Laos,Asia,2012,6.445,12.926,medio-alto
+Laos,Asia,2013,6.541,15.356,medio-alto
+Laos,Asia,2014,6.64,15.126,medio-alto
+Laos,Asia,2015,6.741,13.908,medio-alto
+Laos,Asia,2016,6.846,17.536,medio-alto
+Laos,Asia,2017,6.953,19.93,medio-alto
+Laos,Asia,2018,7.061,22.167,medio-alto
+Laos,Asia,2019,7.169,19.409,medio-alto
+Latvia,Europa,2011,2.094,3.076,alto
+Latvia,Europa,2012,2.069,4.109,alto
+Latvia,Europa,2013,2.045,3.533,alto
+Latvia,Europa,2014,2.021,2.802,alto
+Latvia,Europa,2015,1.998,2.777,alto
+Latvia,Europa,2016,1.974,3.482,alto
+Latvia,Europa,2017,1.951,5.462,alto
+Latvia,Europa,2018,1.928,3.499,alto
+Latvia,Europa,2019,1.907,3.135,alto
+Lebanon,Asia,2011,5.202,0.798,bajo-medio
+Lebanon,Asia,2012,5.538,0.999,bajo-medio
+Lebanon,Asia,2013,5.913,1.263,bajo-medio
+Lebanon,Asia,2014,6.261,0.204,bajo-medio
+Lebanon,Asia,2015,6.533,0.495,bajo-medio
+Lebanon,Asia,2016,6.714,0.412,bajo-medio
+Lebanon,Asia,2017,6.819,0.458,bajo-medio
+Lebanon,Asia,2018,6.859,0.419,bajo-medio
+Lebanon,Asia,2019,6.856,0.387,bajo-medio
+Lesotho,África,2011,2.004,0.49,bajo-medio
+Lesotho,África,2012,2.015,0.486,bajo-medio
+Lesotho,África,2013,2.029,0.515,bajo-medio
+Lesotho,África,2014,2.043,0.521,bajo-medio
+Lesotho,África,2015,2.059,0.533,bajo-medio
+Lesotho,África,2016,2.075,0.523,bajo-medio
+Lesotho,África,2017,2.092,0.54,bajo-medio
+Lesotho,África,2018,2.108,0.54,bajo-medio
+Lesotho,África,2019,2.125,0.542,bajo-medio
+Liberia,África,2011,4.017,0.0,bajo
+Liberia,África,2012,4.136,0.0,bajo
+Liberia,África,2013,4.248,0.0,bajo
+Liberia,África,2014,4.36,0.0,bajo
+Liberia,África,2015,4.472,0.0,bajo
+Liberia,África,2016,4.587,0.0,bajo
+Liberia,África,2017,4.702,0.003,bajo
+Liberia,África,2018,4.819,0.004,bajo
+Liberia,África,2019,4.937,0.004,bajo
+Libya,África,2011,6.247,0.006,medio-alto
+Libya,África,2012,6.286,0.007,medio-alto
+Libya,África,2013,6.32,0.008,medio-alto
+Libya,África,2014,6.362,0.008,medio-alto
+Libya,África,2015,6.418,0.008,medio-alto
+Libya,África,2016,6.492,0.008,medio-alto
+Libya,África,2017,6.581,0.008,medio-alto
+Libya,África,2018,6.679,0.008,medio-alto
+Libya,África,2019,6.777,0.008,medio-alto
+Lithuania,Europa,2011,3.083,1.113,alto
+Lithuania,Europa,2012,3.046,1.183,alto
+Lithuania,Europa,2013,3.009,1.525,alto
+Lithuania,Europa,2014,2.971,1.511,alto
+Lithuania,Europa,2015,2.932,1.679,alto
+Lithuania,Europa,2016,2.89,2.095,alto
+Lithuania,Europa,2017,2.845,2.538,alto
+Lithuania,Europa,2018,2.801,2.205,alto
+Lithuania,Europa,2019,2.76,2.439,alto
+Luxembourg,Europa,2011,0.519,0.246,alto
+Luxembourg,Europa,2012,0.531,0.308,alto
+Luxembourg,Europa,2013,0.543,0.37,alto
+Luxembourg,Europa,2014,0.555,0.398,alto
+Luxembourg,Europa,2015,0.567,0.431,alto
+Luxembourg,Europa,2016,0.579,0.457,alto
+Luxembourg,Europa,2017,0.592,0.6,alto
+Luxembourg,Europa,2018,0.604,0.684,alto
+Luxembourg,Europa,2019,0.616,0.684,alto
+Madagascar,África,2011,21.744,0.702,bajo
+Madagascar,África,2012,22.347,0.768,bajo
+Madagascar,África,2013,22.961,0.827,bajo
+Madagascar,África,2014,23.59,0.908,bajo
+Madagascar,África,2015,24.234,0.958,bajo
+Madagascar,África,2016,24.894,0.921,bajo
+Madagascar,África,2017,25.571,0.831,bajo
+Madagascar,África,2018,26.262,1.008,bajo
+Madagascar,África,2019,26.969,1.022,bajo
+Malawi,África,2011,14.962,1.839,bajo
+Malawi,África,2012,15.396,1.916,bajo
+Malawi,África,2013,15.839,1.924,bajo
+Malawi,África,2014,16.29,2.034,bajo
+Malawi,África,2015,16.745,2.032,bajo
+Malawi,África,2016,17.205,2.021,bajo
+Malawi,África,2017,17.67,1.915,bajo
+Malawi,África,2018,18.143,1.457,bajo
+Malawi,África,2019,18.629,1.262,bajo
+Malaysia,Asia,2011,28.651,8.631,medio-alto
+Malaysia,Asia,2012,29.068,9.839,medio-alto
+Malaysia,Asia,2013,29.469,12.97,medio-alto
+Malaysia,Asia,2014,29.867,14.336,medio-alto
+Malaysia,Asia,2015,30.271,16.39,medio-alto
+Malaysia,Asia,2016,30.685,21.223,medio-alto
+Malaysia,Asia,2017,31.105,27.618,medio-alto
+Malaysia,Asia,2018,31.528,27.957,medio-alto
+Malaysia,Asia,2019,31.95,29.082,medio-alto
+Maldives,Asia,2011,0.38,0.002,medio-alto
+Maldives,Asia,2012,0.397,0.002,medio-alto
+Maldives,Asia,2013,0.416,0.002,medio-alto
+Maldives,Asia,2014,0.435,0.002,medio-alto
+Maldives,Asia,2015,0.455,0.002,medio-alto
+Maldives,Asia,2016,0.476,0.002,medio-alto
+Maldives,Asia,2017,0.496,0.002,medio-alto
+Maldives,Asia,2018,0.516,0.002,medio-alto
+Maldives,Asia,2019,0.531,0.002,medio-alto
+Mali,África,2011,15.515,1.213,bajo
+Mali,África,2012,15.979,1.317,bajo
+Mali,África,2013,16.45,1.192,bajo
+Mali,África,2014,16.934,1.46,bajo
+Mali,África,2015,17.439,1.204,bajo
+Mali,África,2016,17.965,1.563,bajo
+Mali,África,2017,18.512,1.569,bajo
+Mali,África,2018,19.078,1.447,bajo
+Mali,África,2019,19.658,1.527,bajo
+Malta,Europa,2011,0.418,0.01,alto
+Malta,Europa,2012,0.422,0.026,alto
+Malta,Europa,2013,0.426,0.035,alto
+Malta,Europa,2014,0.43,0.075,alto
+Malta,Europa,2015,0.434,0.102,alto
+Malta,Europa,2016,0.436,0.136,alto
+Malta,Europa,2017,0.438,0.172,alto
+Malta,Europa,2018,0.439,0.199,alto
+Malta,Europa,2019,0.44,0.199,alto
+Martinique,Norteamérica,2011,0.392,0.016,medio-alto
+Martinique,Norteamérica,2012,0.388,0.021,medio-alto
+Martinique,Norteamérica,2013,0.385,0.018,medio-alto
+Martinique,Norteamérica,2014,0.381,0.025,medio-alto
+Martinique,Norteamérica,2015,0.378,0.029,medio-alto
+Martinique,Norteamérica,2016,0.377,0.03,medio-alto
+Martinique,Norteamérica,2017,0.376,0.026,medio-alto
+Martinique,Norteamérica,2018,0.376,0.096,medio-alto
+Martinique,Norteamérica,2019,0.376,0.117,medio-alto
+Mauritania,África,2011,3.599,0.13,bajo-medio
+Mauritania,África,2012,3.707,0.136,bajo-medio
+Mauritania,África,2013,3.817,0.209,bajo-medio
+Mauritania,África,2014,3.931,0.223,bajo-medio
+Mauritania,África,2015,4.046,0.32,bajo-medio
+Mauritania,África,2016,4.164,0.291,bajo-medio
+Mauritania,África,2017,4.283,0.335,bajo-medio
+Mauritania,África,2018,4.403,0.438,bajo-medio
+Mauritania,África,2019,4.526,0.448,bajo-medio
+Mauritius,África,2011,1.251,0.551,medio-alto
+Mauritius,África,2012,1.253,0.578,medio-alto
+Mauritius,África,2013,1.255,0.594,medio-alto
+Mauritius,África,2014,1.257,0.595,medio-alto
+Mauritius,África,2015,1.259,0.68,medio-alto
+Mauritius,África,2016,1.262,0.663,medio-alto
+Mauritius,África,2017,1.264,0.623,medio-alto
+Mauritius,África,2018,1.267,0.648,medio-alto
+Mauritius,África,2019,1.27,0.636,medio-alto
+Mexico,Norteamérica,2011,115.695,53.839,medio-alto
+Mexico,Norteamérica,2012,117.274,50.416,medio-alto
+Mexico,Norteamérica,2013,118.827,50.457,medio-alto
+Mexico,Norteamérica,2014,120.355,61.565,medio-alto
+Mexico,Norteamérica,2015,121.858,57.855,medio-alto
+Mexico,Norteamérica,2016,123.333,57.771,medio-alto
+Mexico,Norteamérica,2017,124.777,61.115,medio-alto
+Mexico,Norteamérica,2018,126.191,67.207,medio-alto
+Mexico,Norteamérica,2019,127.576,66.241,medio-alto
+Moldova,Europa,2011,4.079,0.348,medio-alto
+Moldova,Europa,2012,4.076,0.266,medio-alto
+Moldova,Europa,2013,4.075,0.314,medio-alto
+Moldova,Europa,2014,4.073,0.332,medio-alto
+Moldova,Europa,2015,4.071,0.284,medio-alto
+Moldova,Europa,2016,4.066,0.247,medio-alto
+Moldova,Europa,2017,4.06,0.314,medio-alto
+Moldova,Europa,2018,4.052,0.329,medio-alto
+Moldova,Europa,2019,4.043,0.375,medio-alto
+Mongolia,Asia,2011,2.77,0.061,bajo-medio
+Mongolia,Asia,2012,2.825,0.06,bajo-medio
+Mongolia,Asia,2013,2.882,0.122,bajo-medio
+Mongolia,Asia,2014,2.94,0.2,bajo-medio
+Mongolia,Asia,2015,2.998,0.221,bajo-medio
+Mongolia,Asia,2016,3.056,0.247,bajo-medio
+Mongolia,Asia,2017,3.114,0.416,bajo-medio
+Mongolia,Asia,2018,3.17,0.457,bajo-medio
+Mongolia,Asia,2019,3.225,0.513,bajo-medio
+Montenegro,Europa,2011,0.625,1.192,medio-alto
+Montenegro,Europa,2012,0.626,1.462,medio-alto
+Montenegro,Europa,2013,0.626,2.479,medio-alto
+Montenegro,Europa,2014,0.627,1.734,medio-alto
+Montenegro,Europa,2015,0.627,1.476,medio-alto
+Montenegro,Europa,2016,0.627,1.825,medio-alto
+Montenegro,Europa,2017,0.628,1.111,medio-alto
+Montenegro,Europa,2018,0.628,2.235,medio-alto
+Montenegro,Europa,2019,0.628,2.507,medio-alto
+Montserrat,Norteamérica,2011,0.005,0.0,alto
+Montserrat,Norteamérica,2012,0.005,0.0,alto
+Montserrat,Norteamérica,2013,0.005,0.0,alto
+Montserrat,Norteamérica,2014,0.005,0.0,alto
+Montserrat,Norteamérica,2015,0.005,0.0,alto
+Montserrat,Norteamérica,2016,0.005,0.0,alto
+Montserrat,Norteamérica,2017,0.005,0.0,alto
+Montserrat,Norteamérica,2018,0.005,0.0,alto
+Montserrat,Norteamérica,2019,0.005,0.0,alto
+Morocco,África,2011,32.782,2.676,bajo-medio
+Morocco,África,2012,33.242,2.348,bajo-medio
+Morocco,África,2013,33.716,4.118,bajo-medio
+Morocco,África,2014,34.192,3.546,bajo-medio
+Morocco,África,2015,34.664,4.396,bajo-medio
+Morocco,África,2016,35.126,4.655,bajo-medio
+Morocco,África,2017,35.581,4.636,bajo-medio
+Morocco,África,2018,36.029,6.481,bajo-medio
+Morocco,África,2019,36.472,7.933,bajo-medio
+Mozambique,África,2011,24.188,16.71,bajo
+Mozambique,África,2012,24.863,15.062,bajo
+Mozambique,África,2013,25.561,14.464,bajo
+Mozambique,África,2014,26.286,16.086,bajo
+Mozambique,África,2015,27.042,17.099,bajo
+Mozambique,África,2016,27.83,15.51,bajo
+Mozambique,África,2017,28.649,13.98,bajo
+Mozambique,África,2018,29.496,13.845,bajo
+Mozambique,África,2019,30.366,12.761,bajo
+Namibia,África,2011,2.157,1.399,medio-alto
+Namibia,África,2012,2.195,1.606,medio-alto
+Namibia,África,2013,2.234,1.282,medio-alto
+Namibia,África,2014,2.273,1.5,medio-alto
+Namibia,África,2015,2.315,1.527,medio-alto
+Namibia,África,2016,2.358,1.403,medio-alto
+Namibia,África,2017,2.403,1.608,medio-alto
+Namibia,África,2018,2.448,1.164,medio-alto
+Namibia,África,2019,2.495,1.045,medio-alto
+Nauru,Oceanía,2011,0.01,0.0,alto
+Nauru,Oceanía,2012,0.01,0.0,alto
+Nauru,Oceanía,2013,0.01,0.0,alto
+Nauru,Oceanía,2014,0.01,0.0,alto
+Nauru,Oceanía,2015,0.01,0.0,alto
+Nauru,Oceanía,2016,0.01,0.0,alto
+Nauru,Oceanía,2017,0.011,0.0,alto
+Nauru,Oceanía,2018,0.011,0.0,alto
+Nauru,Oceanía,2019,0.011,0.0,alto
+Nepal,Asia,2011,27.041,3.466,bajo-medio
+Nepal,Asia,2012,26.989,3.511,bajo-medio
+Nepal,Asia,2013,26.917,3.487,bajo-medio
+Nepal,Asia,2014,26.906,3.774,bajo-medio
+Nepal,Asia,2015,27.015,3.443,bajo-medio
+Nepal,Asia,2016,27.263,4.22,bajo-medio
+Nepal,Asia,2017,27.633,4.67,bajo-medio
+Nepal,Asia,2018,28.096,4.941,bajo-medio
+Nepal,Asia,2019,28.609,5.42,bajo-medio
+Netherlands,Europa,2011,16.738,16.461,alto
+Netherlands,Europa,2012,16.792,16.396,alto
+Netherlands,Europa,2013,16.844,14.997,alto
+Netherlands,Europa,2014,16.893,15.739,alto
+Netherlands,Europa,2015,16.938,17.762,alto
+Netherlands,Europa,2016,16.981,18.737,alto
+Netherlands,Europa,2017,17.021,20.839,alto
+Netherlands,Europa,2018,17.06,22.399,alto
+Netherlands,Europa,2019,17.097,26.625,alto
+New Caledonia,Oceanía,2011,0.257,0.417,alto
+New Caledonia,Oceanía,2012,0.261,0.452,alto
+New Caledonia,Oceanía,2013,0.264,0.508,alto
+New Caledonia,Oceanía,2014,0.268,0.346,alto
+New Caledonia,Oceanía,2015,0.271,0.402,alto
+New Caledonia,Oceanía,2016,0.274,0.277,alto
+New Caledonia,Oceanía,2017,0.277,0.406,alto
+New Caledonia,Oceanía,2018,0.28,0.362,alto
+New Caledonia,Oceanía,2019,0.283,0.355,alto
+New Zealand,Oceanía,2011,4.419,33.233,alto
+New Zealand,Oceanía,2012,4.468,31.223,alto
+New Zealand,Oceanía,2013,4.519,31.53,alto
+New Zealand,Oceanía,2014,4.568,33.827,alto
+New Zealand,Oceanía,2015,4.615,34.754,alto
+New Zealand,Oceanía,2016,4.659,36.135,alto
+New Zealand,Oceanía,2017,4.702,35.176,alto
+New Zealand,Oceanía,2018,4.743,36.319,alto
+New Zealand,Oceanía,2019,4.783,35.769,alto
+Nicaragua,Norteamérica,2011,5.903,1.301,bajo-medio
+Nicaragua,Norteamérica,2012,5.983,1.731,bajo-medio
+Nicaragua,Norteamérica,2013,6.062,2.176,bajo-medio
+Nicaragua,Norteamérica,2014,6.143,2.394,bajo-medio
+Nicaragua,Norteamérica,2015,6.223,2.293,bajo-medio
+Nicaragua,Norteamérica,2016,6.304,2.392,bajo-medio
+Nicaragua,Norteamérica,2017,6.385,2.529,bajo-medio
+Nicaragua,Norteamérica,2018,6.466,2.731,bajo-medio
+Nicaragua,Norteamérica,2019,6.546,2.832,bajo-medio
+Niger,África,2011,17.115,0.0,bajo
+Niger,África,2012,17.795,0.0,bajo
+Niger,África,2013,18.504,0.004,bajo
+Niger,África,2014,19.24,0.004,bajo
+Niger,África,2015,20.002,0.004,bajo
+Niger,África,2016,20.789,0.005,bajo
+Niger,África,2017,21.602,0.006,bajo
+Niger,África,2018,22.443,0.024,bajo
+Niger,África,2019,23.311,0.024,bajo
+Nigeria,África,2011,162.804992,5.841,bajo-medio
+Nigeria,África,2012,167.228992,5.64,bajo-medio
+Nigeria,África,2013,171.766,5.316,bajo-medio
+Nigeria,África,2014,176.404992,5.34,bajo-medio
+Nigeria,África,2015,181.136992,5.713,bajo-medio
+Nigeria,África,2016,185.96,8.124,bajo-medio
+Nigeria,África,2017,190.872992,7.726,bajo-medio
+Nigeria,África,2018,195.875008,6.45,bajo-medio
+Nigeria,África,2019,200.964,6.696,bajo-medio
+Niue,Oceanía,2011,0.002,0.0,alto
+Niue,Oceanía,2012,0.002,0.0,alto
+Niue,Oceanía,2013,0.002,0.0,alto
+Niue,Oceanía,2014,0.002,0.0,alto
+Niue,Oceanía,2015,0.002,0.0,alto
+Niue,Oceanía,2016,0.002,0.0,alto
+Niue,Oceanía,2017,0.002,0.0,alto
+Niue,Oceanía,2018,0.002,0.0,alto
+Niue,Oceanía,2019,0.002,0.0,alto
+North Korea,Asia,2011,24.673,13.071,bajo
+North Korea,Asia,2012,24.801,13.369,bajo
+North Korea,Asia,2013,24.93,13.766,bajo
+North Korea,Asia,2014,25.058,12.877,bajo
+North Korea,Asia,2015,25.184,9.911,bajo
+North Korea,Asia,2016,25.308,12.685,bajo
+North Korea,Asia,2017,25.43,11.796,bajo
+North Korea,Asia,2018,25.55,12.688,bajo
+North Korea,Asia,2019,25.666,13.666,bajo
+North Macedonia,Europa,2011,2.072,1.434,medio-alto
+North Macedonia,Europa,2012,2.074,1.044,medio-alto
+North Macedonia,Europa,2013,2.076,1.593,medio-alto
+North Macedonia,Europa,2014,2.078,1.292,medio-alto
+North Macedonia,Europa,2015,2.079,2.029,medio-alto
+North Macedonia,Europa,2016,2.081,2.067,medio-alto
+North Macedonia,Europa,2017,2.082,1.296,medio-alto
+North Macedonia,Europa,2018,2.083,1.966,medio-alto
+North Macedonia,Europa,2019,2.083,1.344,medio-alto
+Norway,Europa,2011,4.948,121.502,alto
+Norway,Europa,2012,5.014,143.177,alto
+Norway,Europa,2013,5.079,130.032,alto
+Norway,Europa,2014,5.142,137.527,alto
+Norway,Europa,2015,5.2,139.649,alto
+Norway,Europa,2016,5.251,144.785,alto
+Norway,Europa,2017,5.296,144.958,alto
+Norway,Europa,2018,5.338,142.455,alto
+Norway,Europa,2019,5.379,129.655,alto
+Oman,Asia,2011,3.251,0.0,alto
+Oman,Asia,2012,3.498,0.0,alto
+Oman,Asia,2013,3.765,0.001,alto
+Oman,Asia,2014,4.027,0.001,alto
+Oman,Asia,2015,4.267,0.004,alto
+Oman,Asia,2016,4.479,0.004,alto
+Oman,Asia,2017,4.666,0.004,alto
+Oman,Asia,2018,4.829,0.004,alto
+Oman,Asia,2019,4.975,0.004,alto
+Pakistan,Asia,2011,183.34,33.521,bajo-medio
+Pakistan,Asia,2012,187.28,36.374,bajo-medio
+Pakistan,Asia,2013,191.260992,38.221,bajo-medio
+Pakistan,Asia,2014,195.304992,39.418,bajo-medio
+Pakistan,Asia,2015,199.427008,41.801,bajo-medio
+Pakistan,Asia,2016,203.631008,42.304,bajo-medio
+Pakistan,Asia,2017,207.906,42.062,bajo-medio
+Pakistan,Asia,2018,212.228,53.498,bajo-medio
+Pakistan,Asia,2019,216.564992,60.23,bajo-medio
+Palestine,Asia,2011,4.15,0.0,bajo
+Palestine,Asia,2012,4.242,0.0,bajo
+Palestine,Asia,2013,4.334,0.0,bajo
+Palestine,Asia,2014,4.429,0.0,bajo
+Palestine,Asia,2015,4.529,0.0,bajo
+Palestine,Asia,2016,4.636,0.0,bajo
+Palestine,Asia,2017,4.747,0.001,bajo
+Palestine,Asia,2018,4.863,0.0,bajo
+Palestine,Asia,2019,4.981,0.0,bajo
+Panama,Norteamérica,2011,3.706,4.08,alto
+Panama,Norteamérica,2012,3.771,5.36,alto
+Panama,Norteamérica,2013,3.835,5.137,alto
+Panama,Norteamérica,2014,3.901,5.132,alto
+Panama,Norteamérica,2015,3.968,6.664,alto
+Panama,Norteamérica,2016,4.037,7.187,alto
+Panama,Norteamérica,2017,4.107,7.859,alto
+Panama,Norteamérica,2018,4.177,8.63,alto
+Panama,Norteamérica,2019,4.246,9.311,alto
+Papua New Guinea,Oceanía,2011,7.472,1.384,bajo-medio
+Papua New Guinea,Oceanía,2012,7.631,1.001,bajo-medio
+Papua New Guinea,Oceanía,2013,7.788,1.019,bajo-medio
+Papua New Guinea,Oceanía,2014,7.947,1.045,bajo-medio
+Papua New Guinea,Oceanía,2015,8.108,1.04,bajo-medio
+Papua New Guinea,Oceanía,2016,8.272,1.035,bajo-medio
+Papua New Guinea,Oceanía,2017,8.438,0.831,bajo-medio
+Papua New Guinea,Oceanía,2018,8.606,0.822,bajo-medio
+Papua New Guinea,Oceanía,2019,8.776,0.843,bajo-medio
+Paraguay,Sudamérica,2011,6.334,57.049,medio-alto
+Paraguay,Sudamérica,2012,6.422,59.63,medio-alto
+Paraguay,Sudamérica,2013,6.51,59.9,medio-alto
+Paraguay,Sudamérica,2014,6.6,54.862,medio-alto
+Paraguay,Sudamérica,2015,6.689,55.332,medio-alto
+Paraguay,Sudamérica,2016,6.778,64.027,medio-alto
+Paraguay,Sudamérica,2017,6.867,59.769,medio-alto
+Paraguay,Sudamérica,2018,6.956,59.32,medio-alto
+Paraguay,Sudamérica,2019,7.045,49.821,medio-alto
+Peru,Sudamérica,2011,29.264,22.047,medio-alto
+Peru,Sudamérica,2012,29.507,21.869,medio-alto
+Peru,Sudamérica,2013,29.774,23.247,medio-alto
+Peru,Sudamérica,2014,30.09,23.728,medio-alto
+Peru,Sudamérica,2015,30.471,25.206,medio-alto
+Peru,Sudamérica,2016,30.926,25.776,medio-alto
+Peru,Sudamérica,2017,31.444,30.6,medio-alto
+Peru,Sudamérica,2018,31.989,33.086,medio-alto
+Peru,Sudamérica,2019,32.51,34.207,medio-alto
+Philippines,Asia,2011,95.57,19.75,bajo-medio
+Philippines,Asia,2012,97.213,20.657,bajo-medio
+Philippines,Asia,2013,98.872,19.803,bajo-medio
+Philippines,Asia,2014,100.513,19.719,bajo-medio
+Philippines,Asia,2015,102.113,20.874,bajo-medio
+Philippines,Asia,2016,103.664,21.898,bajo-medio
+Philippines,Asia,2017,105.173,23.092,bajo-medio
+Philippines,Asia,2018,106.651,22.66,bajo-medio
+Philippines,Asia,2019,108.117,21.425,bajo-medio
+Poland,Europa,2011,38.287,13.137,alto
+Poland,Europa,2012,38.227,16.879,alto
+Poland,Europa,2013,38.158,17.066,alto
+Poland,Europa,2014,38.091,19.842,alto
+Poland,Europa,2015,38.034,22.684,alto
+Poland,Europa,2016,37.989,22.807,alto
+Poland,Europa,2017,37.953,24.122,alto
+Poland,Europa,2018,37.922,21.617,alto
+Poland,Europa,2019,37.888,24.505,alto
+Portugal,Europa,2011,10.569,24.115,alto
+Portugal,Europa,2012,10.526,19.372,alto
+Portugal,Europa,2013,10.473,29.472,alto
+Portugal,Europa,2014,10.418,31.561,alto
+Portugal,Europa,2015,10.368,24.372,alto
+Portugal,Europa,2016,10.326,32.31,alto
+Portugal,Europa,2017,10.289,22.573,alto
+Portugal,Europa,2018,10.256,29.402,alto
+Portugal,Europa,2019,10.226,27.792,alto
+Puerto Rico,Norteamérica,2011,3.56,0.152,alto
+Puerto Rico,Norteamérica,2012,3.537,0.123,alto
+Puerto Rico,Norteamérica,2013,3.504,0.16,alto
+Puerto Rico,Norteamérica,2014,3.454,0.177,alto
+Puerto Rico,Norteamérica,2015,3.382,0.243,alto
+Puerto Rico,Norteamérica,2016,3.283,0.314,alto
+Puerto Rico,Norteamérica,2017,3.164,0.345,alto
+Puerto Rico,Norteamérica,2018,3.04,1.215,alto
+Puerto Rico,Norteamérica,2019,2.933,4.887,alto
+Qatar,Asia,2011,2.036,0.116,alto
+Qatar,Asia,2012,2.196,0.116,alto
+Qatar,Asia,2013,2.337,0.119,alto
+Qatar,Asia,2014,2.459,0.122,alto
+Qatar,Asia,2015,2.566,0.122,alto
+Qatar,Asia,2016,2.654,0.123,alto
+Qatar,Asia,2017,2.725,0.123,alto
+Qatar,Asia,2018,2.782,0.123,alto
+Qatar,Asia,2019,2.832,0.123,alto
+Romania,Europa,2011,20.337,28.06,alto
+Romania,Europa,2012,20.227,26.392,alto
+Romania,Europa,2013,20.133,31.766,alto
+Romania,Europa,2014,20.036,38.802,alto
+Romania,Europa,2015,19.925,37.84,alto
+Romania,Europa,2016,19.796,38.255,alto
+Romania,Europa,2017,19.654,35.791,alto
+Romania,Europa,2018,19.506,37.572,alto
+Romania,Europa,2019,19.365,36.016,alto
+Russia,Europa,2011,143.703008,329.508,medio-alto
+Russia,Europa,2012,143.994,334.051,medio-alto
+Russia,Europa,2013,144.324992,344.09,medio-alto
+Russia,Europa,2014,144.664992,346.397,medio-alto
+Russia,Europa,2015,144.984992,352.884,medio-alto
+Russia,Europa,2016,145.275008,370.344,medio-alto
+Russia,Europa,2017,145.53,377.091,medio-alto
+Russia,Europa,2018,145.734,374.987,medio-alto
+Russia,Europa,2019,145.872,392.997,medio-alto
+Rwanda,África,2011,10.293,0.132,bajo
+Rwanda,África,2012,10.55,0.138,bajo
+Rwanda,África,2013,10.812,0.15,bajo
+Rwanda,África,2014,11.084,0.212,bajo
+Rwanda,África,2015,11.369,0.305,bajo
+Rwanda,África,2016,11.669,0.364,bajo
+Rwanda,África,2017,11.981,0.421,bajo
+Rwanda,África,2018,12.302,0.387,bajo
+Rwanda,África,2019,12.627,0.403,bajo
+Saint Helena,África,2011,0.005,0.0,bajo
+Saint Helena,África,2012,0.005,0.0,bajo
+Saint Helena,África,2013,0.006,0.0,bajo
+Saint Helena,África,2014,0.006,0.0,bajo
+Saint Helena,África,2015,0.006,0.0,bajo
+Saint Helena,África,2016,0.006,0.0,bajo
+Saint Helena,África,2017,0.006,0.0,bajo
+Saint Helena,África,2018,0.006,0.0,bajo
+Saint Helena,África,2019,0.006,0.0,bajo
+Saint Kitts and Nevis,Norteamérica,2011,0.049,0.005,alto
+Saint Kitts and Nevis,Norteamérica,2012,0.05,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2013,0.05,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2014,0.051,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2015,0.051,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2016,0.052,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2017,0.052,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2018,0.052,0.008,alto
+Saint Kitts and Nevis,Norteamérica,2019,0.053,0.008,alto
+Saint Lucia,Norteamérica,2011,0.176,0.0,alto
+Saint Lucia,Norteamérica,2012,0.177,0.0,alto
+Saint Lucia,Norteamérica,2013,0.178,0.0,alto
+Saint Lucia,Norteamérica,2014,0.178,0.0,alto
+Saint Lucia,Norteamérica,2015,0.179,0.001,alto
+Saint Lucia,Norteamérica,2016,0.18,0.001,alto
+Saint Lucia,Norteamérica,2017,0.181,0.001,alto
+Saint Lucia,Norteamérica,2018,0.182,0.003,alto
+Saint Lucia,Norteamérica,2019,0.183,0.003,alto
+Saint Pierre and Miquelon,Norteamérica,2011,0.006,0.002,alto
+Saint Pierre and Miquelon,Norteamérica,2012,0.006,0.002,alto
+Saint Pierre and Miquelon,Norteamérica,2013,0.006,0.002,alto
+Saint Pierre and Miquelon,Norteamérica,2014,0.006,0.0,alto
+Saint Pierre and Miquelon,Norteamérica,2015,0.006,0.0,alto
+Saint Pierre and Miquelon,Norteamérica,2016,0.006,0.0,alto
+Saint Pierre and Miquelon,Norteamérica,2017,0.006,0.0,alto
+Saint Pierre and Miquelon,Norteamérica,2018,0.006,0.0,alto
+Saint Pierre and Miquelon,Norteamérica,2019,0.006,0.0,alto
+Saint Vincent and the Grenadines,Norteamérica,2011,0.108,0.025,alto
+Saint Vincent and the Grenadines,Norteamérica,2012,0.108,0.025,alto
+Saint Vincent and the Grenadines,Norteamérica,2013,0.109,0.023,alto
+Saint Vincent and the Grenadines,Norteamérica,2014,0.109,0.012,alto
+Saint Vincent and the Grenadines,Norteamérica,2015,0.109,0.018,alto
+Saint Vincent and the Grenadines,Norteamérica,2016,0.109,0.017,alto
+Saint Vincent and the Grenadines,Norteamérica,2017,0.11,0.021,alto
+Saint Vincent and the Grenadines,Norteamérica,2018,0.11,0.025,alto
+Saint Vincent and the Grenadines,Norteamérica,2019,0.111,0.025,alto
+Samoa,Oceanía,2011,0.187,0.055,bajo-medio
+Samoa,Oceanía,2012,0.189,0.037,bajo-medio
+Samoa,Oceanía,2013,0.191,0.032,bajo-medio
+Samoa,Oceanía,2014,0.192,0.03,bajo-medio
+Samoa,Oceanía,2015,0.194,0.031,bajo-medio
+Samoa,Oceanía,2016,0.195,0.031,bajo-medio
+Samoa,Oceanía,2017,0.195,0.035,bajo-medio
+Samoa,Oceanía,2018,0.196,0.043,bajo-medio
+Samoa,Oceanía,2019,0.197,0.047,bajo-medio
+Sao Tome and Principe,África,2011,0.185,0.006,bajo
+Sao Tome and Principe,África,2012,0.188,0.006,bajo
+Sao Tome and Principe,África,2013,0.192,0.006,bajo
+Sao Tome and Principe,África,2014,0.196,0.006,bajo
+Sao Tome and Principe,África,2015,0.199,0.008,bajo
+Sao Tome and Principe,África,2016,0.203,0.007,bajo
+Sao Tome and Principe,África,2017,0.207,0.007,bajo
+Sao Tome and Principe,África,2018,0.211,0.007,bajo
+Sao Tome and Principe,África,2019,0.215,0.007,bajo
+Saudi Arabia,Asia,2011,28.268,0.0,alto
+Saudi Arabia,Asia,2012,29.155,0.024,alto
+Saudi Arabia,Asia,2013,30.052,0.039,alto
+Saudi Arabia,Asia,2014,30.917,0.042,alto
+Saudi Arabia,Asia,2015,31.718,0.129,alto
+Saudi Arabia,Asia,2016,32.443,0.129,alto
+Saudi Arabia,Asia,2017,33.101,0.16,alto
+Saudi Arabia,Asia,2018,33.703,0.16,alto
+Saudi Arabia,Asia,2019,34.269,0.16,alto
+Senegal,África,2011,13.034,0.334,bajo-medio
+Senegal,África,2012,13.402,0.336,bajo-medio
+Senegal,África,2013,13.782,0.368,bajo-medio
+Senegal,África,2014,14.175,0.387,bajo-medio
+Senegal,África,2015,14.578,0.407,bajo-medio
+Senegal,África,2016,14.994,0.425,bajo-medio
+Senegal,África,2017,15.419,0.532,bajo-medio
+Senegal,África,2018,15.854,0.525,bajo-medio
+Senegal,África,2019,16.296,0.54,bajo-medio
+Serbia,Europa,2011,8.964,8.58,medio-alto
+Serbia,Europa,2012,8.94,9.2,medio-alto
+Serbia,Europa,2013,8.919,10.125,medio-alto
+Serbia,Europa,2014,8.898,10.925,medio-alto
+Serbia,Europa,2015,8.877,10.018,medio-alto
+Serbia,Europa,2016,8.854,10.76,medio-alto
+Serbia,Europa,2017,8.83,9.201,medio-alto
+Serbia,Europa,2018,8.803,10.803,medio-alto
+Serbia,Europa,2019,8.772,11.048,medio-alto
+Seychelles,África,2011,0.092,0.0,alto
+Seychelles,África,2012,0.093,0.0,alto
+Seychelles,África,2013,0.093,0.007,alto
+Seychelles,África,2014,0.094,0.008,alto
+Seychelles,África,2015,0.095,0.009,alto
+Seychelles,África,2016,0.096,0.002,alto
+Seychelles,África,2017,0.096,0.003,alto
+Seychelles,África,2018,0.097,0.005,alto
+Seychelles,África,2019,0.098,0.005,alto
+Sierra Leone,África,2011,6.563,0.15,bajo
+Sierra Leone,África,2012,6.713,0.116,bajo
+Sierra Leone,África,2013,6.864,0.105,bajo
+Sierra Leone,África,2014,7.017,0.123,bajo
+Sierra Leone,África,2015,7.172,0.129,bajo
+Sierra Leone,África,2016,7.329,0.131,bajo
+Sierra Leone,África,2017,7.488,0.14,bajo
+Sierra Leone,África,2018,7.65,0.18,bajo
+Sierra Leone,África,2019,7.813,0.19,bajo
+Singapore,Asia,2011,5.264,1.213,alto
+Singapore,Asia,2012,5.369,1.263,alto
+Singapore,Asia,2013,5.454,1.374,alto
+Singapore,Asia,2014,5.526,1.453,alto
+Singapore,Asia,2015,5.592,1.556,alto
+Singapore,Asia,2016,5.654,1.588,alto
+Singapore,Asia,2017,5.708,1.629,alto
+Singapore,Asia,2018,5.758,1.668,alto
+Singapore,Asia,2019,5.804,1.673,alto
+Slovakia,Europa,2011,5.409,20.41,alto
+Slovakia,Europa,2012,5.415,20.969,alto
+Slovakia,Europa,2013,5.422,22.073,alto
+Slovakia,Europa,2014,5.429,21.728,alto
+Slovakia,Europa,2015,5.436,21.186,alto
+Slovakia,Europa,2016,5.442,21.403,alto
+Slovakia,Europa,2017,5.448,21.613,alto
+Slovakia,Europa,2018,5.453,20.649,alto
+Slovakia,Europa,2019,5.457,22.576,alto
+Slovenia,Europa,2011,2.051,10.094,alto
+Slovenia,Europa,2012,2.058,9.857,alto
+Slovenia,Europa,2013,2.063,10.408,alto
+Slovenia,Europa,2014,2.067,12.977,alto
+Slovenia,Europa,2015,2.071,9.999,alto
+Slovenia,Europa,2016,2.074,10.77,alto
+Slovenia,Europa,2017,2.076,10.728,alto
+Slovenia,Europa,2018,2.078,11.007,alto
+Slovenia,Europa,2019,2.079,10.978,alto
+Solomon Islands,Oceanía,2011,0.542,0.004,bajo-medio
+Solomon Islands,Oceanía,2012,0.556,0.004,bajo-medio
+Solomon Islands,Oceanía,2013,0.571,0.004,bajo-medio
+Solomon Islands,Oceanía,2014,0.587,0.005,bajo-medio
+Solomon Islands,Oceanía,2015,0.603,0.006,bajo-medio
+Solomon Islands,Oceanía,2016,0.619,0.006,bajo-medio
+Solomon Islands,Oceanía,2017,0.636,0.007,bajo-medio
+Solomon Islands,Oceanía,2018,0.653,0.006,bajo-medio
+Solomon Islands,Oceanía,2019,0.67,0.005,bajo-medio
+Somalia,África,2011,12.376,0.0,bajo
+Somalia,África,2012,12.715,0.004,bajo
+Somalia,África,2013,13.064,0.004,bajo
+Somalia,África,2014,13.424,0.004,bajo
+Somalia,África,2015,13.797,0.005,bajo
+Somalia,África,2016,14.186,0.012,bajo
+Somalia,África,2017,14.589,0.017,bajo
+Somalia,África,2018,15.008,0.017,bajo
+Somalia,África,2019,15.443,0.017,bajo
+South Africa,África,2011,52.004,15.379,medio-alto
+South Africa,África,2012,52.833,14.012,medio-alto
+South Africa,África,2013,53.687,15.142,medio-alto
+South Africa,África,2014,54.544,18.142,medio-alto
+South Africa,África,2015,55.386,16.775,medio-alto
+South Africa,África,2016,56.208,22.964,medio-alto
+South Africa,África,2017,57.01,25.166,medio-alto
+South Africa,África,2018,57.793,22.808,medio-alto
+South Africa,África,2019,58.558,26.555,medio-alto
+South Korea,Asia,2011,49.786,156.015,alto
+South Korea,Asia,2012,50.061,151.482,alto
+South Korea,Asia,2013,50.346,142.26,alto
+South Korea,Asia,2014,50.608,159.201,alto
+South Korea,Asia,2015,50.823,169.275,alto
+South Korea,Asia,2016,50.983,171.829,alto
+South Korea,Asia,2017,51.096,162.184,alto
+South Korea,Asia,2018,51.172,152.751,alto
+South Korea,Asia,2019,51.225,170.018,alto
+South Sudan,África,2011,9.831,0.0,bajo
+South Sudan,África,2012,10.114,0.002,bajo
+South Sudan,África,2013,10.355,0.002,bajo
+South Sudan,África,2014,10.555,0.002,bajo
+South Sudan,África,2015,10.716,0.002,bajo
+South Sudan,África,2016,10.833,0.002,bajo
+South Sudan,África,2017,10.911,0.003,bajo
+South Sudan,África,2018,10.976,0.003,bajo
+South Sudan,África,2019,11.062,0.003,bajo
+Spain,Europa,2011,47.084,145.24,alto
+Spain,Europa,2012,47.063,148.432,alto
+Spain,Europa,2013,46.931,168.132,alto
+Spain,Europa,2014,46.778,167.573,alto
+Spain,Europa,2015,46.672,154.284,alto
+Spain,Europa,2016,46.634,163.266,alto
+Spain,Europa,2017,46.647,145.963,alto
+Spain,Europa,2018,46.693,159.651,alto
+Spain,Europa,2019,46.737,158.756,alto
+Sri Lanka,Asia,2011,20.398,4.714,bajo-medio
+Sri Lanka,Asia,2012,20.533,3.444,bajo-medio
+Sri Lanka,Asia,2013,20.663,7.13,bajo-medio
+Sri Lanka,Asia,2014,20.789,4.837,bajo-medio
+Sri Lanka,Asia,2015,20.908,6.33,bajo-medio
+Sri Lanka,Asia,2016,21.021,4.619,bajo-medio
+Sri Lanka,Asia,2017,21.128,4.554,bajo-medio
+Sri Lanka,Asia,2018,21.229,6.866,bajo-medio
+Sri Lanka,Asia,2019,21.324,7.314,bajo-medio
+Sudan,África,2011,35.35,6.527,bajo
+Sudan,África,2012,36.194,6.682,bajo
+Sudan,África,2013,37.073,8.381,bajo
+Sudan,África,2014,37.978,8.953,bajo
+Sudan,África,2015,38.903,8.46,bajo
+Sudan,África,2016,39.847,8.099,bajo
+Sudan,África,2017,40.813,9.391,bajo
+Sudan,África,2018,41.802,9.698,bajo
+Sudan,África,2019,42.813,10.109,bajo
+Suriname,Sudamérica,2011,0.535,1.031,medio-alto
+Suriname,Sudamérica,2012,0.541,0.825,medio-alto
+Suriname,Sudamérica,2013,0.547,0.83,medio-alto
+Suriname,Sudamérica,2014,0.553,0.562,medio-alto
+Suriname,Sudamérica,2015,0.559,0.483,medio-alto
+Suriname,Sudamérica,2016,0.565,0.791,medio-alto
+Suriname,Sudamérica,2017,0.571,0.932,medio-alto
+Suriname,Sudamérica,2018,0.576,1.006,medio-alto
+Suriname,Sudamérica,2019,0.581,1.181,medio-alto
+Sweden,Europa,2011,9.467,144.563,alto
+Sweden,Europa,2012,9.543,162.346,alto
+Sweden,Europa,2013,9.618,149.145,alto
+Sweden,Europa,2014,9.692,150.618,alto
+Sweden,Europa,2015,9.765,158.844,alto
+Sweden,Europa,2016,9.836,152.228,alto
+Sweden,Europa,2017,9.905,160.754,alto
+Sweden,Europa,2018,9.972,159.702,alto
+Sweden,Europa,2019,10.036,166.944,alto
+Switzerland,Europa,2011,7.907,60.531,alto
+Switzerland,Europa,2012,8.008,65.792,alto
+Switzerland,Europa,2013,8.109,66.407,alto
+Switzerland,Europa,2014,8.206,68.075,alto
+Switzerland,Europa,2015,8.297,64.082,alto
+Switzerland,Europa,2016,8.38,59.019,alto
+Switzerland,Europa,2017,8.456,58.267,alto
+Switzerland,Europa,2018,8.526,64.281,alto
+Switzerland,Europa,2019,8.591,68.59,alto
+Syria,Asia,2011,21.082,3.283,bajo
+Syria,Asia,2012,20.439,3.238,bajo
+Syria,Asia,2013,19.578,3.003,bajo
+Syria,Asia,2014,18.711,2.35,bajo
+Syria,Asia,2015,17.997,0.442,bajo
+Syria,Asia,2016,17.466,0.953,bajo
+Syria,Asia,2017,17.096,0.779,bajo
+Syria,Asia,2018,16.945,0.779,bajo
+Syria,Asia,2019,17.07,0.892,bajo
+Taiwan,Asia,2011,23.269,49.525,alto
+Taiwan,Asia,2012,23.347,49.448,alto
+Taiwan,Asia,2013,23.422,50.949,alto
+Taiwan,Asia,2014,23.492,50.854,alto
+Taiwan,Asia,2015,23.557,45.804,alto
+Taiwan,Asia,2016,23.618,43.214,alto
+Taiwan,Asia,2017,23.675,33.949,alto
+Taiwan,Asia,2018,23.726,39.312,alto
+Taiwan,Asia,2019,23.774,46.502,alto
+Tajikistan,Asia,2011,7.698,16.038,bajo-medio
+Tajikistan,Asia,2012,7.875,16.731,bajo-medio
+Tajikistan,Asia,2013,8.06,16.9,bajo-medio
+Tajikistan,Asia,2014,8.253,15.84,bajo-medio
+Tajikistan,Asia,2015,8.454,16.83,bajo-medio
+Tajikistan,Asia,2016,8.664,16.466,bajo-medio
+Tajikistan,Asia,2017,8.88,16.962,bajo-medio
+Tajikistan,Asia,2018,9.101,18.21,bajo-medio
+Tajikistan,Asia,2019,9.321,18.977,bajo-medio
+Tanzania,África,2011,45.674,2.05,bajo-medio
+Tanzania,África,2012,47.053,1.82,bajo-medio
+Tanzania,África,2013,48.483,1.783,bajo-medio
+Tanzania,África,2014,49.961,2.643,bajo-medio
+Tanzania,África,2015,51.483,2.166,bajo-medio
+Tanzania,África,2016,53.049,2.444,bajo-medio
+Tanzania,África,2017,54.66,2.438,bajo-medio
+Tanzania,África,2018,56.313,2.372,bajo-medio
+Tanzania,África,2019,58.005,2.416,bajo-medio
+Thailand,Asia,2011,67.518,12.473,medio-alto
+Thailand,Asia,2012,67.836,13.706,medio-alto
+Thailand,Asia,2013,68.145,13.781,medio-alto
+Thailand,Asia,2014,68.439,14.344,medio-alto
+Thailand,Asia,2015,68.715,13.871,medio-alto
+Thailand,Asia,2016,68.971,25.272,medio-alto
+Thailand,Asia,2017,69.21,25.743,medio-alto
+Thailand,Asia,2018,69.428,29.996,medio-alto
+Thailand,Asia,2019,69.626,33.893,medio-alto
+Togo,África,2011,6.596,0.111,bajo
+Togo,África,2012,6.774,0.094,bajo
+Togo,África,2013,6.955,0.04,bajo
+Togo,África,2014,7.138,0.12,bajo
+Togo,África,2015,7.323,0.059,bajo
+Togo,África,2016,7.51,0.207,bajo
+Togo,África,2017,7.698,0.105,bajo
+Togo,África,2018,7.889,0.007,bajo
+Togo,África,2019,8.082,0.003,bajo
+Tonga,Oceanía,2011,0.104,0.0,medio-alto
+Tonga,Oceanía,2012,0.103,0.0,medio-alto
+Tonga,Oceanía,2013,0.102,0.0,medio-alto
+Tonga,Oceanía,2014,0.101,0.0,medio-alto
+Tonga,Oceanía,2015,0.101,0.0,medio-alto
+Tonga,Oceanía,2016,0.101,0.0,medio-alto
+Tonga,Oceanía,2017,0.102,0.0,medio-alto
+Tonga,Oceanía,2018,0.103,0.0,medio-alto
+Tonga,Oceanía,2019,0.104,0.0,medio-alto
+Trinidad and Tobago,Sudamérica,2011,1.336,0.004,alto
+Trinidad and Tobago,Sudamérica,2012,1.345,0.004,alto
+Trinidad and Tobago,Sudamérica,2013,1.354,0.004,alto
+Trinidad and Tobago,Sudamérica,2014,1.362,0.004,alto
+Trinidad and Tobago,Sudamérica,2015,1.37,0.005,alto
+Trinidad and Tobago,Sudamérica,2016,1.378,0.005,alto
+Trinidad and Tobago,Sudamérica,2017,1.384,0.005,alto
+Trinidad and Tobago,Sudamérica,2018,1.39,0.005,alto
+Trinidad and Tobago,Sudamérica,2019,1.395,0.005,alto
+Tunisia,África,2011,10.742,0.166,bajo-medio
+Tunisia,África,2012,10.847,0.31,bajo-medio
+Tunisia,África,2013,10.953,0.433,bajo-medio
+Tunisia,África,2014,11.063,0.599,bajo-medio
+Tunisia,África,2015,11.18,0.583,bajo-medio
+Tunisia,África,2016,11.304,0.628,bajo-medio
+Tunisia,África,2017,11.433,0.599,bajo-medio
+Tunisia,África,2018,11.565,0.644,bajo-medio
+Tunisia,África,2019,11.695,0.739,bajo-medio
+Turkey,Asia,2011,73.443,56.927,medio-alto
+Turkey,Asia,2012,74.651,63.993,medio-alto
+Turkey,Asia,2013,75.925,68.087,medio-alto
+Turkey,Asia,2014,77.229,51.707,medio-alto
+Turkey,Asia,2015,78.529,82.293,medio-alto
+Turkey,Asia,2016,79.828,89.43,medio-alto
+Turkey,Asia,2017,81.116,86.471,medio-alto
+Turkey,Asia,2018,82.34,96.69,medio-alto
+Turkey,Asia,2019,83.43,130.206,medio-alto
+Turkmenistan,Asia,2011,5.174,0.003,medio-alto
+Turkmenistan,Asia,2012,5.268,0.003,medio-alto
+Turkmenistan,Asia,2013,5.366,0.003,medio-alto
+Turkmenistan,Asia,2014,5.466,0.003,medio-alto
+Turkmenistan,Asia,2015,5.565,0.003,medio-alto
+Turkmenistan,Asia,2016,5.662,0.003,medio-alto
+Turkmenistan,Asia,2017,5.758,0.003,medio-alto
+Turkmenistan,Asia,2018,5.851,0.003,medio-alto
+Turkmenistan,Asia,2019,5.942,0.0,medio-alto
+Turks and Caicos Islands,Norteamérica,2011,0.033,0.0,alto
+Turks and Caicos Islands,Norteamérica,2012,0.034,0.0,alto
+Turks and Caicos Islands,Norteamérica,2013,0.035,0.0,alto
+Turks and Caicos Islands,Norteamérica,2014,0.035,0.0,alto
+Turks and Caicos Islands,Norteamérica,2015,0.036,0.0,alto
+Turks and Caicos Islands,Norteamérica,2016,0.037,0.0,alto
+Turks and Caicos Islands,Norteamérica,2017,0.037,0.0,alto
+Turks and Caicos Islands,Norteamérica,2018,0.038,0.0,alto
+Turks and Caicos Islands,Norteamérica,2019,0.038,0.0,alto
+Uganda,África,2011,33.477,1.772,bajo
+Uganda,África,2012,34.559,1.844,bajo
+Uganda,África,2013,35.695,2.78,bajo
+Uganda,África,2014,36.912,3.042,bajo
+Uganda,África,2015,38.225,2.935,bajo
+Uganda,África,2016,39.649,3.816,bajo
+Uganda,África,2017,41.167,3.972,bajo
+Uganda,África,2018,42.729,4.179,bajo
+Uganda,África,2019,44.27,4.58,bajo
+Ukraine,Europa,2011,45.62,95.985,bajo-medio
+Ukraine,Europa,2012,45.454,96.012,bajo-medio
+Ukraine,Europa,2013,45.287,92.974,bajo-medio
+Ukraine,Europa,2014,45.112,93.206,bajo-medio
+Ukraine,Europa,2015,44.922,89.453,bajo-medio
+Ukraine,Europa,2016,44.714,85.253,bajo-medio
+Ukraine,Europa,2017,44.488,91.195,bajo-medio
+Ukraine,Europa,2018,44.246,93.099,bajo-medio
+Ukraine,Europa,2019,43.994,88.576,bajo-medio
+United Arab Emirates,Asia,2011,8.947,0.034,alto
+United Arab Emirates,Asia,2012,9.142,0.035,alto
+United Arab Emirates,Asia,2013,9.198,0.101,alto
+United Arab Emirates,Asia,2014,9.214,0.309,alto
+United Arab Emirates,Asia,2015,9.263,0.304,alto
+United Arab Emirates,Asia,2016,9.361,0.316,alto
+United Arab Emirates,Asia,2017,9.487,0.741,alto
+United Arab Emirates,Asia,2018,9.631,1.31,alto
+United Arab Emirates,Asia,2019,9.771,4.177,alto
+United Kingdom,Europa,2011,64.022,104.193,alto
+United Kingdom,Europa,2012,64.525,111.654,alto
+United Kingdom,Europa,2013,64.984,123.821,alto
+United Kingdom,Europa,2014,65.423,128.271,alto
+United Kingdom,Europa,2015,65.86,152.921,alto
+United Kingdom,Europa,2016,66.298,153.334,alto
+United Kingdom,Europa,2017,66.727,167.375,alto
+United Kingdom,Europa,2018,67.142,173.194,alto
+United Kingdom,Europa,2019,67.53,174.509,alto
+United States,Norteamérica,2011,311.584,1297.12,alto
+United States,Norteamérica,2012,314.044,1258.954,alto
+United States,Norteamérica,2013,316.400992,1306.409,alto
+United States,Norteamérica,2014,318.672992,1340.804,alto
+United States,Norteamérica,2015,320.878016,1350.467,alto
+United States,Norteamérica,2016,323.016,1427.265,alto
+United States,Norteamérica,2017,325.084992,1509.056,alto
+United States,Norteamérica,2018,327.096,1537.587,alto
+United States,Norteamérica,2019,329.064992,1566.802,alto
+United States Virgin Islands,Norteamérica,2011,0.106,0.001,alto
+United States Virgin Islands,Norteamérica,2012,0.106,0.001,alto
+United States Virgin Islands,Norteamérica,2013,0.105,0.001,alto
+United States Virgin Islands,Norteamérica,2014,0.105,0.007,alto
+United States Virgin Islands,Norteamérica,2015,0.105,0.013,alto
+United States Virgin Islands,Norteamérica,2016,0.105,0.013,alto
+United States Virgin Islands,Norteamérica,2017,0.105,0.007,alto
+United States Virgin Islands,Norteamérica,2018,0.105,0.007,alto
+United States Virgin Islands,Norteamérica,2019,0.105,0.007,alto
+Uruguay,Sudamérica,2011,3.369,7.655,alto
+Uruguay,Sudamérica,2012,3.379,6.798,alto
+Uruguay,Sudamérica,2013,3.389,9.728,alto
+Uruguay,Sudamérica,2014,3.4,12.213,alto
+Uruguay,Sudamérica,2015,3.412,12.704,alto
+Uruguay,Sudamérica,2016,3.424,13.362,alto
+Uruguay,Sudamérica,2017,3.437,14.054,alto
+Uruguay,Sudamérica,2018,3.449,14.193,alto
+Uruguay,Sudamérica,2019,3.462,15.718,alto
+Uzbekistan,Asia,2011,28.977,5.646,bajo-medio
+Uzbekistan,Asia,2012,29.449,6.586,bajo-medio
+Uzbekistan,Asia,2013,29.933,5.649,bajo-medio
+Uzbekistan,Asia,2014,30.426,6.016,bajo-medio
+Uzbekistan,Asia,2015,30.93,7.0,bajo-medio
+Uzbekistan,Asia,2016,31.442,7.259,bajo-medio
+Uzbekistan,Asia,2017,31.96,8.349,bajo-medio
+Uzbekistan,Asia,2018,32.476,5.845,bajo-medio
+Uzbekistan,Asia,2019,32.982,5.458,bajo-medio
+Vanuatu,Oceanía,2011,0.243,0.005,bajo-medio
+Vanuatu,Oceanía,2012,0.25,0.008,bajo-medio
+Vanuatu,Oceanía,2013,0.257,0.009,bajo-medio
+Vanuatu,Oceanía,2014,0.264,0.01,bajo-medio
+Vanuatu,Oceanía,2015,0.271,0.013,bajo-medio
+Vanuatu,Oceanía,2016,0.278,0.01,bajo-medio
+Vanuatu,Oceanía,2017,0.285,0.009,bajo-medio
+Vanuatu,Oceanía,2018,0.293,0.01,bajo-medio
+Vanuatu,Oceanía,2019,0.3,0.01,bajo-medio
+Venezuela,Sudamérica,2011,28.888,82.835,medio-alto
+Venezuela,Sudamérica,2012,29.361,81.222,medio-alto
+Venezuela,Sudamérica,2013,29.781,82.785,medio-alto
+Venezuela,Sudamérica,2014,30.043,63.721,medio-alto
+Venezuela,Sudamérica,2015,30.082,74.228,medio-alto
+Venezuela,Sudamérica,2016,29.851,62.407,medio-alto
+Venezuela,Sudamérica,2017,29.402,59.98,medio-alto
+Venezuela,Sudamérica,2018,28.887,57.646,medio-alto
+Venezuela,Sudamérica,2019,28.516,52.118,medio-alto
+Vietnam,Asia,2011,88.871,40.664,bajo-medio
+Vietnam,Asia,2012,89.802,52.417,bajo-medio
+Vietnam,Asia,2013,90.753,51.586,bajo-medio
+Vietnam,Asia,2014,91.714,59.396,bajo-medio
+Vietnam,Asia,2015,92.677,56.803,bajo-medio
+Vietnam,Asia,2016,93.64,65.358,bajo-medio
+Vietnam,Asia,2017,94.601,88.5,bajo-medio
+Vietnam,Asia,2018,95.546,83.93,bajo-medio
+Vietnam,Asia,2019,96.462,74.189,bajo-medio
+Yemen,Asia,2011,23.808,0.002,bajo
+Yemen,Asia,2012,24.473,0.003,bajo
+Yemen,Asia,2013,25.147,0.004,bajo
+Yemen,Asia,2014,25.823,0.009,bajo
+Yemen,Asia,2015,26.498,0.11,bajo
+Yemen,Asia,2016,27.168,0.147,bajo
+Yemen,Asia,2017,27.835,0.183,bajo
+Yemen,Asia,2018,28.499,0.458,bajo
+Yemen,Asia,2019,29.162,0.5,bajo
+Zambia,África,2011,14.023,11.433,bajo-medio
+Zambia,África,2012,14.465,12.294,bajo-medio
+Zambia,África,2013,14.927,13.214,bajo-medio
+Zambia,África,2014,15.4,13.973,bajo-medio
+Zambia,África,2015,15.879,12.98,bajo-medio
+Zambia,África,2016,16.363,10.991,bajo-medio
+Zambia,África,2017,16.854,12.444,bajo-medio
+Zambia,África,2018,17.352,13.635,bajo-medio
+Zambia,África,2019,17.861,13.853,bajo-medio
+Zimbabwe,África,2011,12.894,5.28,bajo-medio
+Zimbabwe,África,2012,13.115,5.506,bajo-medio
+Zimbabwe,África,2013,13.35,5.115,bajo-medio
+Zimbabwe,África,2014,13.587,5.526,bajo-medio
+Zimbabwe,África,2015,13.815,5.076,bajo-medio
+Zimbabwe,África,2016,14.03,3.111,bajo-medio
+Zimbabwe,África,2017,14.237,4.091,bajo-medio
+Zimbabwe,África,2018,14.439,5.201,bajo-medio
+Zimbabwe,África,2019,14.645,5.241,bajo-medio
