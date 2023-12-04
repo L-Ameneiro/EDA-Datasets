@@ -31,10 +31,26 @@ Por otra parte, se describirán las características de los países que influyen
 
 1. EDA.ipynb: Analisis exploratorio de los datos --> Limpieza de datos nulos. Seleccion de variables de interes. Creacion de datasets para los modelos supervisado y no supervisado.
 
-2. notebooks/clustering_perfil_energetico.ipynb  --> Estudio de la dependencia de fuentes fósiles usando un algoritmo de clustering DBSCAN. 
+2. clustering_perfil_energetico.ipynb  --> Estudio de la dependencia de fuentes fósiles usando un algoritmo de clustering DBSCAN. 
 
 3. produccion_low_carbon.ipynb--> Caracterizar de las features que influyen en la producción de electricidad low-carbon per cápita de los países.
 
+
+
+**Datos fuente**
+
+- World_Energy_Consumption.csv
+Dataset sobre energia mantenido por la organizacion [Our World in Data](https://ourworldindata.org/). Contiene cientos de metricas relevantes sobre consumo y produccion energetica por anio para cada pais del mundo. Algunas columnas contienen gran proporcion de datos nulos.  
+Descargado de https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption/data.
+Fuente actualizada: https://github.com/owid/energy-data
+
+- Nivel de ingresos de acuerdo al Banco Mundial de cuardo al año 2023 (mapeo en notebook EDA)
+
+
+**Datos procesados**
+- wec_ns.csv
+Contiene datos de porcentaje de consumo electrico proveniente de distintas fuentes (medias de los anios 2010-2020 para cada pais del mundo).
+Generado a partir de World_Energy_Consumption.csv en notebook de limpieza y procesamiento. 
 
 ## Glosario
 
@@ -53,45 +69,37 @@ Por otra parte, se describirán las características de los países que influyen
 
 De todas las variables numericas se calculo la media por pais desde el anio 2010.
 
-**Datos fuente**
-
-- World_Energy_Consumption.csv
-Dataset sobre energia mantenido por la organizacion [Our World in Data](https://ourworldindata.org/). Contiene cientos de metricas relevantes sobre consumo y produccion energetica por anio para cada pais del mundo. Algunas columnas contienen gran proporcion de datos nulos.  
-Descargado de https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption/data.
-https://github.com/owid/energy-data
-
-- Nivel de ingresos de cauerdo al Banco Mundial de cuardo al año 2024. 
-### de que año es? página web?
-
-consumption-co2-per-capita-vs-gdppc.csv
-
-**Datos procesados**
-- wec_ns.csv
-Contiene datos de porcentaje de consumo electrico proveniente de distintas fuentes (medias de los anios 2010-2020 para cada pais del mundo).
-Generado a partir de World_Energy_Consumption.csv en notebook de limpieza y procesamiento. 
-
 ## Resultados
 
+**Clustering por perfiles energéticos**
 Los países del mundo poseen gran diversidad de perfiles energéticos. En referencia a sudamérica, se encuentran países agrupados en los 5 clusters arrojados por el modelo. En un extremo, se ubican los países como Paraguay y Uruguay; que muestran gran independencia de los combustibles fósiles para electricidad. En el otro, países como Trinidad y Tobago y Granada que muestran total dependencia de los combustibles fósiles. <br>
 La producción de electricidad low-carbon per capita(teravatios-hora/habitante), mantiene una relación inversamente proporcional con la población de cada país. <br>
-El orden de importancia de las características selecionadas se distribuye en primer lugar población, nivel de ingreso, continente, año y finalmente cluster.
+**Variables que determinan producción de energías low-carbon**
+Las variables con mayor impacto en la producción de energía low_carbon de un país son su población y su nivel de ingresos, con menores aportes del contienente y casi sin aporte del año.
 
 
 ## Instrucciones
 
 Todo el proyecto fue desarrollado en Python notebooks (ipynb). Version de Python  3.11.5. <br>
-Para correr debe tenerse instalado Python 3.11.5.
+Cada notebook incluye las instrucciones para importar las librerías necesarias. 
 
 ## Librerias utilizadas
 
+Todas las notebooks:
 - `pandas` <br>
 - `numpy` <br>
 - `plotly.express` <br>
 - `matplotlib.pyplot` <br>
-- Clustering DBSCAN** <br>
+
+**Clustering DBSCAN** <br>
 - `sklearn.cluster`<br>
 - `sklearn.metrics`<br>
 
+**Regresión**
+- `sklearn.linear_model`<br>
+- `sklearn.ensemble`<br>
+- `sklearn.svm`<br>
+- `sklearn.model_selection`<br>
 
 
 ## Licencia
